@@ -1,0 +1,1506 @@
+order_id,order_date,customer_id,customer_name,city,state,product,category,quantity,unit_price,discount,payment_method,order_status,rating
+1001,2025-11-04,C190,Meera,Bangalore,Karnataka,Mixer Grinder,Home Appliances,5,4668.72,15.0,UPI,Completed,5.0
+1002,2025-05-31,C228,Aman,Kolkata,West Bengal,Smartphone,Electronics,1,28945.59,5.0,Cash on Delivery,Returned,2.0
+1003,2025-03-01,C199,Kavya,Kolkata,West Bengal,T-Shirt,Fashion,5,870.75,0.0,UPI,Completed,1.0
+1004,2025-08-21,C148,Nikhil,Delhi,Delhi,Mouse,Electronics,4,830.61,0.0,Cash on Delivery,Completed,5.0
+1005,2025-04-26,C231,Varun,Mumbai,Maharashtra,Bookshelf,Furniture,1,5942.7,20.0,Cash on Delivery,Completed,5.0
+1006,2025-04-09,C264,Pooja,Pune,Maharashtra,Bookshelf,Furniture,1,6063.86,20.0,UPI,Cancelled,2.0
+1007,2025-06-18,C228,Aman,Chennai,Tamil Nadu,Smartphone,Electronics,5,28537.31,10.0,Net Banking,Completed,4.0
+1008,2025-07-14,C133,Vikram,Delhi,Delhi,Keyboard,Electronics,5,1479.97,15.0,UPI,Completed,5.0
+1009,2025-02-07,C287,Riya,Bangalore,Karnataka,Office Chair,Furniture,3,8300.42,10.0,Card,Cancelled,3.0
+1010,2025-04-07,C282,Sneha,Ahmedabad,Gujarat,Running Shoes,Fashion,2,3477.04,10.0,Net Banking,Completed,4.0
+1011,2025-01-17,C161,Sneha,Bangalore,Karnataka,Keyboard,Electronics,1,1428.65,20.0,Net Banking,Completed,5.0
+1012,2025-10-07,C146,Arjun,Delhi,Delhi,Office Chair,Furniture,1,8389.63,10.0,UPI,Completed,5.0
+1013,2025-06-10,C281,Ananya,Bangalore,Karnataka,T-Shirt,Fashion,4,931.77,10.0,Net Banking,Completed,5.0
+1014,2025-12-26,C118,Pooja,Jaipur,Rajasthan,Watch,Accessories,1,4696.27,5.0,Card,Completed,5.0
+1015,2025-09-30,C275,Kiran,Pune,Maharashtra,Study Table,Furniture,1,6748.06,0.0,Net Banking,Completed,1.0
+1016,2025-12-21,C143,Pooja,Pune,Maharashtra,Study Table,Furniture,4,6855.51,0.0,Card,Completed,5.0
+1017,2025-11-17,C113,Priya,Kochi,Kerala,Study Table,Furniture,2,7001.06,5.0,Net Banking,Returned,5.0
+1018,2025-10-15,C242,Vikram,Bangalore,Karnataka,Study Table,Furniture,1,6669.33,0.0,Cash on Delivery,Returned,3.0
+1019,2025-02-27,C253,Kiran,Kochi,Kerala,Mixer Grinder,Home Appliances,3,5031.28,0.0,Card,Completed,4.0
+1020,2025-09-21,C270,Nikhil,Pune,Maharashtra,Mixer Grinder,Home Appliances,2,4732.89,10.0,UPI,Completed,4.0
+1021,2025-12-16,C208,Aman,Delhi,Delhi,Study Table,Furniture,2,6709.74,20.0,Cash on Delivery,Completed,5.0
+1022,2025-05-27,C268,Nikhil,Mumbai,Maharashtra,Jeans,Fashion,1,2303.3,10.0,UPI,Completed,4.0
+1023,2025-10-06,C158,Pooja,Kolkata,West Bengal,Watch,Accessories,2,4286.41,10.0,Cash on Delivery,Completed,4.0
+1024,2025-05-06,C229,Aditya,Kochi,Kerala,Watch,Accessories,1,4345.4,20.0,Card,Completed,5.0
+1025,2025-10-05,C217,Aman,Hyderabad,Telangana,Jeans,Fashion,4,2252.34,10.0,UPI,Completed,4.0
+1026,2025-08-08,C254,Rahul,Bangalore,Karnataka,Mouse,Electronics,2,769.61,10.0,UPI,Completed,5.0
+1027,2025-12-07,C290,Aditya,Mumbai,Maharashtra,Mouse,Electronics,1,797.93,0.0,Cash on Delivery,Completed,1.0
+1028,2025-10-17,C201,Arjun,Kolkata,West Bengal,Watch,Accessories,2,4552.13,5.0,Net Banking,Completed,2.0
+1029,2025-01-16,C247,Rohit,Kochi,Kerala,Laptop,Electronics,2,55216.58,5.0,Net Banking,Completed,1.0
+1030,2025-02-02,C228,Aman,Mumbai,Maharashtra,Bookshelf,Furniture,1,6106.3,5.0,UPI,Cancelled,3.0
+1031,2025-11-26,C271,Nikhil,Delhi,Delhi,T-Shirt,Fashion,1,889.75,20.0,Cash on Delivery,Completed,4.0
+1032,2025-12-03,C241,Aditya,Chennai,Tamil Nadu,Jeans,Fashion,1,2110.78,15.0,Card,Cancelled,2.0
+1033,2025-04-24,C190,Meera,Chennai,Tamil Nadu,Headphones,Electronics,2,2445.46,0.0,UPI,Completed,4.0
+1034,2025-12-23,C220,Sanjay,Mumbai,Maharashtra,Backpack,Accessories,1,1854.63,5.0,UPI,Completed,1.0
+1035,2025-05-31,C199,Kavya,Mumbai,Maharashtra,Smartphone,Electronics,5,27300.05,20.0,Card,Cancelled,4.0
+1036,2025-10-13,C213,Divya,Kolkata,West Bengal,Jeans,Fashion,1,2252.78,0.0,UPI,Completed,5.0
+1037,2025-04-10,C184,Nikhil,Jaipur,Rajasthan,Office Chair,Furniture,1,8327.99,0.0,Net Banking,Cancelled,1.0
+1038,2025-02-21,C247,Rohit,Jaipur,Rajasthan,Study Table,Furniture,4,7319.76,20.0,Cash on Delivery,Completed,5.0
+1039,2025-02-22,C244,Rahul,Delhi,Delhi,Mouse,Electronics,1,783.46,5.0,Cash on Delivery,Completed,5.0
+1040,2025-05-02,C209,Divya,Delhi,Delhi,Watch,Accessories,3,4713.41,15.0,UPI,Completed,5.0
+1041,2025-09-10,C175,Varun,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,1,4628.64,0.0,Card,Returned,4.0
+1042,2025-01-05,C268,Nikhil,Kochi,Kerala,Backpack,Accessories,1,1857.93,0.0,UPI,Cancelled,5.0
+1043,2025-11-23,C183,Sanjay,Ahmedabad,Gujarat,Jeans,Fashion,2,2171.54,0.0,UPI,Cancelled,4.0
+1044,2025-07-01,C136,Divya,Pune,Maharashtra,T-Shirt,Fashion,2,862.52,5.0,Cash on Delivery,Completed,2.0
+1045,2025-08-30,C190,Meera,Bangalore,Karnataka,Study Table,Furniture,2,6954.12,10.0,Net Banking,Returned,2.0
+1046,2025-12-14,C248,Arjun,Ahmedabad,Gujarat,Jeans,Fashion,4,2271.01,0.0,Card,Completed,5.0
+1047,2025-02-27,C213,Divya,Jaipur,Rajasthan,Bookshelf,Furniture,2,6017.02,10.0,Net Banking,Cancelled,5.0
+1048,2025-06-13,C273,Priya,Delhi,Delhi,Office Chair,Furniture,2,8860.95,10.0,Cash on Delivery,Completed,4.0
+1049,2025-01-01,C285,Ananya,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,3,4862.11,15.0,UPI,Returned,5.0
+1050,2025-09-29,C103,Aman,Kolkata,West Bengal,Backpack,Accessories,1,1874.75,20.0,Net Banking,Returned,4.0
+1051,2025-05-16,C252,Rohit,Delhi,Delhi,Bookshelf,Furniture,2,5801.81,0.0,Card,Completed,2.0
+1052,2025-05-25,C128,Arjun,Delhi,Delhi,Backpack,Accessories,1,1756.79,10.0,UPI,Completed,4.0
+1053,2025-07-16,C257,Pooja,Bangalore,Karnataka,Jeans,Fashion,1,2296.92,20.0,Cash on Delivery,Completed,2.0
+1054,2025-04-29,C110,Sneha,Ahmedabad,Gujarat,Coffee Maker,Home Appliances,2,6737.94,10.0,Net Banking,Completed,5.0
+1055,2025-03-04,C165,Neha,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,2,4632.2,0.0,UPI,Returned,3.0
+1056,2025-11-07,C127,Riya,Hyderabad,Telangana,Jeans,Fashion,1,2103.97,5.0,Card,Completed,1.0
+1057,2025-02-22,C297,Arjun,Delhi,Delhi,Office Chair,Furniture,4,8851.19,10.0,UPI,Completed,2.0
+1058,2025-02-20,C183,Sanjay,Hyderabad,Telangana,Mouse,Electronics,3,796.04,0.0,UPI,Cancelled,4.0
+1059,2025-04-05,C290,Aditya,Hyderabad,Telangana,Laptop,Electronics,1,56413.5,5.0,Net Banking,Completed,2.0
+1060,2025-02-23,C262,Nikhil,Pune,Maharashtra,Office Chair,Furniture,1,8781.67,5.0,Net Banking,Cancelled,5.0
+1061,2025-12-07,C157,Ishita,Hyderabad,Telangana,Mixer Grinder,Home Appliances,4,4573.82,10.0,Card,Completed,3.0
+1062,2025-11-02,C279,Priya,Kolkata,West Bengal,Office Chair,Furniture,1,8599.67,10.0,Card,Completed,5.0
+1063,2025-12-01,C179,Rahul,Bangalore,Karnataka,Mixer Grinder,Home Appliances,1,4908.67,10.0,Net Banking,Returned,5.0
+1064,2025-07-03,C206,Arjun,Bangalore,Karnataka,Laptop,Electronics,2,57472.36,0.0,UPI,Completed,1.0
+1065,2025-07-24,C184,Nikhil,Ahmedabad,Gujarat,Mouse,Electronics,2,838.4,0.0,Card,Completed,3.0
+1066,2025-01-08,C215,Rohit,Jaipur,Rajasthan,Study Table,Furniture,4,6739.63,5.0,Net Banking,Completed,5.0
+1067,2025-03-02,C125,Sanjay,Bangalore,Karnataka,Headphones,Electronics,5,2503.81,0.0,Card,Completed,3.0
+1068,2025-11-22,C121,Meera,Delhi,Delhi,Smartphone,Electronics,2,27380.05,10.0,UPI,Cancelled,1.0
+1069,2025-10-28,C112,Arjun,Kochi,Kerala,Coffee Maker,Home Appliances,3,6411.78,0.0,Cash on Delivery,Completed,2.0
+1070,2025-11-15,C147,Divya,Jaipur,Rajasthan,Office Chair,Furniture,3,8144.5,5.0,Net Banking,Cancelled,1.0
+1071,2025-06-29,C126,Pooja,Mumbai,Maharashtra,Laptop,Electronics,1,52714.84,10.0,Cash on Delivery,Returned,5.0
+1072,2025-01-14,C128,Arjun,Kolkata,West Bengal,Coffee Maker,Home Appliances,2,6475.65,0.0,Cash on Delivery,Completed,5.0
+1073,2025-10-01,C103,Aman,Kolkata,West Bengal,Coffee Maker,Home Appliances,2,6662.25,10.0,Card,Returned,3.0
+1074,2025-09-30,C215,Rohit,Jaipur,Rajasthan,Study Table,Furniture,1,6914.1,15.0,Cash on Delivery,Returned,2.0
+1075,2025-03-08,C226,Vikram,Jaipur,Rajasthan,Laptop,Electronics,1,54136.1,5.0,UPI,Cancelled,2.0
+1076,2025-08-24,C211,Rahul,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,4,4913.67,20.0,Cash on Delivery,Completed,1.0
+1077,2025-11-11,C201,Arjun,Pune,Maharashtra,Keyboard,Electronics,1,1521.89,5.0,UPI,Returned,4.0
+1078,2025-04-22,C221,Vikram,Hyderabad,Telangana,Mouse,Electronics,3,768.14,10.0,Net Banking,Returned,3.0
+1079,2025-01-31,C290,Aditya,Ahmedabad,Gujarat,Study Table,Furniture,1,7239.62,5.0,Net Banking,Cancelled,4.0
+1080,2025-12-01,C252,Rohit,Pune,Maharashtra,Smartphone,Electronics,1,28212.8,5.0,Card,Returned,1.0
+1081,2025-12-01,C194,Rohit,Ahmedabad,Gujarat,Office Chair,Furniture,1,8643.35,0.0,Cash on Delivery,Completed,3.0
+1082,2025-07-31,C273,Priya,Delhi,Delhi,Office Chair,Furniture,2,8897.79,5.0,UPI,Completed,1.0
+1083,2025-05-19,C240,Riya,Hyderabad,Telangana,Watch,Accessories,3,4620.5,10.0,Cash on Delivery,Completed,4.0
+1084,2025-05-18,C103,Aman,Hyderabad,Telangana,Office Chair,Furniture,1,8361.11,10.0,Net Banking,Completed,4.0
+1085,2025-09-30,C268,Nikhil,Chennai,Tamil Nadu,Keyboard,Electronics,2,1463.2,0.0,UPI,Completed,5.0
+1086,2025-03-10,C252,Rohit,Pune,Maharashtra,Study Table,Furniture,4,7206.0,0.0,Card,Completed,4.0
+1087,2025-02-04,C278,Sanjay,Delhi,Delhi,Bookshelf,Furniture,1,6294.56,5.0,UPI,Returned,4.0
+1088,2025-10-13,C164,Aman,Ahmedabad,Gujarat,Running Shoes,Fashion,3,3603.34,5.0,Cash on Delivery,Cancelled,4.0
+1089,2025-03-30,C105,Neha,Bangalore,Karnataka,Running Shoes,Fashion,3,3546.82,5.0,UPI,Completed,1.0
+1090,2025-06-28,C246,Varun,Ahmedabad,Gujarat,Bookshelf,Furniture,3,5963.48,20.0,UPI,Returned,1.0
+1091,2025-11-05,C123,Aman,Hyderabad,Telangana,Backpack,Accessories,4,1773.97,15.0,Net Banking,Completed,5.0
+1092,2025-02-11,C279,Priya,Pune,Maharashtra,Office Chair,Furniture,1,8357.89,20.0,Net Banking,Completed,5.0
+1093,2025-06-06,C211,Rahul,Hyderabad,Telangana,Keyboard,Electronics,1,1536.22,5.0,Card,Completed,1.0
+1094,2025-01-10,C255,Sanjay,Kolkata,West Bengal,Laptop,Electronics,3,52434.43,0.0,UPI,Completed,2.0
+1095,2025-12-31,C197,Priya,Pune,Maharashtra,Office Chair,Furniture,4,8531.01,5.0,Net Banking,Completed,5.0
+1096,2025-06-22,C115,Ananya,Ahmedabad,Gujarat,Mouse,Electronics,2,798.91,5.0,Card,Completed,5.0
+1097,2025-03-10,C215,Rohit,Bangalore,Karnataka,Keyboard,Electronics,1,1506.41,5.0,Net Banking,Completed,5.0
+1098,2025-12-12,C174,Aman,Ahmedabad,Gujarat,Office Chair,Furniture,4,8268.25,15.0,Card,Completed,4.0
+1099,2025-04-14,C241,Aditya,Ahmedabad,Gujarat,Coffee Maker,Home Appliances,1,6240.52,15.0,Net Banking,Completed,4.0
+1100,2025-04-16,C200,Kiran,Mumbai,Maharashtra,Mouse,Electronics,5,833.8,15.0,UPI,Completed,5.0
+1101,2025-10-24,C222,Nikhil,Jaipur,Rajasthan,Office Chair,Furniture,3,8140.72,20.0,Card,Completed,5.0
+1102,2025-11-09,C101,Vikram,Delhi,Delhi,Mouse,Electronics,2,773.24,10.0,UPI,Returned,5.0
+1103,2025-05-17,C215,Rohit,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,1,4751.52,10.0,Card,Completed,1.0
+1104,2025-03-31,C217,Aman,Kochi,Kerala,Backpack,Accessories,2,1730.57,0.0,Cash on Delivery,Returned,2.0
+1105,2025-12-30,C235,Meera,Chennai,Tamil Nadu,Running Shoes,Fashion,1,3583.13,20.0,Cash on Delivery,Completed,5.0
+1106,2025-06-10,C252,Rohit,Jaipur,Rajasthan,Study Table,Furniture,2,6765.86,20.0,UPI,Cancelled,5.0
+1107,2025-12-03,C250,Ananya,Kochi,Kerala,T-Shirt,Fashion,1,874.14,15.0,Net Banking,Completed,1.0
+1108,2025-02-18,C248,Arjun,Pune,Maharashtra,Office Chair,Furniture,2,8147.55,20.0,Cash on Delivery,Completed,5.0
+1109,2025-02-01,C241,Aditya,Kolkata,West Bengal,Headphones,Electronics,1,2427.48,10.0,Card,Cancelled,1.0
+1110,2025-06-24,C273,Priya,Ahmedabad,Gujarat,Headphones,Electronics,3,2391.43,5.0,Card,Completed,5.0
+1111,2025-09-21,C213,Divya,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,4,6538.77,5.0,UPI,Completed,5.0
+1112,2025-03-28,C110,Sneha,Kochi,Kerala,Headphones,Electronics,2,2536.0,0.0,Cash on Delivery,Completed,5.0
+1113,2025-11-19,C278,Sanjay,Kolkata,West Bengal,Jeans,Fashion,1,2179.76,15.0,Net Banking,Completed,5.0
+1114,2025-04-07,C172,Varun,Pune,Maharashtra,Backpack,Accessories,1,1853.98,5.0,Net Banking,Completed,3.0
+1115,2025-06-14,C196,Pooja,Ahmedabad,Gujarat,Coffee Maker,Home Appliances,3,6567.08,5.0,Card,Cancelled,5.0
+1116,2025-03-26,C155,Meera,Chennai,Tamil Nadu,Study Table,Furniture,1,7093.27,15.0,Cash on Delivery,Cancelled,3.0
+1117,2025-01-11,C136,Divya,Chennai,Tamil Nadu,Smartphone,Electronics,2,29149.75,5.0,Card,Completed,3.0
+1118,2025-08-14,C219,Varun,Mumbai,Maharashtra,Mouse,Electronics,5,787.62,10.0,UPI,Completed,3.0
+1119,2025-08-03,C186,Arjun,Ahmedabad,Gujarat,Laptop,Electronics,5,57026.57,5.0,Net Banking,Completed,
+1120,2025-10-08,C215,Rohit,Hyderabad,Telangana,Coffee Maker,Home Appliances,1,6657.1,10.0,Cash on Delivery,Completed,5.0
+1121,2025-08-03,C122,Kavya,Mumbai,Maharashtra,Watch,Accessories,2,4511.56,0.0,UPI,Completed,5.0
+1122,2025-01-17,C246,Varun,Delhi,Delhi,Watch,Accessories,3,4534.43,0.0,UPI,Completed,5.0
+1123,2025-11-09,C222,Nikhil,Kolkata,West Bengal,Mouse,Electronics,2,760.88,5.0,Cash on Delivery,Returned,3.0
+1124,2025-06-22,C268,Nikhil,Chennai,Tamil Nadu,T-Shirt,Fashion,2,911.98,15.0,UPI,Completed,4.0
+1125,2025-12-29,C290,Aditya,Kochi,Kerala,Coffee Maker,Home Appliances,2,6205.53,10.0,UPI,Completed,4.0
+1126,2025-01-11,C136,Divya,Bangalore,Karnataka,Watch,Accessories,1,4305.71,20.0,Net Banking,Completed,1.0
+1127,2025-04-21,C287,Riya,Kolkata,West Bengal,Bookshelf,Furniture,1,6039.84,15.0,Net Banking,Returned,5.0
+1128,2025-08-15,C169,Varun,Ahmedabad,Gujarat,Laptop,Electronics,4,53734.51,5.0,Net Banking,Completed,1.0
+1129,2025-07-20,C290,Aditya,Chennai,Tamil Nadu,Backpack,Accessories,2,1848.76,0.0,Net Banking,Completed,
+1130,2025-08-17,C161,Sneha,Ahmedabad,Gujarat,Watch,Accessories,1,4481.86,5.0,Net Banking,Completed,
+1131,2025-11-01,C202,Pooja,Chennai,Tamil Nadu,T-Shirt,Fashion,2,887.49,5.0,UPI,Completed,2.0
+1132,2025-08-04,C157,Ishita,Kolkata,West Bengal,Laptop,Electronics,3,53268.23,20.0,Cash on Delivery,Cancelled,1.0
+1133,2025-05-23,C218,Meera,Pune,Maharashtra,Bookshelf,Furniture,1,5849.8,5.0,Cash on Delivery,Completed,1.0
+1134,2025-10-09,C209,Divya,Kochi,Kerala,Mixer Grinder,Home Appliances,5,4581.2,15.0,UPI,Returned,2.0
+1135,2025-11-11,C235,Meera,Delhi,Delhi,Study Table,Furniture,5,6858.14,20.0,Cash on Delivery,Cancelled,2.0
+1136,2025-09-30,C216,Aman,Kolkata,West Bengal,Headphones,Electronics,1,2454.78,15.0,Card,Completed,4.0
+1137,2025-07-02,C288,Priya,Chennai,Tamil Nadu,Headphones,Electronics,5,2549.07,0.0,Cash on Delivery,Completed,5.0
+1138,2025-07-29,C115,Ananya,Ahmedabad,Gujarat,Laptop,Electronics,3,55211.21,0.0,UPI,Cancelled,2.0
+1139,2025-09-08,C208,Aman,Chennai,Tamil Nadu,Study Table,Furniture,1,6973.36,10.0,Cash on Delivery,Cancelled,4.0
+1140,2025-11-14,C118,Pooja,Bangalore,Karnataka,Running Shoes,Fashion,2,3674.28,10.0,UPI,Completed,1.0
+1141,2025-12-25,C116,Priya,Ahmedabad,Gujarat,T-Shirt,Fashion,1,943.57,10.0,Net Banking,Cancelled,1.0
+1142,2025-11-20,C277,Rahul,Bangalore,Karnataka,Jeans,Fashion,3,2168.02,0.0,Card,Returned,4.0
+1143,2025-11-01,C253,Kiran,Hyderabad,Telangana,Mouse,Electronics,1,839.02,15.0,UPI,Completed,4.0
+1144,2025-07-17,C287,Riya,Kochi,Kerala,Mouse,Electronics,1,822.91,5.0,Cash on Delivery,Returned,5.0
+1145,2025-03-13,C111,Neha,Chennai,Tamil Nadu,Backpack,Accessories,2,1843.8,5.0,Net Banking,Cancelled,5.0
+1146,2025-08-14,C154,Ananya,Delhi,Delhi,Headphones,Electronics,1,2503.17,5.0,UPI,Completed,1.0
+1147,2025-08-03,C103,Aman,Ahmedabad,Gujarat,Office Chair,Furniture,3,8755.65,15.0,UPI,Completed,3.0
+1148,2025-06-27,C120,Nikhil,Kochi,Kerala,Laptop,Electronics,1,53206.42,5.0,Card,Returned,1.0
+1149,2025-03-30,C103,Aman,Bangalore,Karnataka,Office Chair,Furniture,2,8604.5,15.0,UPI,Completed,5.0
+1150,2025-01-29,C201,Arjun,Chennai,Tamil Nadu,Running Shoes,Fashion,1,3632.11,5.0,UPI,Completed,1.0
+1151,2025-08-14,C176,Rahul,Kochi,Kerala,Backpack,Accessories,1,1769.23,10.0,Net Banking,Completed,5.0
+1152,2025-02-06,C138,Rohit,Ahmedabad,Gujarat,Running Shoes,Fashion,1,3578.2,0.0,Net Banking,Cancelled,4.0
+1153,2025-12-15,C297,Arjun,Hyderabad,Telangana,Smartphone,Electronics,5,27986.41,10.0,Cash on Delivery,Completed,3.0
+1154,2025-10-16,C156,Sneha,Ahmedabad,Gujarat,Smartphone,Electronics,2,28122.58,10.0,Card,Completed,5.0
+1155,2025-12-29,C268,Nikhil,Hyderabad,Telangana,Running Shoes,Fashion,1,3628.55,10.0,UPI,Completed,4.0
+1156,2025-05-13,C270,Nikhil,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,2,4895.52,15.0,Cash on Delivery,Cancelled,2.0
+1157,2025-06-07,C131,Vikram,Kolkata,West Bengal,Watch,Accessories,1,4332.99,10.0,Cash on Delivery,Completed,4.0
+1158,2025-04-23,C102,Riya,Kolkata,West Bengal,Smartphone,Electronics,3,27403.71,5.0,UPI,Completed,5.0
+1159,2025-03-15,C198,Rahul,Ahmedabad,Gujarat,Jeans,Fashion,3,2261.57,5.0,UPI,Completed,5.0
+1160,2025-08-30,C256,Meera,Delhi,Delhi,Jeans,Fashion,2,2263.54,20.0,Net Banking,Completed,5.0
+1161,2025-04-30,C117,Rahul,Pune,Maharashtra,Laptop,Electronics,1,55451.94,10.0,Cash on Delivery,Completed,2.0
+1162,2025-01-07,C114,Pooja,Mumbai,Maharashtra,Running Shoes,Fashion,2,3370.53,5.0,UPI,Completed,1.0
+1163,2025-08-14,C234,Priya,Bangalore,Karnataka,Running Shoes,Fashion,1,3564.15,0.0,UPI,Completed,1.0
+1164,2025-03-16,C199,Kavya,Jaipur,Rajasthan,Study Table,Furniture,2,7018.92,10.0,Net Banking,Completed,5.0
+1165,2025-08-24,C184,Nikhil,Pune,Maharashtra,Running Shoes,Fashion,1,3420.64,10.0,Net Banking,Completed,4.0
+1166,2025-09-14,C121,Meera,Delhi,Delhi,Running Shoes,Fashion,1,3662.58,0.0,Card,Completed,5.0
+1167,2025-10-07,C115,Ananya,Chennai,Tamil Nadu,Jeans,Fashion,1,2134.08,0.0,Net Banking,Completed,5.0
+1168,2025-11-05,C127,Riya,Ahmedabad,Gujarat,T-Shirt,Fashion,1,871.7,10.0,Net Banking,Completed,5.0
+1169,2025-06-30,C150,Ishita,Mumbai,Maharashtra,Study Table,Furniture,5,7088.35,5.0,Net Banking,Completed,2.0
+1170,2025-09-30,C231,Varun,Mumbai,Maharashtra,Coffee Maker,Home Appliances,3,6475.36,10.0,Card,Completed,4.0
+1171,2025-04-27,C109,Aditya,Pune,Maharashtra,Backpack,Accessories,3,1738.95,10.0,Card,Completed,5.0
+1172,2025-04-05,C172,Varun,Delhi,Delhi,Smartphone,Electronics,1,28505.28,10.0,Card,Completed,4.0
+1173,2025-03-29,C133,Vikram,Pune,Maharashtra,Backpack,Accessories,3,1717.13,5.0,UPI,Completed,4.0
+1174,2025-08-30,C221,Vikram,Pune,Maharashtra,Office Chair,Furniture,1,8253.8,0.0,Net Banking,Completed,2.0
+1175,2025-06-03,C133,Vikram,Jaipur,Rajasthan,Jeans,Fashion,2,2108.15,5.0,Card,Completed,5.0
+1176,2025-04-16,C203,Neha,Kochi,Kerala,Coffee Maker,Home Appliances,4,6625.58,0.0,Cash on Delivery,Completed,1.0
+1177,2025-12-25,C204,Arjun,Bangalore,Karnataka,Running Shoes,Fashion,3,3336.06,0.0,Cash on Delivery,Completed,2.0
+1178,2025-04-21,C108,Aditya,Ahmedabad,Gujarat,Smartphone,Electronics,2,28350.85,10.0,Cash on Delivery,Completed,4.0
+1179,2025-05-07,C232,Vikram,Pune,Maharashtra,Watch,Accessories,4,4627.72,5.0,UPI,Completed,2.0
+1180,2025-01-25,C114,Pooja,Chennai,Tamil Nadu,Office Chair,Furniture,2,8579.29,10.0,UPI,Completed,2.0
+1181,2025-04-29,C247,Rohit,Kolkata,West Bengal,Coffee Maker,Home Appliances,5,6393.98,10.0,UPI,Completed,4.0
+1182,2025-11-08,C182,Aditya,Pune,Maharashtra,Smartphone,Electronics,2,28429.14,20.0,UPI,Completed,3.0
+1183,2025-07-26,C256,Meera,Kochi,Kerala,Headphones,Electronics,2,2545.06,10.0,UPI,Completed,1.0
+1184,2025-10-20,C194,Rohit,Delhi,Delhi,Mixer Grinder,Home Appliances,5,4759.64,5.0,Net Banking,Completed,4.0
+1185,2025-04-06,C226,Vikram,Mumbai,Maharashtra,T-Shirt,Fashion,1,858.61,5.0,UPI,Completed,2.0
+1186,2025-09-19,C217,Aman,Chennai,Tamil Nadu,Keyboard,Electronics,1,1556.01,5.0,Cash on Delivery,Completed,3.0
+1187,2025-01-18,C215,Rohit,Kochi,Kerala,Office Chair,Furniture,1,8380.28,10.0,Net Banking,Cancelled,5.0
+1188,2025-10-25,C199,Kavya,Kochi,Kerala,Bookshelf,Furniture,3,5943.19,15.0,Net Banking,Returned,5.0
+1189,2025-11-14,C102,Riya,Kolkata,West Bengal,Mouse,Electronics,2,828.35,0.0,Card,Completed,4.0
+1190,2025-11-22,C211,Rahul,Ahmedabad,Gujarat,Study Table,Furniture,1,6901.46,15.0,UPI,Completed,1.0
+1191,2025-06-13,C128,Arjun,Chennai,Tamil Nadu,Headphones,Electronics,4,2539.18,0.0,UPI,Completed,2.0
+1192,2025-11-28,C295,Ananya,Pune,Maharashtra,Coffee Maker,Home Appliances,2,6390.08,0.0,Card,Completed,1.0
+1193,2025-03-05,C233,Sanjay,Mumbai,Maharashtra,Bookshelf,Furniture,1,6070.29,0.0,Card,Completed,4.0
+1194,2025-04-30,C221,Vikram,Delhi,Delhi,Mixer Grinder,Home Appliances,2,4878.63,0.0,Net Banking,Completed,5.0
+1195,2025-10-20,C234,Priya,Mumbai,Maharashtra,Smartphone,Electronics,1,29362.74,15.0,Net Banking,Completed,4.0
+1196,2025-11-21,C101,Vikram,Kolkata,West Bengal,Headphones,Electronics,2,2488.05,5.0,UPI,Completed,3.0
+1197,2025-10-26,C112,Arjun,Kochi,Kerala,Keyboard,Electronics,5,1572.99,5.0,Card,Completed,1.0
+1198,2025-06-27,C150,Ishita,Jaipur,Rajasthan,Study Table,Furniture,4,6968.32,5.0,Cash on Delivery,Completed,5.0
+1199,2025-08-22,C184,Nikhil,Kolkata,West Bengal,Coffee Maker,Home Appliances,5,6375.15,0.0,Net Banking,Completed,4.0
+1200,2025-03-27,C229,Aditya,Kolkata,West Bengal,Bookshelf,Furniture,3,5793.7,10.0,Cash on Delivery,Completed,1.0
+1201,2025-05-25,C155,Meera,Kolkata,West Bengal,Watch,Accessories,3,4443.43,0.0,Card,Completed,4.0
+1202,2025-10-14,C172,Varun,Jaipur,Rajasthan,Coffee Maker,Home Appliances,1,6772.14,5.0,Net Banking,Returned,4.0
+1203,2025-07-11,C148,Nikhil,Delhi,Delhi,Backpack,Accessories,2,1729.19,0.0,Card,Completed,1.0
+1204,2025-11-20,C269,Kiran,Jaipur,Rajasthan,Jeans,Fashion,2,2262.12,15.0,Card,Cancelled,5.0
+1205,2025-10-06,C232,Vikram,Pune,Maharashtra,Headphones,Electronics,1,2576.96,10.0,Cash on Delivery,Cancelled,3.0
+1206,2025-05-23,C229,Aditya,Ahmedabad,Gujarat,Coffee Maker,Home Appliances,1,6528.92,10.0,UPI,Completed,2.0
+1207,2025-11-01,C299,Sneha,Delhi,Delhi,Headphones,Electronics,1,2472.14,0.0,Net Banking,Completed,3.0
+1208,2025-11-26,C272,Nikhil,Pune,Maharashtra,Watch,Accessories,5,4539.18,10.0,Card,Returned,1.0
+1209,2025-04-27,C103,Aman,Delhi,Delhi,Watch,Accessories,1,4703.17,10.0,UPI,Completed,1.0
+1210,2025-08-16,C112,Arjun,Delhi,Delhi,Smartphone,Electronics,4,28074.55,5.0,Cash on Delivery,Completed,5.0
+1211,2025-01-21,C187,Arjun,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6641.78,5.0,Cash on Delivery,Completed,5.0
+1212,2025-02-20,C180,Pooja,Delhi,Delhi,T-Shirt,Fashion,2,940.92,5.0,Cash on Delivery,Completed,4.0
+1213,2025-02-21,C241,Aditya,Pune,Maharashtra,Headphones,Electronics,2,2400.36,5.0,Card,Completed,4.0
+1214,2025-05-26,C256,Meera,Bangalore,Karnataka,Bookshelf,Furniture,2,5886.78,10.0,Card,Completed,4.0
+1215,2025-04-18,C232,Vikram,Kochi,Kerala,Backpack,Accessories,4,1804.05,15.0,Card,Cancelled,5.0
+1216,2025-02-05,C171,Aman,Ahmedabad,Gujarat,Laptop,Electronics,1,55370.22,20.0,Net Banking,Completed,5.0
+1217,2025-02-16,C107,Sanjay,Pune,Maharashtra,Laptop,Electronics,2,54304.3,0.0,Cash on Delivery,Cancelled,5.0
+1218,2025-01-09,C250,Ananya,Pune,Maharashtra,Mouse,Electronics,1,830.74,0.0,Cash on Delivery,Completed,5.0
+1219,2025-02-18,C222,Nikhil,Jaipur,Rajasthan,Jeans,Fashion,5,2289.3,20.0,Card,Completed,4.0
+1220,2025-07-21,C168,Kavya,Chennai,Tamil Nadu,Bookshelf,Furniture,2,6193.57,15.0,UPI,Completed,3.0
+1221,2025-02-18,C264,Pooja,Kochi,Kerala,Laptop,Electronics,2,54581.7,15.0,Cash on Delivery,Completed,2.0
+1222,2025-05-23,C261,Nikhil,Kolkata,West Bengal,Mouse,Electronics,5,767.66,10.0,Cash on Delivery,Completed,5.0
+1223,2025-09-11,C260,Riya,Kochi,Kerala,Backpack,Accessories,2,1780.36,0.0,UPI,Completed,5.0
+1224,2025-05-05,C135,Sneha,Kolkata,West Bengal,Mouse,Electronics,1,814.07,10.0,Cash on Delivery,Completed,1.0
+1225,2025-06-16,C124,Aman,Bangalore,Karnataka,Keyboard,Electronics,1,1533.65,20.0,UPI,Returned,4.0
+1226,2025-03-11,C197,Priya,Mumbai,Maharashtra,Headphones,Electronics,1,2475.3,5.0,UPI,Completed,4.0
+1227,2025-05-29,C149,Sneha,Chennai,Tamil Nadu,T-Shirt,Fashion,1,927.03,20.0,Net Banking,Returned,5.0
+1228,2025-12-08,C150,Ishita,Bangalore,Karnataka,Office Chair,Furniture,1,8271.2,5.0,Card,Completed,5.0
+1229,2025-10-13,C272,Nikhil,Chennai,Tamil Nadu,Office Chair,Furniture,1,8549.12,15.0,Net Banking,Returned,4.0
+1230,2025-11-07,C286,Kiran,Mumbai,Maharashtra,Mouse,Electronics,4,774.02,15.0,Net Banking,Completed,5.0
+1231,2025-05-16,C258,Aman,Jaipur,Rajasthan,Study Table,Furniture,1,7179.31,20.0,Net Banking,Completed,5.0
+1232,2025-12-26,C130,Sanjay,Kolkata,West Bengal,T-Shirt,Fashion,3,942.67,10.0,Net Banking,Completed,1.0
+1233,2025-08-19,C221,Vikram,Delhi,Delhi,Keyboard,Electronics,1,1518.54,20.0,Net Banking,Completed,4.0
+1234,2025-05-31,C116,Priya,Pune,Maharashtra,Keyboard,Electronics,3,1531.31,5.0,Card,Cancelled,2.0
+1235,2025-11-27,C205,Rahul,Delhi,Delhi,Smartphone,Electronics,1,29223.48,0.0,Cash on Delivery,Completed,5.0
+1236,2025-05-23,C251,Neha,Kochi,Kerala,Keyboard,Electronics,3,1556.0,5.0,Card,Completed,4.0
+1237,2025-06-07,C112,Arjun,Hyderabad,Telangana,Watch,Accessories,2,4517.88,5.0,Net Banking,Completed,5.0
+1238,2025-06-12,C234,Priya,Bangalore,Karnataka,Study Table,Furniture,1,6863.28,15.0,Card,Completed,2.0
+1239,2025-01-25,C263,Riya,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,5,6809.15,0.0,Card,Completed,4.0
+1240,2025-12-02,C154,Ananya,Hyderabad,Telangana,Keyboard,Electronics,1,1515.96,10.0,Card,Returned,4.0
+1241,2025-04-27,C280,Pooja,Bangalore,Karnataka,Headphones,Electronics,1,2474.67,10.0,Card,Cancelled,2.0
+1242,2025-10-15,C296,Kavya,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,2,5022.3,5.0,Net Banking,Completed,4.0
+1243,2025-06-09,C131,Vikram,Mumbai,Maharashtra,Smartphone,Electronics,4,27377.71,10.0,UPI,Completed,5.0
+1244,2025-09-23,C230,Sneha,Kolkata,West Bengal,Headphones,Electronics,2,2471.62,5.0,UPI,Completed,5.0
+1245,2025-03-24,C111,Neha,Chennai,Tamil Nadu,Jeans,Fashion,4,2226.29,0.0,UPI,Completed,4.0
+1246,2025-09-17,C173,Rohit,Bangalore,Karnataka,Study Table,Furniture,2,7134.51,0.0,Net Banking,Completed,4.0
+1247,2025-08-19,C203,Neha,Mumbai,Maharashtra,Jeans,Fashion,2,2227.26,10.0,Card,Cancelled,4.0
+1248,2025-08-17,C291,Kavya,Bangalore,Karnataka,Study Table,Furniture,3,7017.85,10.0,UPI,Returned,4.0
+1249,2025-03-20,C283,Aditya,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,3,6487.87,10.0,UPI,Completed,5.0
+1250,2025-08-30,C158,Pooja,Ahmedabad,Gujarat,Study Table,Furniture,2,7083.26,10.0,UPI,Cancelled,4.0
+1251,2025-07-07,C182,Aditya,Delhi,Delhi,Jeans,Fashion,1,2099.38,5.0,Cash on Delivery,Cancelled,4.0
+1252,2025-04-22,C283,Aditya,Delhi,Delhi,Watch,Accessories,1,4332.24,5.0,Net Banking,Completed,5.0
+1253,2025-04-15,C280,Pooja,Pune,Maharashtra,Watch,Accessories,2,4628.26,0.0,Net Banking,Completed,5.0
+1254,2025-04-07,C237,Ananya,Jaipur,Rajasthan,Laptop,Electronics,5,56698.86,10.0,Card,Completed,2.0
+1255,2025-09-21,C288,Priya,Ahmedabad,Gujarat,Mouse,Electronics,4,826.01,0.0,Cash on Delivery,Returned,5.0
+1256,2025-03-10,C277,Rahul,Hyderabad,Telangana,T-Shirt,Fashion,2,895.56,5.0,Net Banking,Completed,1.0
+1257,2025-02-12,C187,Arjun,Delhi,Delhi,Bookshelf,Furniture,1,5725.0,15.0,UPI,Cancelled,3.0
+1258,2025-08-20,C252,Rohit,Bangalore,Karnataka,Bookshelf,Furniture,2,5721.34,10.0,Card,Returned,4.0
+1259,2025-02-20,C239,Pooja,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,1,5012.31,5.0,Cash on Delivery,Completed,4.0
+1260,2025-08-08,C105,Neha,Pune,Maharashtra,Bookshelf,Furniture,3,5859.03,15.0,UPI,Completed,1.0
+1261,2025-03-19,C294,Rohit,Chennai,Tamil Nadu,Headphones,Electronics,3,2405.35,5.0,UPI,Completed,1.0
+1262,2025-06-13,C222,Nikhil,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6757.28,10.0,Net Banking,Completed,5.0
+1263,2025-10-15,C102,Riya,Pune,Maharashtra,Jeans,Fashion,4,2218.13,20.0,Net Banking,Completed,2.0
+1264,2025-06-02,C111,Neha,Kochi,Kerala,Mixer Grinder,Home Appliances,1,4613.19,15.0,Net Banking,Completed,5.0
+1265,2025-08-01,C224,Sneha,Kochi,Kerala,Backpack,Accessories,2,1739.46,10.0,Net Banking,Completed,5.0
+1266,2025-04-29,C213,Divya,Ahmedabad,Gujarat,Mouse,Electronics,5,782.87,10.0,Cash on Delivery,Completed,4.0
+1267,2025-10-29,C275,Kiran,Chennai,Tamil Nadu,Mouse,Electronics,2,820.4,10.0,Net Banking,Returned,5.0
+1268,2025-10-12,C251,Neha,Pune,Maharashtra,Office Chair,Furniture,3,8911.97,5.0,UPI,Completed,2.0
+1269,2025-03-29,C129,Kiran,Delhi,Delhi,Mixer Grinder,Home Appliances,1,4604.1,15.0,Net Banking,Cancelled,5.0
+1270,2025-04-28,C271,Nikhil,Delhi,Delhi,Jeans,Fashion,1,2253.55,15.0,Cash on Delivery,Cancelled,5.0
+1271,2025-05-24,C139,Priya,Jaipur,Rajasthan,Mouse,Electronics,1,772.81,0.0,Net Banking,Completed,4.0
+1272,2025-11-16,C105,Neha,Bangalore,Karnataka,Laptop,Electronics,1,53778.46,20.0,Card,Completed,3.0
+1273,2025-04-22,C110,Sneha,Delhi,Delhi,Coffee Maker,Home Appliances,1,6575.39,0.0,UPI,Completed,4.0
+1274,2025-07-28,C264,Pooja,Pune,Maharashtra,Watch,Accessories,3,4617.45,5.0,Card,Returned,1.0
+1275,2025-08-11,C262,Nikhil,Delhi,Delhi,Backpack,Accessories,5,1832.11,5.0,Cash on Delivery,Returned,5.0
+1276,2025-01-24,C201,Arjun,Kochi,Kerala,Keyboard,Electronics,2,1482.81,5.0,Card,Completed,2.0
+1277,2025-07-21,C137,Ishita,Pune,Maharashtra,Mouse,Electronics,4,760.15,10.0,Card,Returned,4.0
+1278,2025-01-04,C288,Priya,Jaipur,Rajasthan,Jeans,Fashion,4,2110.46,15.0,UPI,Returned,3.0
+1279,2025-01-24,C180,Pooja,Kochi,Kerala,Study Table,Furniture,5,7142.06,10.0,Card,Returned,2.0
+1280,2025-06-01,C247,Rohit,Bangalore,Karnataka,Laptop,Electronics,1,55750.7,10.0,UPI,Completed,5.0
+1281,2025-06-22,C158,Pooja,Pune,Maharashtra,Mouse,Electronics,5,823.09,5.0,Net Banking,Returned,5.0
+1282,2025-09-08,C213,Divya,Kolkata,West Bengal,Laptop,Electronics,2,52737.3,0.0,Net Banking,Completed,5.0
+1283,2025-05-28,C157,Ishita,Pune,Maharashtra,Jeans,Fashion,3,2128.17,5.0,Net Banking,Completed,5.0
+1284,2025-03-02,C298,Riya,Kolkata,West Bengal,Backpack,Accessories,2,1881.06,0.0,Card,Completed,3.0
+1285,2025-12-03,C207,Kiran,Hyderabad,Telangana,Coffee Maker,Home Appliances,2,6715.6,10.0,Cash on Delivery,Cancelled,3.0
+1286,2025-12-15,C247,Rohit,Kochi,Kerala,Headphones,Electronics,1,2482.41,10.0,Net Banking,Cancelled,4.0
+1287,2025-03-31,C149,Sneha,Delhi,Delhi,Watch,Accessories,2,4696.81,10.0,Net Banking,Returned,5.0
+1288,2025-11-22,C139,Priya,Chennai,Tamil Nadu,Headphones,Electronics,1,2484.21,5.0,UPI,Returned,5.0
+1289,2025-08-01,C160,Meera,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,1,5002.86,5.0,Card,Completed,2.0
+1290,2025-09-27,C258,Aman,Pune,Maharashtra,T-Shirt,Fashion,4,879.81,5.0,Net Banking,Completed,5.0
+1291,2025-02-13,C244,Rahul,Pune,Maharashtra,Mixer Grinder,Home Appliances,2,4775.88,10.0,UPI,Cancelled,4.0
+1292,2025-07-15,C284,Nikhil,Mumbai,Maharashtra,Smartphone,Electronics,1,29138.02,10.0,Card,Completed,3.0
+1293,2025-07-22,C107,Sanjay,Pune,Maharashtra,Mixer Grinder,Home Appliances,5,4673.66,20.0,Net Banking,Cancelled,2.0
+1294,2025-03-23,C254,Rahul,Ahmedabad,Gujarat,Coffee Maker,Home Appliances,1,6650.03,10.0,UPI,Completed,5.0
+1295,2025-06-10,C265,Vikram,Ahmedabad,Gujarat,Laptop,Electronics,1,54801.63,10.0,Card,Cancelled,4.0
+1296,2025-03-22,C227,Varun,Kochi,Kerala,Backpack,Accessories,4,1863.11,0.0,Net Banking,Cancelled,4.0
+1297,2025-01-17,C198,Rahul,Kochi,Kerala,Running Shoes,Fashion,3,3348.68,0.0,Card,Returned,5.0
+1298,2025-01-22,C298,Riya,Chennai,Tamil Nadu,Laptop,Electronics,2,54607.47,0.0,Net Banking,Completed,2.0
+1299,2025-12-10,C174,Aman,Chennai,Tamil Nadu,Headphones,Electronics,3,2537.74,5.0,Cash on Delivery,Returned,4.0
+1300,2025-02-01,C159,Priya,Kochi,Kerala,Headphones,Electronics,4,2387.99,0.0,Cash on Delivery,Cancelled,4.0
+1301,2025-08-20,C254,Rahul,Mumbai,Maharashtra,Coffee Maker,Home Appliances,4,6665.17,20.0,UPI,Returned,4.0
+1302,2025-03-07,C192,Rohit,Jaipur,Rajasthan,Bookshelf,Furniture,1,6290.99,0.0,UPI,Returned,3.0
+1303,2025-10-06,C300,Sanjay,Hyderabad,Telangana,Watch,Accessories,3,4499.02,15.0,UPI,Completed,2.0
+1304,2025-03-15,C271,Nikhil,Bangalore,Karnataka,Mouse,Electronics,5,837.16,5.0,Net Banking,Completed,4.0
+1305,2025-02-16,C141,Aman,Mumbai,Maharashtra,Mouse,Electronics,4,810.77,0.0,Cash on Delivery,Returned,5.0
+1306,2025-12-31,C142,Vikram,Mumbai,Maharashtra,Office Chair,Furniture,4,8749.27,20.0,Cash on Delivery,Completed,2.0
+1307,2025-01-08,C207,Kiran,Ahmedabad,Gujarat,Office Chair,Furniture,1,8194.6,15.0,UPI,Completed,5.0
+1308,2025-10-02,C207,Kiran,Delhi,Delhi,Keyboard,Electronics,3,1544.79,10.0,Net Banking,Completed,4.0
+1309,2025-01-21,C239,Pooja,Kolkata,West Bengal,Laptop,Electronics,4,54547.69,10.0,Card,Cancelled,2.0
+1310,2025-10-10,C104,Aditya,Pune,Maharashtra,Watch,Accessories,4,4467.37,20.0,UPI,Completed,3.0
+1311,2025-05-13,C197,Priya,Mumbai,Maharashtra,Backpack,Accessories,1,1858.13,10.0,Cash on Delivery,Cancelled,4.0
+1312,2025-12-30,C109,Aditya,Mumbai,Maharashtra,Office Chair,Furniture,1,8534.67,5.0,Net Banking,Completed,4.0
+1313,2025-06-12,C231,Varun,Kochi,Kerala,Mouse,Electronics,1,769.04,10.0,Net Banking,Completed,1.0
+1314,2025-05-30,C151,Neha,Chennai,Tamil Nadu,Watch,Accessories,4,4551.2,20.0,UPI,Cancelled,4.0
+1315,2025-03-07,C239,Pooja,Bangalore,Karnataka,Laptop,Electronics,5,52944.46,0.0,Cash on Delivery,Completed,5.0
+1316,2025-09-04,C267,Arjun,Pune,Maharashtra,Backpack,Accessories,1,1827.95,20.0,Cash on Delivery,Completed,4.0
+1317,2025-08-15,C286,Kiran,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,4,4706.55,10.0,UPI,Cancelled,4.0
+1318,2025-12-21,C146,Arjun,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6762.35,15.0,Net Banking,Cancelled,5.0
+1319,2025-04-01,C215,Rohit,Hyderabad,Telangana,Office Chair,Furniture,4,8645.12,5.0,Card,Returned,5.0
+1320,2025-01-30,C242,Vikram,Mumbai,Maharashtra,Mouse,Electronics,1,803.73,5.0,Cash on Delivery,Returned,3.0
+1321,2025-04-12,C184,Nikhil,Hyderabad,Telangana,Backpack,Accessories,3,1785.86,0.0,Cash on Delivery,Returned,5.0
+1322,2025-06-22,C183,Sanjay,Bangalore,Karnataka,Headphones,Electronics,1,2563.49,5.0,Cash on Delivery,Returned,5.0
+1323,2025-04-30,C173,Rohit,Kolkata,West Bengal,Backpack,Accessories,4,1760.67,5.0,Card,Cancelled,4.0
+1324,2025-11-04,C264,Pooja,Ahmedabad,Gujarat,Laptop,Electronics,5,53580.42,0.0,UPI,Returned,3.0
+1325,2025-07-15,C153,Priya,Bangalore,Karnataka,Backpack,Accessories,3,1763.99,0.0,Cash on Delivery,Completed,4.0
+1326,2025-04-30,C108,Aditya,Chennai,Tamil Nadu,Backpack,Accessories,3,1769.47,0.0,Cash on Delivery,Cancelled,5.0
+1327,2025-09-12,C213,Divya,Bangalore,Karnataka,Running Shoes,Fashion,1,3673.4,10.0,UPI,Cancelled,5.0
+1328,2025-07-20,C120,Nikhil,Delhi,Delhi,Headphones,Electronics,2,2497.09,10.0,UPI,Completed,4.0
+1329,2025-10-28,C135,Sneha,Hyderabad,Telangana,Smartphone,Electronics,1,29061.14,20.0,Cash on Delivery,Completed,5.0
+1330,2025-08-20,C176,Rahul,Jaipur,Rajasthan,Headphones,Electronics,2,2598.13,10.0,UPI,Completed,5.0
+1331,2025-12-14,C120,Nikhil,Jaipur,Rajasthan,Jeans,Fashion,4,2230.71,15.0,Net Banking,Completed,5.0
+1332,2025-12-13,C176,Rahul,Bangalore,Karnataka,Office Chair,Furniture,5,8298.27,0.0,Cash on Delivery,Completed,1.0
+1333,2025-03-02,C172,Varun,Kolkata,West Bengal,Office Chair,Furniture,1,8135.29,0.0,Net Banking,Returned,2.0
+1334,2025-04-03,C127,Riya,Ahmedabad,Gujarat,Headphones,Electronics,1,2444.2,0.0,UPI,Completed,3.0
+1335,2025-07-08,C268,Nikhil,Bangalore,Karnataka,Jeans,Fashion,1,2194.34,10.0,Card,Completed,5.0
+1336,2025-10-22,C213,Divya,Ahmedabad,Gujarat,Running Shoes,Fashion,1,3620.37,0.0,UPI,Cancelled,1.0
+1337,2025-12-10,C292,Kavya,Kochi,Kerala,Running Shoes,Fashion,1,3340.54,0.0,UPI,Completed,1.0
+1338,2025-02-10,C117,Rahul,Ahmedabad,Gujarat,Mouse,Electronics,4,787.62,15.0,Cash on Delivery,Cancelled,5.0
+1339,2025-01-01,C111,Neha,Bangalore,Karnataka,Running Shoes,Fashion,3,3371.02,10.0,Net Banking,Completed,3.0
+1340,2025-08-28,C176,Rahul,Ahmedabad,Gujarat,Bookshelf,Furniture,2,6102.57,5.0,UPI,Cancelled,2.0
+1341,2025-12-09,C203,Neha,Kochi,Kerala,Mouse,Electronics,1,760.13,10.0,Card,Cancelled,5.0
+1342,2025-06-10,C277,Rahul,Mumbai,Maharashtra,Smartphone,Electronics,2,27318.74,10.0,Cash on Delivery,Completed,2.0
+1343,2025-08-31,C247,Rohit,Ahmedabad,Gujarat,Keyboard,Electronics,2,1560.05,0.0,Cash on Delivery,Completed,5.0
+1344,2025-09-23,C102,Riya,Jaipur,Rajasthan,Watch,Accessories,1,4437.86,10.0,Card,Completed,3.0
+1345,2025-06-04,C218,Meera,Jaipur,Rajasthan,Backpack,Accessories,1,1737.78,5.0,UPI,Completed,4.0
+1346,2025-09-25,C266,Priya,Bangalore,Karnataka,Coffee Maker,Home Appliances,1,6267.39,0.0,Cash on Delivery,Completed,1.0
+1347,2025-08-11,C155,Meera,Kochi,Kerala,Mouse,Electronics,1,769.84,15.0,UPI,Completed,5.0
+1348,2025-03-14,C128,Arjun,Delhi,Delhi,Office Chair,Furniture,2,8799.07,5.0,UPI,Returned,2.0
+1349,2025-02-10,C130,Sanjay,Chennai,Tamil Nadu,Headphones,Electronics,2,2487.53,15.0,Cash on Delivery,Completed,5.0
+1350,2025-06-16,C260,Riya,Kochi,Kerala,Running Shoes,Fashion,2,3535.38,5.0,Card,Completed,4.0
+1351,2025-05-28,C107,Sanjay,Mumbai,Maharashtra,Mouse,Electronics,1,831.21,15.0,Cash on Delivery,Cancelled,2.0
+1352,2025-05-06,C288,Priya,Chennai,Tamil Nadu,T-Shirt,Fashion,4,855.6,15.0,Cash on Delivery,Completed,1.0
+1353,2025-07-23,C138,Rohit,Delhi,Delhi,Bookshelf,Furniture,2,5918.76,20.0,Card,Completed,5.0
+1354,2025-12-10,C232,Vikram,Hyderabad,Telangana,Jeans,Fashion,3,2303.85,20.0,Cash on Delivery,Completed,3.0
+1355,2025-08-22,C145,Aman,Mumbai,Maharashtra,Watch,Accessories,3,4292.55,5.0,Cash on Delivery,Completed,5.0
+1356,2025-02-06,C159,Priya,Delhi,Delhi,Coffee Maker,Home Appliances,1,6259.53,10.0,Card,Completed,4.0
+1357,2025-10-12,C135,Sneha,Kolkata,West Bengal,Office Chair,Furniture,2,8587.5,0.0,UPI,Completed,5.0
+1358,2025-03-09,C226,Vikram,Mumbai,Maharashtra,Laptop,Electronics,5,54370.32,10.0,UPI,Cancelled,1.0
+1359,2025-02-11,C149,Sneha,Chennai,Tamil Nadu,Jeans,Fashion,1,2257.62,15.0,Card,Cancelled,3.0
+1360,2025-04-02,C185,Neha,Delhi,Delhi,T-Shirt,Fashion,2,929.76,5.0,Cash on Delivery,Cancelled,3.0
+1361,2025-04-09,C241,Aditya,Chennai,Tamil Nadu,Running Shoes,Fashion,2,3397.56,0.0,Net Banking,Completed,5.0
+1362,2025-10-11,C252,Rohit,Kochi,Kerala,Headphones,Electronics,2,2425.33,20.0,UPI,Completed,4.0
+1363,2025-12-20,C264,Pooja,Pune,Maharashtra,Headphones,Electronics,1,2408.09,10.0,Cash on Delivery,Returned,4.0
+1364,2025-01-05,C147,Divya,Pune,Maharashtra,Mouse,Electronics,4,819.67,5.0,UPI,Completed,1.0
+1365,2025-06-03,C146,Arjun,Kochi,Kerala,T-Shirt,Fashion,1,942.26,5.0,Net Banking,Completed,4.0
+1366,2025-03-16,C152,Sneha,Pune,Maharashtra,Mixer Grinder,Home Appliances,2,4705.17,10.0,UPI,Returned,5.0
+1367,2025-08-07,C251,Neha,Jaipur,Rajasthan,Headphones,Electronics,1,2519.32,10.0,Card,Completed,3.0
+1368,2025-11-25,C275,Kiran,Mumbai,Maharashtra,Study Table,Furniture,5,7319.23,15.0,Net Banking,Completed,4.0
+1369,2025-03-04,C181,Neha,Hyderabad,Telangana,Laptop,Electronics,5,53891.39,5.0,Card,Completed,3.0
+1370,2025-06-20,C169,Varun,Kolkata,West Bengal,Smartphone,Electronics,2,27935.16,10.0,Cash on Delivery,Returned,2.0
+1371,2025-07-03,C142,Vikram,Delhi,Delhi,T-Shirt,Fashion,5,927.4,5.0,Card,Completed,5.0
+1372,2025-11-23,C147,Divya,Bangalore,Karnataka,Headphones,Electronics,1,2425.16,0.0,Card,Completed,1.0
+1373,2025-08-20,C136,Divya,Jaipur,Rajasthan,Mouse,Electronics,2,819.24,10.0,Net Banking,Cancelled,4.0
+1374,2025-07-10,C228,Aman,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,1,4984.52,0.0,Net Banking,Completed,2.0
+1375,2025-03-13,C274,Priya,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6190.92,5.0,Cash on Delivery,Returned,4.0
+1376,2025-01-16,C273,Priya,Chennai,Tamil Nadu,Jeans,Fashion,1,2300.13,10.0,Card,Completed,5.0
+1377,2025-01-13,C262,Nikhil,Kochi,Kerala,T-Shirt,Fashion,2,918.64,0.0,Net Banking,Completed,2.0
+1378,2025-02-24,C139,Priya,Bangalore,Karnataka,Bookshelf,Furniture,5,5875.51,10.0,Cash on Delivery,Returned,4.0
+1379,2025-09-26,C153,Priya,Kolkata,West Bengal,Laptop,Electronics,3,55269.39,10.0,UPI,Completed,4.0
+1380,2025-01-23,C119,Pooja,Jaipur,Rajasthan,Backpack,Accessories,1,1732.13,15.0,Net Banking,Returned,2.0
+1381,2025-01-14,C110,Sneha,Mumbai,Maharashtra,Bookshelf,Furniture,2,6032.79,20.0,Card,Completed,5.0
+1382,2025-07-24,C153,Priya,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,4,4825.2,5.0,Cash on Delivery,Completed,4.0
+1383,2025-12-27,C219,Varun,Chennai,Tamil Nadu,Smartphone,Electronics,4,28906.58,5.0,Net Banking,Completed,5.0
+1384,2025-08-02,C285,Ananya,Hyderabad,Telangana,Watch,Accessories,1,4627.36,20.0,Card,Completed,5.0
+1385,2025-11-16,C188,Rahul,Chennai,Tamil Nadu,Bookshelf,Furniture,2,5702.29,5.0,UPI,Completed,3.0
+1386,2025-04-10,C221,Vikram,Hyderabad,Telangana,Running Shoes,Fashion,1,3419.64,0.0,Card,Completed,4.0
+1387,2025-07-05,C183,Sanjay,Hyderabad,Telangana,Office Chair,Furniture,2,8395.72,5.0,Cash on Delivery,Completed,4.0
+1388,2025-08-01,C261,Nikhil,Jaipur,Rajasthan,Bookshelf,Furniture,4,6105.51,15.0,UPI,Completed,4.0
+1389,2025-10-08,C201,Arjun,Hyderabad,Telangana,Bookshelf,Furniture,1,6156.62,5.0,Card,Completed,4.0
+1390,2025-04-11,C184,Nikhil,Bangalore,Karnataka,Headphones,Electronics,1,2536.04,0.0,Card,Completed,5.0
+1391,2025-08-15,C141,Aman,Bangalore,Karnataka,Mixer Grinder,Home Appliances,5,4613.27,10.0,Net Banking,Completed,4.0
+1392,2025-01-31,C299,Sneha,Jaipur,Rajasthan,Jeans,Fashion,2,2181.63,5.0,Card,Completed,1.0
+1393,2025-12-09,C266,Priya,Pune,Maharashtra,Bookshelf,Furniture,2,6088.63,10.0,UPI,Cancelled,2.0
+1394,2025-01-28,C237,Ananya,Ahmedabad,Gujarat,Bookshelf,Furniture,1,6090.98,5.0,Card,Completed,4.0
+1395,2025-09-09,C249,Vikram,Ahmedabad,Gujarat,Office Chair,Furniture,2,8244.33,10.0,Cash on Delivery,Completed,4.0
+1396,2025-10-30,C157,Ishita,Hyderabad,Telangana,Office Chair,Furniture,2,8739.71,5.0,UPI,Completed,5.0
+1397,2025-12-22,C113,Priya,Delhi,Delhi,Office Chair,Furniture,3,8361.74,0.0,Card,Completed,3.0
+1398,2025-01-24,C253,Kiran,Bangalore,Karnataka,Mixer Grinder,Home Appliances,2,4718.52,10.0,UPI,Completed,1.0
+1399,2025-09-29,C222,Nikhil,Kochi,Kerala,Office Chair,Furniture,4,8722.96,5.0,Cash on Delivery,Completed,5.0
+1400,2025-07-06,C192,Rohit,Kochi,Kerala,T-Shirt,Fashion,2,866.3,0.0,Cash on Delivery,Returned,1.0
+1401,2025-06-02,C262,Nikhil,Delhi,Delhi,Office Chair,Furniture,5,8445.18,10.0,UPI,Completed,5.0
+1402,2025-11-03,C157,Ishita,Delhi,Delhi,Keyboard,Electronics,2,1507.26,15.0,UPI,Completed,5.0
+1403,2025-06-06,C300,Sanjay,Pune,Maharashtra,Running Shoes,Fashion,1,3431.02,10.0,Card,Completed,4.0
+1404,2025-04-29,C179,Rahul,Kolkata,West Bengal,T-Shirt,Fashion,1,860.21,20.0,UPI,Completed,2.0
+1405,2025-07-18,C175,Varun,Pune,Maharashtra,Backpack,Accessories,1,1746.9,5.0,Card,Completed,2.0
+1406,2025-06-30,C125,Sanjay,Kochi,Kerala,Running Shoes,Fashion,1,3527.4,10.0,Net Banking,Completed,5.0
+1407,2025-07-07,C195,Neha,Hyderabad,Telangana,Laptop,Electronics,3,57460.67,20.0,UPI,Completed,5.0
+1408,2025-09-05,C126,Pooja,Hyderabad,Telangana,Smartphone,Electronics,2,26621.96,0.0,Card,Completed,2.0
+1409,2025-02-15,C266,Priya,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,1,4730.05,10.0,UPI,Returned,5.0
+1410,2025-08-11,C162,Divya,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6473.78,10.0,Card,Completed,5.0
+1411,2025-07-28,C106,Vikram,Ahmedabad,Gujarat,T-Shirt,Fashion,2,935.79,0.0,Net Banking,Completed,4.0
+1412,2025-02-17,C150,Ishita,Pune,Maharashtra,Backpack,Accessories,1,1745.45,5.0,Net Banking,Completed,2.0
+1413,2025-01-19,C290,Aditya,Jaipur,Rajasthan,T-Shirt,Fashion,1,878.36,0.0,Cash on Delivery,Returned,5.0
+1414,2025-05-05,C254,Rahul,Pune,Maharashtra,Keyboard,Electronics,2,1549.41,5.0,Card,Completed,3.0
+1415,2025-12-28,C143,Pooja,Delhi,Delhi,Smartphone,Electronics,5,29307.75,10.0,Net Banking,Returned,5.0
+1416,2025-03-29,C194,Rohit,Hyderabad,Telangana,Running Shoes,Fashion,1,3558.31,5.0,Card,Returned,4.0
+1417,2025-06-05,C186,Arjun,Jaipur,Rajasthan,Mouse,Electronics,2,760.72,5.0,Card,Completed,4.0
+1418,2025-10-05,C270,Nikhil,Ahmedabad,Gujarat,Smartphone,Electronics,5,28041.11,5.0,UPI,Completed,1.0
+1419,2025-09-22,C193,Vikram,Bangalore,Karnataka,T-Shirt,Fashion,1,914.62,5.0,Card,Completed,2.0
+1420,2025-04-27,C229,Aditya,Jaipur,Rajasthan,Jeans,Fashion,1,2195.94,5.0,Card,Completed,3.0
+1421,2025-06-22,C213,Divya,Kolkata,West Bengal,Running Shoes,Fashion,1,3421.44,0.0,Net Banking,Cancelled,4.0
+1422,2025-06-03,C281,Ananya,Chennai,Tamil Nadu,Keyboard,Electronics,1,1552.09,0.0,UPI,Completed,4.0
+1423,2025-07-12,C187,Arjun,Kochi,Kerala,Running Shoes,Fashion,1,3402.3,10.0,UPI,Returned,2.0
+1424,2025-05-29,C269,Kiran,Mumbai,Maharashtra,Mouse,Electronics,5,817.53,5.0,Cash on Delivery,Completed,2.0
+1425,2025-11-23,C215,Rohit,Bangalore,Karnataka,Jeans,Fashion,4,2167.67,15.0,Card,Cancelled,4.0
+1426,2025-04-19,C232,Vikram,Kolkata,West Bengal,Watch,Accessories,1,4675.0,5.0,UPI,Completed,5.0
+1427,2025-11-20,C247,Rohit,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6309.6,5.0,Card,Completed,4.0
+1428,2025-07-08,C229,Aditya,Bangalore,Karnataka,Mixer Grinder,Home Appliances,5,4949.22,15.0,Net Banking,Completed,4.0
+1429,2025-06-30,C124,Aman,Ahmedabad,Gujarat,Watch,Accessories,1,4646.15,0.0,Net Banking,Completed,5.0
+1430,2025-11-09,C209,Divya,Delhi,Delhi,Mixer Grinder,Home Appliances,3,4621.38,0.0,UPI,Completed,4.0
+1431,2025-04-13,C154,Ananya,Pune,Maharashtra,Mouse,Electronics,5,817.85,15.0,Card,Cancelled,4.0
+1432,2025-02-07,C103,Aman,Bangalore,Karnataka,Office Chair,Furniture,2,8694.94,5.0,Cash on Delivery,Completed,5.0
+1433,2025-07-09,C269,Kiran,Delhi,Delhi,Jeans,Fashion,1,2182.98,10.0,UPI,Completed,5.0
+1434,2025-02-16,C255,Sanjay,Bangalore,Karnataka,Coffee Maker,Home Appliances,5,6256.48,5.0,Card,Completed,5.0
+1435,2025-08-29,C116,Priya,Ahmedabad,Gujarat,Office Chair,Furniture,2,8409.22,20.0,Net Banking,Completed,5.0
+1436,2025-09-11,C131,Vikram,Kochi,Kerala,Watch,Accessories,1,4284.3,15.0,UPI,Completed,3.0
+1437,2025-04-21,C110,Sneha,Pune,Maharashtra,Backpack,Accessories,5,1775.11,5.0,UPI,Completed,4.0
+1438,2025-10-19,C201,Arjun,Pune,Maharashtra,Laptop,Electronics,1,55076.2,5.0,UPI,Completed,5.0
+1439,2025-07-17,C188,Rahul,Chennai,Tamil Nadu,Bookshelf,Furniture,4,5808.12,5.0,UPI,Completed,5.0
+1440,2025-03-14,C226,Vikram,Jaipur,Rajasthan,Laptop,Electronics,1,52419.72,10.0,UPI,Returned,5.0
+1441,2025-03-17,C184,Nikhil,Mumbai,Maharashtra,Mouse,Electronics,4,828.52,0.0,Net Banking,Cancelled,5.0
+1442,2025-02-01,C292,Kavya,Hyderabad,Telangana,Laptop,Electronics,4,54342.85,5.0,Net Banking,Completed,2.0
+1443,2025-11-10,C213,Divya,Bangalore,Karnataka,Running Shoes,Fashion,5,3618.65,10.0,UPI,Returned,2.0
+1444,2025-06-17,C289,Ananya,Kolkata,West Bengal,Keyboard,Electronics,2,1508.85,5.0,Cash on Delivery,Cancelled,1.0
+1445,2025-05-27,C297,Arjun,Pune,Maharashtra,Bookshelf,Furniture,5,5807.55,10.0,Net Banking,Completed,3.0
+1446,2025-01-22,C189,Kiran,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,4,4708.7,0.0,Cash on Delivery,Completed,4.0
+1447,2025-09-29,C172,Varun,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6581.17,0.0,Cash on Delivery,Completed,3.0
+1448,2025-10-10,C172,Varun,Hyderabad,Telangana,Laptop,Electronics,2,52358.88,5.0,Net Banking,Completed,5.0
+1449,2025-02-28,C197,Priya,Delhi,Delhi,Backpack,Accessories,2,1868.04,10.0,UPI,Returned,2.0
+1450,2025-02-16,C212,Kiran,Jaipur,Rajasthan,Headphones,Electronics,1,2544.39,0.0,Cash on Delivery,Completed,1.0
+1451,2025-08-03,C241,Aditya,Mumbai,Maharashtra,Office Chair,Furniture,4,8698.46,10.0,Cash on Delivery,Returned,4.0
+1452,2025-08-06,C248,Arjun,Ahmedabad,Gujarat,Smartphone,Electronics,1,29235.56,0.0,Card,Cancelled,2.0
+1453,2025-06-18,C117,Rahul,Chennai,Tamil Nadu,Office Chair,Furniture,2,8540.62,10.0,UPI,Completed,2.0
+1454,2025-09-23,C269,Kiran,Hyderabad,Telangana,Running Shoes,Fashion,4,3506.9,5.0,Card,Completed,3.0
+1455,2025-10-22,C102,Riya,Ahmedabad,Gujarat,Watch,Accessories,1,4585.4,5.0,Cash on Delivery,Cancelled,5.0
+1456,2025-11-18,C120,Nikhil,Jaipur,Rajasthan,Office Chair,Furniture,1,8666.43,5.0,Card,Cancelled,2.0
+1457,2025-12-18,C250,Ananya,Bangalore,Karnataka,Office Chair,Furniture,1,8288.26,0.0,Net Banking,Returned,1.0
+1458,2025-03-06,C287,Riya,Mumbai,Maharashtra,Running Shoes,Fashion,2,3534.18,5.0,Cash on Delivery,Completed,1.0
+1459,2025-09-05,C110,Sneha,Delhi,Delhi,Mixer Grinder,Home Appliances,1,4662.28,20.0,Card,Completed,2.0
+1460,2025-03-09,C258,Aman,Jaipur,Rajasthan,Jeans,Fashion,1,2179.79,10.0,Cash on Delivery,Completed,1.0
+1461,2025-02-15,C264,Pooja,Bangalore,Karnataka,Laptop,Electronics,1,53462.66,10.0,Card,Returned,5.0
+1462,2025-09-01,C266,Priya,Hyderabad,Telangana,Watch,Accessories,3,4278.74,0.0,Cash on Delivery,Cancelled,5.0
+1463,2025-09-05,C253,Kiran,Mumbai,Maharashtra,Jeans,Fashion,1,2202.8,0.0,Net Banking,Completed,3.0
+1464,2025-02-08,C221,Vikram,Jaipur,Rajasthan,Watch,Accessories,2,4590.39,20.0,UPI,Cancelled,5.0
+1465,2025-03-10,C211,Rahul,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,1,4574.16,0.0,Cash on Delivery,Completed,5.0
+1466,2025-01-16,C161,Sneha,Chennai,Tamil Nadu,Headphones,Electronics,1,2428.84,5.0,Card,Returned,5.0
+1467,2025-11-15,C238,Pooja,Chennai,Tamil Nadu,Office Chair,Furniture,2,8400.79,5.0,UPI,Returned,3.0
+1468,2025-06-28,C202,Pooja,Hyderabad,Telangana,Study Table,Furniture,3,7166.54,20.0,Card,Completed,1.0
+1469,2025-10-11,C173,Rohit,Pune,Maharashtra,Running Shoes,Fashion,1,3513.42,5.0,UPI,Returned,4.0
+1470,2025-02-27,C237,Ananya,Chennai,Tamil Nadu,Bookshelf,Furniture,1,6172.42,10.0,Cash on Delivery,Completed,4.0
+1471,2025-04-02,C268,Nikhil,Mumbai,Maharashtra,Smartphone,Electronics,2,28418.1,15.0,Card,Completed,5.0
+1472,2025-05-15,C250,Ananya,Kochi,Kerala,Backpack,Accessories,3,1746.2,20.0,UPI,Completed,5.0
+1473,2025-08-30,C188,Rahul,Mumbai,Maharashtra,T-Shirt,Fashion,4,864.49,5.0,UPI,Completed,5.0
+1474,2025-01-21,C138,Rohit,Delhi,Delhi,Jeans,Fashion,1,2105.51,5.0,Card,Completed,4.0
+1475,2025-07-15,C147,Divya,Mumbai,Maharashtra,Headphones,Electronics,2,2402.61,0.0,Net Banking,Completed,3.0
+1476,2025-02-21,C156,Sneha,Kochi,Kerala,Study Table,Furniture,2,6828.42,15.0,Net Banking,Completed,4.0
+1477,2025-12-28,C155,Meera,Kolkata,West Bengal,Mouse,Electronics,1,786.14,0.0,Card,Completed,1.0
+1478,2025-05-30,C161,Sneha,Jaipur,Rajasthan,Office Chair,Furniture,1,8545.37,15.0,UPI,Returned,4.0
+1479,2025-11-09,C270,Nikhil,Kolkata,West Bengal,Laptop,Electronics,5,54146.3,5.0,Cash on Delivery,Returned,1.0
+1480,2025-04-22,C129,Kiran,Delhi,Delhi,Study Table,Furniture,3,6775.48,5.0,Cash on Delivery,Cancelled,1.0
+1481,2025-04-04,C204,Arjun,Delhi,Delhi,Smartphone,Electronics,2,28089.29,0.0,Card,Returned,1.0
+1482,2025-05-02,C258,Aman,Hyderabad,Telangana,Coffee Maker,Home Appliances,1,6282.74,5.0,Card,Completed,3.0
+1483,2025-06-16,C264,Pooja,Chennai,Tamil Nadu,Backpack,Accessories,1,1748.14,10.0,Cash on Delivery,Returned,5.0
+1484,2025-12-29,C247,Rohit,Pune,Maharashtra,Mixer Grinder,Home Appliances,5,4919.71,20.0,UPI,Completed,5.0
+1485,2025-12-20,C133,Vikram,Hyderabad,Telangana,Headphones,Electronics,5,2544.74,15.0,Cash on Delivery,Cancelled,5.0
+1486,2025-09-02,C229,Aditya,Chennai,Tamil Nadu,Jeans,Fashion,2,2207.15,20.0,Net Banking,Cancelled,4.0
+1487,2025-10-09,C139,Priya,Ahmedabad,Gujarat,Watch,Accessories,2,4505.53,10.0,UPI,Completed,5.0
+1488,2025-01-17,C158,Pooja,Hyderabad,Telangana,Study Table,Furniture,1,6943.49,10.0,Cash on Delivery,Completed,3.0
+1489,2025-01-25,C231,Varun,Delhi,Delhi,Running Shoes,Fashion,2,3566.02,20.0,Card,Completed,1.0
+1490,2025-12-30,C220,Sanjay,Ahmedabad,Gujarat,Laptop,Electronics,3,54807.8,20.0,Cash on Delivery,Returned,1.0
+1491,2025-05-19,C299,Sneha,Bangalore,Karnataka,Headphones,Electronics,2,2588.74,15.0,UPI,Returned,5.0
+1492,2025-08-12,C157,Ishita,Ahmedabad,Gujarat,Smartphone,Electronics,5,29124.97,0.0,Net Banking,Returned,5.0
+1493,2025-02-18,C285,Ananya,Ahmedabad,Gujarat,Keyboard,Electronics,2,1552.19,0.0,UPI,Completed,2.0
+1494,2025-08-22,C177,Vikram,Pune,Maharashtra,Mixer Grinder,Home Appliances,2,4671.14,5.0,UPI,Completed,3.0
+1495,2025-03-03,C103,Aman,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6417.15,15.0,Net Banking,Completed,4.0
+1496,2025-08-23,C216,Aman,Kochi,Kerala,Mixer Grinder,Home Appliances,1,4900.21,10.0,Card,Returned,5.0
+1497,2025-07-26,C149,Sneha,Jaipur,Rajasthan,T-Shirt,Fashion,1,911.88,10.0,Net Banking,Completed,4.0
+1498,2025-11-14,C236,Varun,Jaipur,Rajasthan,Watch,Accessories,5,4521.61,10.0,Cash on Delivery,Completed,4.0
+1499,2025-03-12,C199,Kavya,Delhi,Delhi,Headphones,Electronics,2,2530.12,5.0,Net Banking,Completed,5.0
+1500,2025-10-04,C234,Priya,Kochi,Kerala,Laptop,Electronics,4,53670.27,5.0,Net Banking,Completed,4.0
+1501,2025-02-23,C162,Divya,Kochi,Kerala,T-Shirt,Fashion,2,897.65,5.0,Net Banking,Completed,1.0
+1502,2025-07-26,C140,Riya,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,1,6739.62,5.0,Net Banking,Completed,2.0
+1503,2025-11-14,C102,Riya,Chennai,Tamil Nadu,T-Shirt,Fashion,4,894.95,0.0,Net Banking,Completed,5.0
+1504,2025-08-10,C162,Divya,Pune,Maharashtra,Backpack,Accessories,3,1757.53,5.0,UPI,Completed,5.0
+1505,2025-10-05,C273,Priya,Delhi,Delhi,Watch,Accessories,1,4400.31,5.0,Card,Cancelled,5.0
+1506,2025-12-23,C232,Vikram,Kolkata,West Bengal,Study Table,Furniture,2,6781.41,0.0,Net Banking,Completed,1.0
+1507,2025-04-06,C128,Arjun,Ahmedabad,Gujarat,Laptop,Electronics,3,54801.95,10.0,Cash on Delivery,Cancelled,4.0
+1508,2025-08-20,C220,Sanjay,Chennai,Tamil Nadu,Office Chair,Furniture,3,8439.64,5.0,Cash on Delivery,Cancelled,5.0
+1509,2025-07-01,C204,Arjun,Pune,Maharashtra,Smartphone,Electronics,1,28965.64,0.0,UPI,Returned,5.0
+1510,2025-03-02,C127,Riya,Mumbai,Maharashtra,T-Shirt,Fashion,4,884.4,5.0,Card,Completed,4.0
+1511,2025-10-18,C191,Vikram,Bangalore,Karnataka,Mixer Grinder,Home Appliances,2,4579.37,10.0,Net Banking,Completed,3.0
+1512,2025-10-31,C249,Vikram,Bangalore,Karnataka,Office Chair,Furniture,4,8556.25,5.0,UPI,Completed,5.0
+1513,2025-07-02,C266,Priya,Ahmedabad,Gujarat,Smartphone,Electronics,2,28577.24,20.0,Cash on Delivery,Completed,2.0
+1514,2025-01-25,C199,Kavya,Bangalore,Karnataka,Mouse,Electronics,1,829.15,5.0,Net Banking,Cancelled,4.0
+1515,2025-06-02,C227,Varun,Bangalore,Karnataka,Running Shoes,Fashion,2,3561.64,5.0,Net Banking,Completed,5.0
+1516,2025-02-20,C252,Rohit,Chennai,Tamil Nadu,Study Table,Furniture,4,7082.97,5.0,UPI,Completed,2.0
+1517,2025-01-14,C232,Vikram,Pune,Maharashtra,Laptop,Electronics,3,54786.42,0.0,Cash on Delivery,Completed,4.0
+1518,2025-10-04,C246,Varun,Kolkata,West Bengal,Office Chair,Furniture,4,8392.15,5.0,Net Banking,Cancelled,5.0
+1519,2025-11-17,C269,Kiran,Jaipur,Rajasthan,Backpack,Accessories,3,1722.56,5.0,Net Banking,Completed,1.0
+1520,2025-07-28,C243,Rahul,Ahmedabad,Gujarat,T-Shirt,Fashion,1,858.81,15.0,UPI,Returned,5.0
+1521,2025-02-12,C278,Sanjay,Mumbai,Maharashtra,Smartphone,Electronics,4,28781.49,5.0,Cash on Delivery,Completed,5.0
+1522,2025-03-31,C218,Meera,Mumbai,Maharashtra,Coffee Maker,Home Appliances,2,6766.64,20.0,Card,Cancelled,4.0
+1523,2025-01-26,C166,Divya,Delhi,Delhi,Laptop,Electronics,2,53773.57,10.0,Cash on Delivery,Completed,5.0
+1524,2025-07-28,C143,Pooja,Pune,Maharashtra,Keyboard,Electronics,5,1429.76,0.0,Net Banking,Completed,4.0
+1525,2025-06-04,C283,Aditya,Kolkata,West Bengal,Jeans,Fashion,5,2304.76,20.0,UPI,Completed,3.0
+1526,2025-04-29,C279,Priya,Mumbai,Maharashtra,Mouse,Electronics,4,831.79,15.0,UPI,Cancelled,5.0
+1527,2025-09-30,C210,Arjun,Mumbai,Maharashtra,T-Shirt,Fashion,4,861.03,5.0,Net Banking,Completed,5.0
+1528,2025-12-30,C257,Pooja,Bangalore,Karnataka,Coffee Maker,Home Appliances,1,6425.64,15.0,Card,Completed,3.0
+1529,2025-09-28,C120,Nikhil,Chennai,Tamil Nadu,Office Chair,Furniture,5,8876.03,5.0,UPI,Completed,3.0
+1530,2025-12-26,C137,Ishita,Jaipur,Rajasthan,Bookshelf,Furniture,2,5768.66,20.0,Cash on Delivery,Returned,5.0
+1531,2025-05-05,C236,Varun,Ahmedabad,Gujarat,T-Shirt,Fashion,2,929.4,0.0,UPI,Completed,4.0
+1532,2025-12-10,C126,Pooja,Pune,Maharashtra,Keyboard,Electronics,5,1447.04,10.0,Cash on Delivery,Returned,2.0
+1533,2025-07-11,C131,Vikram,Kolkata,West Bengal,Running Shoes,Fashion,5,3522.19,10.0,Card,Completed,5.0
+1534,2025-12-09,C228,Aman,Ahmedabad,Gujarat,Headphones,Electronics,2,2375.79,10.0,UPI,Completed,5.0
+1535,2025-10-05,C157,Ishita,Kolkata,West Bengal,Watch,Accessories,1,4401.86,0.0,UPI,Completed,5.0
+1536,2025-09-28,C118,Pooja,Bangalore,Karnataka,T-Shirt,Fashion,4,924.93,0.0,Cash on Delivery,Cancelled,1.0
+1537,2025-03-23,C132,Rohit,Jaipur,Rajasthan,Bookshelf,Furniture,1,5922.88,10.0,UPI,Completed,5.0
+1538,2025-02-17,C176,Rahul,Pune,Maharashtra,Headphones,Electronics,1,2539.52,5.0,Card,Completed,3.0
+1539,2025-03-18,C189,Kiran,Ahmedabad,Gujarat,Jeans,Fashion,1,2285.77,10.0,UPI,Completed,2.0
+1540,2025-11-29,C114,Pooja,Pune,Maharashtra,Keyboard,Electronics,5,1570.54,0.0,Net Banking,Completed,5.0
+1541,2025-05-11,C291,Kavya,Pune,Maharashtra,Bookshelf,Furniture,3,5811.16,5.0,UPI,Returned,2.0
+1542,2025-01-06,C250,Ananya,Pune,Maharashtra,Bookshelf,Furniture,3,6035.26,0.0,Card,Completed,2.0
+1543,2025-07-09,C231,Varun,Hyderabad,Telangana,Running Shoes,Fashion,4,3620.79,10.0,Net Banking,Completed,5.0
+1544,2025-01-13,C269,Kiran,Delhi,Delhi,Watch,Accessories,4,4509.88,10.0,UPI,Completed,2.0
+1545,2025-09-30,C277,Rahul,Mumbai,Maharashtra,Keyboard,Electronics,3,1537.54,5.0,Net Banking,Completed,5.0
+1546,2025-04-21,C209,Divya,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6571.46,0.0,Cash on Delivery,Cancelled,5.0
+1547,2025-07-29,C256,Meera,Jaipur,Rajasthan,Jeans,Fashion,1,2123.99,10.0,Cash on Delivery,Completed,5.0
+1548,2025-06-20,C203,Neha,Chennai,Tamil Nadu,Jeans,Fashion,1,2245.79,10.0,UPI,Returned,4.0
+1549,2025-07-20,C212,Kiran,Kolkata,West Bengal,Laptop,Electronics,2,55058.19,15.0,Net Banking,Completed,4.0
+1550,2025-05-17,C153,Priya,Kolkata,West Bengal,Keyboard,Electronics,1,1466.77,5.0,Card,Completed,4.0
+1551,2025-08-25,C175,Varun,Chennai,Tamil Nadu,Backpack,Accessories,2,1770.48,0.0,Card,Completed,1.0
+1552,2025-08-20,C236,Varun,Ahmedabad,Gujarat,Running Shoes,Fashion,1,3385.72,5.0,Card,Returned,3.0
+1553,2025-08-09,C239,Pooja,Kolkata,West Bengal,Running Shoes,Fashion,1,3553.03,20.0,UPI,Cancelled,5.0
+1554,2025-07-11,C251,Neha,Ahmedabad,Gujarat,Office Chair,Furniture,3,8386.0,10.0,Cash on Delivery,Returned,5.0
+1555,2025-04-25,C277,Rahul,Bangalore,Karnataka,Headphones,Electronics,1,2461.27,10.0,Card,Completed,5.0
+1556,2025-02-07,C256,Meera,Hyderabad,Telangana,Office Chair,Furniture,3,8651.72,5.0,Cash on Delivery,Cancelled,
+1557,2025-09-26,C168,Kavya,Pune,Maharashtra,Watch,Accessories,2,4685.82,0.0,Net Banking,Completed,5.0
+1558,2025-09-09,C205,Rahul,Mumbai,Maharashtra,Study Table,Furniture,1,6954.95,0.0,Cash on Delivery,Returned,5.0
+1559,2025-07-27,C284,Nikhil,Hyderabad,Telangana,Watch,Accessories,5,4429.52,0.0,Card,Completed,5.0
+1560,2025-05-22,C255,Sanjay,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,2,4638.14,15.0,UPI,Completed,5.0
+1561,2025-03-14,C134,Ishita,Bangalore,Karnataka,Watch,Accessories,3,4277.26,0.0,Card,Completed,5.0
+1562,2025-10-10,C204,Arjun,Kochi,Kerala,Headphones,Electronics,2,2601.09,5.0,Net Banking,Completed,5.0
+1563,2025-12-17,C263,Riya,Jaipur,Rajasthan,Mouse,Electronics,4,779.96,0.0,Card,Completed,4.0
+1564,2025-03-07,C232,Vikram,Kolkata,West Bengal,Study Table,Furniture,3,6724.94,0.0,Card,Completed,2.0
+1565,2025-10-21,C249,Vikram,Jaipur,Rajasthan,Keyboard,Electronics,3,1549.64,10.0,UPI,Completed,2.0
+1566,2025-03-11,C210,Arjun,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,2,4768.25,20.0,UPI,Completed,5.0
+1567,2025-08-15,C208,Aman,Kolkata,West Bengal,Keyboard,Electronics,2,1512.21,5.0,Card,Completed,5.0
+1568,2025-03-02,C238,Pooja,Jaipur,Rajasthan,Keyboard,Electronics,4,1426.62,5.0,Net Banking,Cancelled,2.0
+1569,2025-12-15,C281,Ananya,Kolkata,West Bengal,Mouse,Electronics,2,769.5,10.0,UPI,Completed,3.0
+1570,2025-04-18,C102,Riya,Hyderabad,Telangana,Bookshelf,Furniture,3,5719.47,5.0,Net Banking,Completed,4.0
+1571,2025-08-08,C223,Riya,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,2,4829.4,10.0,Card,Returned,1.0
+1572,2025-01-31,C203,Neha,Kochi,Kerala,Mouse,Electronics,1,779.21,15.0,Net Banking,Completed,4.0
+1573,2025-11-17,C229,Aditya,Kolkata,West Bengal,Office Chair,Furniture,4,8267.54,0.0,UPI,Completed,5.0
+1574,2025-07-27,C270,Nikhil,Delhi,Delhi,Mixer Grinder,Home Appliances,3,4953.93,5.0,Net Banking,Returned,5.0
+1575,2025-12-03,C117,Rahul,Hyderabad,Telangana,Office Chair,Furniture,1,8252.7,10.0,Net Banking,Returned,4.0
+1576,2025-05-23,C106,Vikram,Bangalore,Karnataka,Coffee Maker,Home Appliances,5,6293.74,10.0,Card,Cancelled,3.0
+1577,2025-01-06,C113,Priya,Hyderabad,Telangana,Mixer Grinder,Home Appliances,1,4705.58,5.0,UPI,Returned,2.0
+1578,2025-01-20,C149,Sneha,Kolkata,West Bengal,Backpack,Accessories,4,1818.3,10.0,Card,Returned,3.0
+1579,2025-01-13,C292,Kavya,Chennai,Tamil Nadu,Smartphone,Electronics,1,27529.91,10.0,Cash on Delivery,Completed,5.0
+1580,2025-12-03,C243,Rahul,Bangalore,Karnataka,Mixer Grinder,Home Appliances,2,5010.47,5.0,Cash on Delivery,Completed,4.0
+1581,2025-11-13,C200,Kiran,Bangalore,Karnataka,Watch,Accessories,5,4650.14,20.0,UPI,Completed,5.0
+1582,2025-11-10,C207,Kiran,Chennai,Tamil Nadu,Laptop,Electronics,2,54692.63,10.0,Net Banking,Returned,4.0
+1583,2025-07-09,C212,Kiran,Mumbai,Maharashtra,Bookshelf,Furniture,2,5794.09,20.0,Net Banking,Cancelled,2.0
+1584,2025-09-28,C128,Arjun,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,5,4605.95,20.0,Cash on Delivery,Completed,5.0
+1585,2025-04-13,C145,Aman,Chennai,Tamil Nadu,Bookshelf,Furniture,2,5730.13,5.0,Card,Cancelled,1.0
+1586,2025-08-09,C130,Sanjay,Kochi,Kerala,Office Chair,Furniture,2,8526.6,10.0,Cash on Delivery,Completed,2.0
+1587,2025-04-18,C271,Nikhil,Kolkata,West Bengal,Mouse,Electronics,5,760.64,0.0,Net Banking,Cancelled,5.0
+1588,2025-08-17,C106,Vikram,Kochi,Kerala,Smartphone,Electronics,1,27298.61,20.0,Card,Completed,5.0
+1589,2025-10-26,C212,Kiran,Ahmedabad,Gujarat,Running Shoes,Fashion,1,3520.79,5.0,UPI,Completed,5.0
+1590,2025-10-18,C296,Kavya,Hyderabad,Telangana,Backpack,Accessories,5,1747.96,10.0,Card,Completed,4.0
+1591,2025-11-12,C250,Ananya,Kolkata,West Bengal,Running Shoes,Fashion,1,3484.04,5.0,Net Banking,Returned,1.0
+1592,2025-03-24,C118,Pooja,Hyderabad,Telangana,Running Shoes,Fashion,4,3653.49,0.0,UPI,Cancelled,5.0
+1593,2025-09-05,C216,Aman,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6679.59,10.0,Net Banking,Completed,2.0
+1594,2025-04-26,C158,Pooja,Kolkata,West Bengal,Mixer Grinder,Home Appliances,3,4567.96,5.0,Net Banking,Completed,2.0
+1595,2025-07-28,C199,Kavya,Delhi,Delhi,Mouse,Electronics,4,835.86,15.0,Net Banking,Returned,5.0
+1596,2025-09-29,C102,Riya,Jaipur,Rajasthan,Watch,Accessories,1,4692.11,5.0,UPI,Completed,2.0
+1597,2025-08-27,C287,Riya,Kochi,Kerala,Office Chair,Furniture,1,8739.37,15.0,Net Banking,Completed,4.0
+1598,2025-10-10,C288,Priya,Mumbai,Maharashtra,Study Table,Furniture,1,6654.38,5.0,Cash on Delivery,Returned,5.0
+1599,2025-01-08,C224,Sneha,Hyderabad,Telangana,Mixer Grinder,Home Appliances,5,4667.67,5.0,UPI,Completed,5.0
+1600,2025-05-31,C136,Divya,Pune,Maharashtra,Jeans,Fashion,2,2227.82,10.0,Net Banking,Returned,2.0
+1601,2025-08-16,C171,Aman,Mumbai,Maharashtra,T-Shirt,Fashion,2,923.32,5.0,Cash on Delivery,Returned,4.0
+1602,2025-10-12,C119,Pooja,Kochi,Kerala,Mouse,Electronics,1,824.43,15.0,Net Banking,Completed,5.0
+1603,2025-12-22,C163,Kavya,Mumbai,Maharashtra,Smartphone,Electronics,5,27743.68,0.0,Card,Cancelled,3.0
+1604,2025-11-25,C134,Ishita,Pune,Maharashtra,Jeans,Fashion,2,2165.86,5.0,Cash on Delivery,Completed,3.0
+1605,2025-01-09,C138,Rohit,Pune,Maharashtra,Keyboard,Electronics,1,1525.86,5.0,Net Banking,Completed,2.0
+1606,2025-10-05,C182,Aditya,Delhi,Delhi,Keyboard,Electronics,1,1523.46,10.0,Card,Completed,4.0
+1607,2025-05-15,C144,Neha,Chennai,Tamil Nadu,Jeans,Fashion,1,2308.37,15.0,Net Banking,Completed,2.0
+1608,2025-04-05,C259,Rohit,Bangalore,Karnataka,Backpack,Accessories,4,1801.27,5.0,UPI,Completed,3.0
+1609,2025-12-18,C216,Aman,Kochi,Kerala,Smartphone,Electronics,5,28332.56,0.0,Net Banking,Returned,5.0
+1610,2025-11-23,C259,Rohit,Ahmedabad,Gujarat,Laptop,Electronics,2,52960.46,5.0,Card,Completed,4.0
+1611,2025-02-16,C195,Neha,Hyderabad,Telangana,Laptop,Electronics,5,54957.28,0.0,Net Banking,Cancelled,2.0
+1612,2025-10-23,C299,Sneha,Chennai,Tamil Nadu,Watch,Accessories,2,4664.5,5.0,Card,Completed,3.0
+1613,2025-11-01,C295,Ananya,Bangalore,Karnataka,Watch,Accessories,3,4675.31,0.0,Net Banking,Completed,4.0
+1614,2025-09-23,C282,Sneha,Mumbai,Maharashtra,Office Chair,Furniture,5,8196.89,10.0,Net Banking,Completed,5.0
+1615,2025-09-03,C177,Vikram,Ahmedabad,Gujarat,Backpack,Accessories,4,1827.4,10.0,Net Banking,Cancelled,5.0
+1616,2025-06-11,C285,Ananya,Mumbai,Maharashtra,Smartphone,Electronics,1,26725.99,20.0,Net Banking,Completed,1.0
+1617,2025-12-18,C166,Divya,Ahmedabad,Gujarat,Backpack,Accessories,1,1793.76,0.0,UPI,Completed,5.0
+1618,2025-06-13,C120,Nikhil,Kolkata,West Bengal,T-Shirt,Fashion,1,924.97,5.0,Net Banking,Returned,3.0
+1619,2025-04-11,C230,Sneha,Jaipur,Rajasthan,Coffee Maker,Home Appliances,4,6433.62,5.0,Net Banking,Completed,4.0
+1620,2025-05-26,C203,Neha,Ahmedabad,Gujarat,Mouse,Electronics,3,765.55,10.0,Net Banking,Returned,2.0
+1621,2025-06-22,C228,Aman,Kochi,Kerala,T-Shirt,Fashion,3,868.56,5.0,Net Banking,Returned,5.0
+1622,2025-06-13,C227,Varun,Mumbai,Maharashtra,Bookshelf,Furniture,1,6175.31,10.0,Net Banking,Completed,5.0
+1623,2025-05-29,C295,Ananya,Kolkata,West Bengal,Jeans,Fashion,1,2149.83,10.0,Net Banking,Completed,5.0
+1624,2025-02-15,C298,Riya,Hyderabad,Telangana,Jeans,Fashion,2,2274.2,,Net Banking,Completed,1.0
+1625,2025-10-10,C269,Kiran,Pune,Maharashtra,Mixer Grinder,Home Appliances,2,4799.51,10.0,Net Banking,Completed,5.0
+1626,2025-03-24,C179,Rahul,Hyderabad,Telangana,Mouse,Electronics,1,816.97,5.0,Card,Returned,5.0
+1627,2025-07-20,C132,Rohit,Ahmedabad,Gujarat,Jeans,Fashion,1,2300.68,10.0,UPI,Returned,5.0
+1628,2025-03-30,C253,Kiran,Pune,Maharashtra,Smartphone,Electronics,2,28299.98,5.0,Net Banking,Completed,4.0
+1629,2025-02-23,C272,Nikhil,Kolkata,West Bengal,Running Shoes,Fashion,3,3615.4,20.0,Card,Completed,4.0
+1630,2025-05-09,C146,Arjun,Bangalore,Karnataka,Laptop,Electronics,2,54010.15,15.0,UPI,Completed,4.0
+1631,2025-05-11,C184,Nikhil,Pune,Maharashtra,Bookshelf,Furniture,1,5889.14,0.0,Net Banking,Completed,4.0
+1632,2025-08-31,C208,Aman,Mumbai,Maharashtra,Jeans,Fashion,4,2146.48,5.0,Card,Completed,5.0
+1633,2025-12-31,C273,Priya,Jaipur,Rajasthan,Office Chair,Furniture,4,8336.4,10.0,Card,Completed,3.0
+1634,2025-01-26,C300,Sanjay,Mumbai,Maharashtra,Bookshelf,Furniture,5,6278.09,5.0,Cash on Delivery,Completed,4.0
+1635,2025-09-25,C256,Meera,Jaipur,Rajasthan,Keyboard,Electronics,5,1522.79,15.0,Cash on Delivery,Returned,3.0
+1636,2025-10-02,C254,Rahul,Kochi,Kerala,Running Shoes,Fashion,1,3651.39,5.0,Net Banking,Returned,5.0
+1637,2025-08-20,C216,Aman,Pune,Maharashtra,Laptop,Electronics,1,55625.01,5.0,Net Banking,Completed,4.0
+1638,2025-06-03,C218,Meera,Ahmedabad,Gujarat,Study Table,Furniture,2,7098.68,5.0,Card,Returned,4.0
+1639,2025-07-27,C271,Nikhil,Bangalore,Karnataka,Mouse,Electronics,2,802.38,20.0,UPI,Cancelled,1.0
+1640,2025-03-16,C225,Kiran,Pune,Maharashtra,Office Chair,Furniture,3,8356.65,5.0,Net Banking,Completed,5.0
+1641,2025-10-06,C210,Arjun,Kochi,Kerala,Running Shoes,Fashion,1,3454.51,15.0,Card,Completed,3.0
+1642,2025-12-19,C211,Rahul,Jaipur,Rajasthan,Watch,Accessories,2,4642.1,5.0,Net Banking,Returned,5.0
+1643,2025-04-03,C135,Sneha,Hyderabad,Telangana,Headphones,Electronics,3,2487.93,5.0,UPI,Returned,5.0
+1644,2025-09-03,C279,Priya,Pune,Maharashtra,Watch,Accessories,2,4551.29,20.0,Net Banking,Completed,5.0
+1645,2025-07-29,C164,Aman,Kolkata,West Bengal,Backpack,Accessories,3,1879.29,0.0,UPI,Completed,2.0
+1646,2025-11-04,C238,Pooja,Jaipur,Rajasthan,Study Table,Furniture,1,7017.68,10.0,UPI,Completed,4.0
+1647,2025-08-06,C281,Ananya,Chennai,Tamil Nadu,Keyboard,Electronics,1,1535.15,10.0,Net Banking,Completed,5.0
+1648,2025-10-19,C278,Sanjay,Jaipur,Rajasthan,Jeans,Fashion,2,2216.94,20.0,Card,Completed,3.0
+1649,2025-12-21,C143,Pooja,Jaipur,Rajasthan,Smartphone,Electronics,2,27081.84,20.0,Cash on Delivery,Completed,3.0
+1650,2025-02-08,C131,Vikram,Mumbai,Maharashtra,Mouse,Electronics,5,766.45,10.0,UPI,Completed,5.0
+1651,2025-10-19,C258,Aman,Pune,Maharashtra,Running Shoes,Fashion,2,3601.99,10.0,Card,Completed,4.0
+1652,2025-08-25,C299,Sneha,Hyderabad,Telangana,Mixer Grinder,Home Appliances,4,4980.06,0.0,Card,Returned,4.0
+1653,2025-09-11,C300,Sanjay,Ahmedabad,Gujarat,Office Chair,Furniture,1,8474.09,15.0,UPI,Returned,1.0
+1654,2025-06-04,C270,Nikhil,Hyderabad,Telangana,Watch,Accessories,3,4639.35,10.0,Cash on Delivery,Completed,5.0
+1655,2025-09-28,C249,Vikram,Kolkata,West Bengal,Jeans,Fashion,3,2151.67,10.0,Card,Completed,5.0
+1656,2025-08-24,C217,Aman,Pune,Maharashtra,Smartphone,Electronics,1,28278.49,0.0,Card,Cancelled,2.0
+1657,2025-04-08,C261,Nikhil,Kochi,Kerala,Running Shoes,Fashion,1,3614.22,5.0,UPI,Returned,2.0
+1658,2025-02-24,C272,Nikhil,Pune,Maharashtra,Watch,Accessories,1,4627.98,10.0,Cash on Delivery,Returned,5.0
+1659,2025-05-30,C256,Meera,Bangalore,Karnataka,Study Table,Furniture,1,6984.83,10.0,Net Banking,Cancelled,5.0
+1660,2025-10-22,C297,Arjun,Kochi,Kerala,Mouse,Electronics,1,801.87,5.0,Card,Cancelled,3.0
+1661,2025-02-04,C211,Rahul,Bangalore,Karnataka,Headphones,Electronics,2,2560.57,15.0,Card,Completed,5.0
+1662,2025-12-06,C138,Rohit,Bangalore,Karnataka,Headphones,Electronics,4,2470.7,0.0,Cash on Delivery,Completed,3.0
+1663,2025-07-14,C185,Neha,Bangalore,Karnataka,Jeans,Fashion,5,2211.72,10.0,Net Banking,Completed,4.0
+1664,2025-08-14,C178,Rohit,Delhi,Delhi,Backpack,Accessories,4,1875.16,10.0,UPI,Returned,5.0
+1665,2025-04-20,C213,Divya,Delhi,Delhi,T-Shirt,Fashion,1,859.1,20.0,Net Banking,Completed,1.0
+1666,2025-11-30,C150,Ishita,Jaipur,Rajasthan,Laptop,Electronics,3,56630.66,20.0,UPI,Completed,1.0
+1667,2025-07-09,C123,Aman,Pune,Maharashtra,Mixer Grinder,Home Appliances,1,4909.82,0.0,UPI,Completed,5.0
+1668,2025-06-28,C128,Arjun,Chennai,Tamil Nadu,Running Shoes,Fashion,1,3326.47,5.0,Net Banking,Completed,5.0
+1669,2025-03-09,C211,Rahul,Jaipur,Rajasthan,Bookshelf,Furniture,2,6091.78,0.0,Card,Completed,2.0
+1670,2025-04-04,C167,Neha,Kochi,Kerala,Bookshelf,Furniture,5,6029.92,20.0,UPI,Cancelled,4.0
+1671,2025-10-28,C125,Sanjay,Mumbai,Maharashtra,Office Chair,Furniture,1,8599.9,0.0,Card,Completed,5.0
+1672,2025-11-05,C214,Vikram,Jaipur,Rajasthan,Study Table,Furniture,1,7197.7,15.0,Card,Returned,5.0
+1673,2025-08-02,C218,Meera,Ahmedabad,Gujarat,Backpack,Accessories,1,1823.53,15.0,Cash on Delivery,Returned,3.0
+1674,2025-01-28,C182,Aditya,Kolkata,West Bengal,T-Shirt,Fashion,1,892.8,0.0,Cash on Delivery,Completed,4.0
+1675,2025-06-17,C226,Vikram,Hyderabad,Telangana,Mouse,Electronics,1,815.36,15.0,Net Banking,Returned,4.0
+1676,2025-06-22,C226,Vikram,Kolkata,West Bengal,T-Shirt,Fashion,5,944.69,5.0,Card,Completed,5.0
+1677,2025-05-14,C185,Neha,Kochi,Kerala,Bookshelf,Furniture,1,5776.54,0.0,Cash on Delivery,Completed,5.0
+1678,2025-08-13,C187,Arjun,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6785.13,15.0,UPI,Completed,5.0
+1679,2025-06-19,C251,Neha,Chennai,Tamil Nadu,Bookshelf,Furniture,5,6145.36,5.0,Cash on Delivery,Completed,5.0
+1680,2025-10-14,C184,Nikhil,Pune,Maharashtra,Running Shoes,Fashion,2,3568.23,0.0,UPI,Completed,5.0
+1681,2025-04-02,C212,Kiran,Hyderabad,Telangana,Study Table,Furniture,3,6872.11,10.0,UPI,Completed,1.0
+1682,2025-09-06,C294,Rohit,Jaipur,Rajasthan,Watch,Accessories,3,4277.91,5.0,UPI,Returned,5.0
+1683,2025-08-13,C273,Priya,Chennai,Tamil Nadu,Bookshelf,Furniture,2,5777.16,5.0,Net Banking,Completed,2.0
+1684,2025-07-09,C292,Kavya,Hyderabad,Telangana,Keyboard,Electronics,2,1486.1,5.0,UPI,Completed,1.0
+1685,2025-08-14,C273,Priya,Hyderabad,Telangana,T-Shirt,Fashion,1,865.95,0.0,UPI,Completed,5.0
+1686,2025-12-02,C125,Sanjay,Pune,Maharashtra,Headphones,Electronics,1,2438.94,5.0,Net Banking,Completed,2.0
+1687,2025-02-17,C189,Kiran,Pune,Maharashtra,Mouse,Electronics,5,794.12,0.0,Cash on Delivery,Completed,2.0
+1688,2025-11-25,C130,Sanjay,Jaipur,Rajasthan,Keyboard,Electronics,5,1511.85,5.0,Cash on Delivery,Completed,5.0
+1689,2025-09-29,C268,Nikhil,Jaipur,Rajasthan,Jeans,Fashion,2,2265.7,0.0,Cash on Delivery,Completed,1.0
+1690,2025-04-21,C152,Sneha,Delhi,Delhi,Study Table,Furniture,4,7113.8,0.0,Card,Cancelled,4.0
+1691,2025-01-08,C104,Aditya,Kochi,Kerala,Jeans,Fashion,4,2248.43,0.0,Cash on Delivery,Returned,5.0
+1692,2025-06-13,C109,Aditya,Delhi,Delhi,Running Shoes,Fashion,2,3402.23,0.0,Net Banking,Cancelled,4.0
+1693,2025-05-10,C137,Ishita,Kochi,Kerala,T-Shirt,Fashion,2,923.22,,Card,Completed,5.0
+1694,2025-06-28,C203,Neha,Ahmedabad,Gujarat,Study Table,Furniture,2,6708.61,10.0,UPI,Completed,5.0
+1695,2025-06-02,C278,Sanjay,Mumbai,Maharashtra,T-Shirt,Fashion,2,859.9,0.0,UPI,Completed,5.0
+1696,2025-03-16,C206,Arjun,Kolkata,West Bengal,Office Chair,Furniture,1,8386.92,0.0,Card,Completed,5.0
+1697,2025-11-14,C169,Varun,Bangalore,Karnataka,Office Chair,Furniture,1,8419.53,10.0,Net Banking,Completed,4.0
+1698,2025-12-24,C115,Ananya,Jaipur,Rajasthan,T-Shirt,Fashion,4,935.73,10.0,Net Banking,Returned,3.0
+1699,2025-07-29,C149,Sneha,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,1,4688.36,20.0,Net Banking,Completed,3.0
+1700,2025-01-10,C142,Vikram,Hyderabad,Telangana,Mixer Grinder,Home Appliances,4,5004.58,5.0,Card,Completed,1.0
+1701,2025-12-03,C106,Vikram,Ahmedabad,Gujarat,Smartphone,Electronics,2,29246.07,10.0,Card,Completed,2.0
+1702,2025-06-15,C227,Varun,Bangalore,Karnataka,Coffee Maker,Home Appliances,1,6377.84,5.0,UPI,Returned,3.0
+1703,2025-11-24,C190,Meera,Delhi,Delhi,Office Chair,Furniture,3,8637.97,5.0,Cash on Delivery,Completed,5.0
+1704,2025-07-19,C159,Priya,Kolkata,West Bengal,Backpack,Accessories,2,1887.58,15.0,Net Banking,Returned,4.0
+1705,2025-01-01,C135,Sneha,Bangalore,Karnataka,Office Chair,Furniture,4,8336.07,5.0,Cash on Delivery,Returned,5.0
+1706,2025-06-27,C272,Nikhil,Kolkata,West Bengal,Backpack,Accessories,1,1857.7,10.0,Cash on Delivery,Completed,4.0
+1707,2025-01-03,C287,Riya,Hyderabad,Telangana,Headphones,Electronics,5,2573.27,20.0,Net Banking,Returned,3.0
+1708,2025-02-19,C216,Aman,Hyderabad,Telangana,T-Shirt,Fashion,4,920.28,0.0,Card,Returned,2.0
+1709,2025-09-21,C179,Rahul,Pune,Maharashtra,Running Shoes,Fashion,2,3562.71,15.0,Cash on Delivery,Completed,5.0
+1710,2025-09-13,C147,Divya,Jaipur,Rajasthan,Smartphone,Electronics,5,28771.41,10.0,Card,Completed,1.0
+1711,2025-12-15,C113,Priya,Hyderabad,Telangana,Smartphone,Electronics,2,27633.58,10.0,Card,Completed,5.0
+1712,2025-01-14,C299,Sneha,Kolkata,West Bengal,Mixer Grinder,Home Appliances,1,4618.51,10.0,Net Banking,Completed,5.0
+1713,2025-04-03,C230,Sneha,Hyderabad,Telangana,Mouse,Electronics,5,813.05,10.0,Net Banking,Cancelled,4.0
+1714,2025-04-23,C122,Kavya,Bangalore,Karnataka,Mouse,Electronics,1,825.62,20.0,Cash on Delivery,Completed,5.0
+1715,2025-12-16,C286,Kiran,Kolkata,West Bengal,Smartphone,Electronics,4,29206.31,0.0,Card,Completed,5.0
+1716,2025-06-14,C169,Varun,Delhi,Delhi,Keyboard,Electronics,1,1425.25,0.0,Net Banking,Completed,4.0
+1717,2025-11-16,C270,Nikhil,Jaipur,Rajasthan,Smartphone,Electronics,2,26600.64,10.0,Card,Returned,2.0
+1718,2025-04-07,C283,Aditya,Pune,Maharashtra,Running Shoes,Fashion,1,3348.66,15.0,UPI,Completed,4.0
+1719,2025-10-11,C225,Kiran,Chennai,Tamil Nadu,Running Shoes,Fashion,5,3456.19,0.0,Card,Completed,5.0
+1720,2025-12-28,C288,Priya,Pune,Maharashtra,Coffee Maker,Home Appliances,4,6326.27,0.0,Net Banking,Completed,4.0
+1721,2025-10-22,C284,Nikhil,Chennai,Tamil Nadu,Office Chair,Furniture,2,8365.06,5.0,UPI,Completed,1.0
+1722,2025-12-20,C179,Rahul,Chennai,Tamil Nadu,Study Table,Furniture,3,7120.11,0.0,Card,Completed,3.0
+1723,2025-07-12,C171,Aman,Ahmedabad,Gujarat,Smartphone,Electronics,5,29363.31,10.0,Net Banking,Returned,1.0
+1724,2025-01-09,C152,Sneha,Chennai,Tamil Nadu,Running Shoes,Fashion,1,3418.48,10.0,Cash on Delivery,Completed,2.0
+1725,2025-11-24,C279,Priya,Ahmedabad,Gujarat,Headphones,Electronics,2,2379.57,20.0,UPI,Returned,1.0
+1726,2025-07-04,C213,Divya,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,3,4648.76,15.0,Cash on Delivery,Completed,3.0
+1727,2025-02-11,C162,Divya,Pune,Maharashtra,Running Shoes,Fashion,2,3641.85,5.0,Card,Completed,5.0
+1728,2025-07-26,C258,Aman,Chennai,Tamil Nadu,Study Table,Furniture,3,7345.65,10.0,Card,Returned,3.0
+1729,2025-04-24,C156,Sneha,Kolkata,West Bengal,Headphones,Electronics,1,2456.57,5.0,UPI,Completed,4.0
+1730,2025-10-04,C185,Neha,Pune,Maharashtra,Mouse,Electronics,1,773.75,5.0,UPI,Completed,3.0
+1731,2025-04-10,C161,Sneha,Pune,Maharashtra,Bookshelf,Furniture,2,5827.37,0.0,Card,Completed,1.0
+1732,2025-12-01,C221,Vikram,Kolkata,West Bengal,Study Table,Furniture,4,6789.45,5.0,Card,Returned,4.0
+1733,2025-03-22,C296,Kavya,Kolkata,West Bengal,Headphones,Electronics,1,2550.23,10.0,UPI,Completed,5.0
+1734,2025-02-27,C250,Ananya,Jaipur,Rajasthan,Keyboard,Electronics,4,1524.5,10.0,Card,Completed,2.0
+1735,2025-12-01,C234,Priya,Hyderabad,Telangana,Study Table,Furniture,2,7315.57,15.0,Net Banking,Completed,2.0
+1736,2025-03-10,C197,Priya,Mumbai,Maharashtra,Jeans,Fashion,1,2277.64,0.0,UPI,Completed,5.0
+1737,2025-06-03,C222,Nikhil,Hyderabad,Telangana,Study Table,Furniture,5,7084.17,10.0,Cash on Delivery,Completed,5.0
+1738,2025-01-03,C257,Pooja,Chennai,Tamil Nadu,Laptop,Electronics,4,57409.35,15.0,Card,Completed,3.0
+1739,2025-01-06,C235,Meera,Jaipur,Rajasthan,Laptop,Electronics,2,55340.25,20.0,Cash on Delivery,Completed,5.0
+1740,2025-07-28,C190,Meera,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,3,6704.35,5.0,UPI,Completed,3.0
+1741,2025-02-10,C291,Kavya,Kochi,Kerala,Headphones,Electronics,5,2535.7,20.0,Net Banking,Returned,3.0
+1742,2025-05-07,C128,Arjun,Hyderabad,Telangana,Coffee Maker,Home Appliances,1,6481.35,0.0,Net Banking,Completed,5.0
+1743,2025-07-22,C113,Priya,Jaipur,Rajasthan,Study Table,Furniture,5,6938.66,15.0,Card,Completed,4.0
+1744,2025-04-30,C276,Rahul,Delhi,Delhi,Office Chair,Furniture,5,8246.83,20.0,UPI,Completed,5.0
+1745,2025-11-20,C157,Ishita,Chennai,Tamil Nadu,Backpack,Accessories,5,1754.2,0.0,UPI,Completed,4.0
+1746,2025-07-02,C150,Ishita,Ahmedabad,Gujarat,Watch,Accessories,2,4608.7,0.0,UPI,Completed,4.0
+1747,2025-03-23,C245,Riya,Chennai,Tamil Nadu,Watch,Accessories,2,4349.8,10.0,UPI,Completed,5.0
+1748,2025-02-16,C277,Rahul,Mumbai,Maharashtra,Smartphone,Electronics,5,28005.62,20.0,Cash on Delivery,Completed,1.0
+1749,2025-08-05,C179,Rahul,Delhi,Delhi,Study Table,Furniture,2,7170.73,0.0,Card,Completed,5.0
+1750,2025-10-25,C192,Rohit,Hyderabad,Telangana,Smartphone,Electronics,1,28922.28,0.0,Cash on Delivery,Completed,4.0
+1751,2025-02-24,C261,Nikhil,Hyderabad,Telangana,Bookshelf,Furniture,1,5905.11,0.0,Card,Completed,5.0
+1752,2025-12-22,C152,Sneha,Mumbai,Maharashtra,Mouse,Electronics,3,808.11,10.0,Net Banking,Cancelled,5.0
+1753,2025-05-24,C162,Divya,Hyderabad,Telangana,Laptop,Electronics,3,52360.13,20.0,Card,Cancelled,5.0
+1754,2025-10-26,C192,Rohit,Pune,Maharashtra,Keyboard,Electronics,1,1452.96,10.0,Card,Completed,5.0
+1755,2025-03-09,C299,Sneha,Hyderabad,Telangana,Watch,Accessories,2,4287.09,15.0,UPI,Completed,3.0
+1756,2025-03-19,C102,Riya,Hyderabad,Telangana,T-Shirt,Fashion,1,941.59,10.0,Net Banking,Returned,2.0
+1757,2025-08-22,C126,Pooja,Delhi,Delhi,T-Shirt,Fashion,5,893.59,0.0,UPI,Cancelled,5.0
+1758,2025-07-02,C181,Neha,Chennai,Tamil Nadu,Keyboard,Electronics,3,1553.54,5.0,Net Banking,Completed,5.0
+1759,2025-07-11,C200,Kiran,Bangalore,Karnataka,Smartphone,Electronics,3,29222.83,10.0,Net Banking,Returned,2.0
+1760,2025-03-12,C112,Arjun,Mumbai,Maharashtra,Running Shoes,Fashion,2,3539.95,5.0,Net Banking,Completed,5.0
+1761,2025-03-10,C184,Nikhil,Delhi,Delhi,Running Shoes,Fashion,4,3354.49,5.0,Cash on Delivery,Completed,2.0
+1762,2025-04-03,C169,Varun,Kolkata,West Bengal,Mouse,Electronics,4,802.83,5.0,Card,Completed,2.0
+1763,2025-04-16,C249,Vikram,Ahmedabad,Gujarat,Mouse,Electronics,3,826.92,20.0,Net Banking,Cancelled,3.0
+1764,2025-04-29,C219,Varun,Kolkata,West Bengal,Coffee Maker,Home Appliances,3,6627.53,5.0,Card,Completed,1.0
+1765,2025-09-14,C110,Sneha,Kochi,Kerala,Laptop,Electronics,3,52917.17,15.0,Net Banking,Completed,2.0
+1766,2025-12-04,C241,Aditya,Chennai,Tamil Nadu,Watch,Accessories,1,4595.3,5.0,UPI,Completed,2.0
+1767,2025-11-03,C112,Arjun,Hyderabad,Telangana,Watch,Accessories,5,4541.27,10.0,Cash on Delivery,Completed,5.0
+1768,2025-11-05,C240,Riya,Jaipur,Rajasthan,Smartphone,Electronics,1,28080.24,5.0,Net Banking,Completed,4.0
+1769,2025-01-14,C212,Kiran,Ahmedabad,Gujarat,Keyboard,Electronics,2,1437.74,10.0,Net Banking,Returned,2.0
+1770,2025-08-04,C186,Arjun,Delhi,Delhi,T-Shirt,Fashion,4,886.23,5.0,Cash on Delivery,Completed,1.0
+1771,2025-02-13,C254,Rahul,Pune,Maharashtra,Office Chair,Furniture,2,8106.21,10.0,Card,Returned,2.0
+1772,2025-09-23,C234,Priya,Hyderabad,Telangana,Headphones,Electronics,5,2560.17,5.0,Net Banking,Cancelled,5.0
+1773,2025-01-18,C170,Ishita,Delhi,Delhi,Backpack,Accessories,5,1752.59,0.0,Net Banking,Completed,1.0
+1774,2025-02-01,C196,Pooja,Kochi,Kerala,Running Shoes,Fashion,1,3414.37,5.0,Card,Completed,1.0
+1775,2025-12-09,C175,Varun,Kolkata,West Bengal,Smartphone,Electronics,5,27726.46,10.0,UPI,Completed,4.0
+1776,2025-10-18,C102,Riya,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,1,4762.42,5.0,Cash on Delivery,Completed,4.0
+1777,2025-12-09,C246,Varun,Ahmedabad,Gujarat,Bookshelf,Furniture,2,5763.97,10.0,Net Banking,Completed,3.0
+1778,2025-10-23,C294,Rohit,Kochi,Kerala,Watch,Accessories,4,4664.28,10.0,UPI,Completed,2.0
+1779,2025-09-08,C247,Rohit,Chennai,Tamil Nadu,Mouse,Electronics,1,783.2,15.0,Card,Completed,4.0
+1780,2025-04-22,C124,Aman,Chennai,Tamil Nadu,Mouse,Electronics,1,769.06,0.0,UPI,Completed,5.0
+1781,2025-07-05,C282,Sneha,Bangalore,Karnataka,Jeans,Fashion,5,2138.47,5.0,Card,Completed,2.0
+1782,2025-05-07,C208,Aman,Chennai,Tamil Nadu,Jeans,Fashion,2,2279.35,0.0,UPI,Completed,2.0
+1783,2025-09-28,C188,Rahul,Kolkata,West Bengal,Bookshelf,Furniture,1,6147.71,20.0,UPI,Cancelled,4.0
+1784,2025-05-23,C174,Aman,Mumbai,Maharashtra,Jeans,Fashion,3,2149.74,0.0,Card,Completed,5.0
+1785,2025-04-18,C199,Kavya,Mumbai,Maharashtra,Mouse,Electronics,2,789.84,5.0,Card,Cancelled,4.0
+1786,2025-05-31,C251,Neha,Delhi,Delhi,Jeans,Fashion,1,2122.55,15.0,Cash on Delivery,Returned,4.0
+1787,2025-03-31,C168,Kavya,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,1,4570.08,5.0,UPI,Completed,4.0
+1788,2025-04-09,C109,Aditya,Delhi,Delhi,Office Chair,Furniture,2,8614.37,20.0,UPI,Completed,5.0
+1789,2025-03-16,C177,Vikram,Kolkata,West Bengal,Watch,Accessories,1,4494.65,10.0,Card,Returned,4.0
+1790,2025-09-13,C281,Ananya,Hyderabad,Telangana,Study Table,Furniture,5,7140.57,10.0,Cash on Delivery,Completed,3.0
+1791,2025-11-03,C221,Vikram,Pune,Maharashtra,Mixer Grinder,Home Appliances,1,4590.62,10.0,Card,Completed,5.0
+1792,2025-04-08,C104,Aditya,Chennai,Tamil Nadu,Bookshelf,Furniture,4,5903.29,5.0,Net Banking,Cancelled,3.0
+1793,2025-05-01,C109,Aditya,Delhi,Delhi,Smartphone,Electronics,3,28674.43,15.0,Cash on Delivery,Completed,1.0
+1794,2025-06-19,C104,Aditya,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,4,4773.4,5.0,Net Banking,Completed,4.0
+1795,2025-09-30,C169,Varun,Chennai,Tamil Nadu,Watch,Accessories,5,4441.21,0.0,Net Banking,Completed,3.0
+1796,2025-02-18,C188,Rahul,Bangalore,Karnataka,Coffee Maker,Home Appliances,4,6749.82,0.0,Card,Returned,5.0
+1797,2025-08-03,C250,Ananya,Mumbai,Maharashtra,Laptop,Electronics,2,53802.73,15.0,Card,Completed,5.0
+1798,2025-06-26,C226,Vikram,Ahmedabad,Gujarat,Headphones,Electronics,4,2503.62,20.0,Net Banking,Completed,5.0
+1799,2025-08-02,C285,Ananya,Mumbai,Maharashtra,Coffee Maker,Home Appliances,2,6425.93,5.0,UPI,Returned,2.0
+1800,2025-12-17,C224,Sneha,Hyderabad,Telangana,T-Shirt,Fashion,5,904.47,5.0,Net Banking,Completed,5.0
+1801,2025-05-25,C281,Ananya,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,5,4954.9,10.0,Card,Cancelled,4.0
+1802,2025-11-04,C247,Rohit,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,2,6258.9,5.0,Cash on Delivery,Cancelled,4.0
+1803,2025-07-13,C107,Sanjay,Jaipur,Rajasthan,T-Shirt,Fashion,1,861.78,0.0,UPI,Completed,5.0
+1804,2025-01-10,C142,Vikram,Jaipur,Rajasthan,Jeans,Fashion,1,2101.55,0.0,Card,Completed,4.0
+1805,2025-08-19,C228,Aman,Bangalore,Karnataka,Mouse,Electronics,2,767.74,0.0,Card,Cancelled,5.0
+1806,2025-11-04,C149,Sneha,Jaipur,Rajasthan,Laptop,Electronics,1,56509.67,10.0,UPI,Returned,3.0
+1807,2025-04-07,C163,Kavya,Bangalore,Karnataka,Keyboard,Electronics,2,1509.29,10.0,Card,Cancelled,3.0
+1808,2025-11-09,C277,Rahul,Mumbai,Maharashtra,Watch,Accessories,4,4387.89,10.0,UPI,Completed,3.0
+1809,2025-07-01,C121,Meera,Ahmedabad,Gujarat,Coffee Maker,Home Appliances,2,6505.82,10.0,UPI,Completed,4.0
+1810,2025-01-19,C220,Sanjay,Delhi,Delhi,Smartphone,Electronics,1,27508.12,10.0,Net Banking,Completed,1.0
+1811,2025-06-02,C231,Varun,Kochi,Kerala,Mouse,Electronics,5,791.38,5.0,Cash on Delivery,Cancelled,5.0
+1812,2025-07-03,C155,Meera,Mumbai,Maharashtra,Keyboard,Electronics,1,1442.3,10.0,Cash on Delivery,Returned,3.0
+1813,2025-10-02,C217,Aman,Hyderabad,Telangana,Study Table,Furniture,2,7205.93,0.0,Cash on Delivery,Returned,5.0
+1814,2025-09-15,C142,Vikram,Kochi,Kerala,Running Shoes,Fashion,1,3513.14,5.0,Cash on Delivery,Returned,4.0
+1815,2025-09-08,C119,Pooja,Hyderabad,Telangana,Mouse,Electronics,2,839.63,10.0,Cash on Delivery,Completed,5.0
+1816,2025-06-07,C136,Divya,Ahmedabad,Gujarat,Jeans,Fashion,1,2102.26,10.0,Net Banking,Completed,5.0
+1817,2025-05-26,C129,Kiran,Jaipur,Rajasthan,Keyboard,Electronics,3,1506.57,10.0,Card,Completed,3.0
+1818,2025-10-06,C112,Arjun,Chennai,Tamil Nadu,Laptop,Electronics,1,56935.15,5.0,UPI,Completed,5.0
+1819,2025-08-02,C132,Rohit,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,2,4575.55,10.0,Cash on Delivery,Completed,4.0
+1820,2025-01-10,C176,Rahul,Mumbai,Maharashtra,Laptop,Electronics,2,53281.27,0.0,Cash on Delivery,Completed,3.0
+1821,2025-01-27,C196,Pooja,Kolkata,West Bengal,T-Shirt,Fashion,5,901.16,10.0,Net Banking,Completed,3.0
+1822,2025-09-11,C267,Arjun,Hyderabad,Telangana,Jeans,Fashion,5,2143.71,10.0,Card,Completed,2.0
+1823,2025-06-28,C138,Rohit,Jaipur,Rajasthan,Running Shoes,Fashion,5,3576.36,15.0,Cash on Delivery,Completed,4.0
+1824,2025-07-23,C242,Vikram,Mumbai,Maharashtra,Study Table,Furniture,1,7326.64,5.0,Card,Completed,5.0
+1825,2025-03-29,C250,Ananya,Kolkata,West Bengal,Keyboard,Electronics,4,1459.55,5.0,UPI,Completed,5.0
+1826,2025-12-25,C285,Ananya,Kochi,Kerala,Mouse,Electronics,1,816.89,10.0,Card,Completed,2.0
+1827,2025-09-09,C208,Aman,Kochi,Kerala,Laptop,Electronics,3,53578.81,0.0,Cash on Delivery,Completed,5.0
+1828,2025-03-19,C145,Aman,Kochi,Kerala,Headphones,Electronics,2,2427.74,15.0,Card,Completed,4.0
+1829,2025-03-08,C260,Riya,Bangalore,Karnataka,Headphones,Electronics,1,2408.44,5.0,UPI,Completed,4.0
+1830,2025-05-18,C276,Rahul,Hyderabad,Telangana,Study Table,Furniture,1,6827.79,5.0,Cash on Delivery,Completed,4.0
+1831,2025-07-24,C234,Priya,Bangalore,Karnataka,Mouse,Electronics,1,817.79,5.0,Cash on Delivery,Cancelled,5.0
+1832,2025-12-23,C104,Aditya,Ahmedabad,Gujarat,Running Shoes,Fashion,2,3471.42,0.0,Net Banking,Returned,3.0
+1833,2025-05-21,C156,Sneha,Jaipur,Rajasthan,Bookshelf,Furniture,3,5754.89,10.0,Cash on Delivery,Returned,1.0
+1834,2025-09-06,C264,Pooja,Ahmedabad,Gujarat,Laptop,Electronics,1,52584.98,0.0,UPI,Completed,2.0
+1835,2025-08-15,C152,Sneha,Kochi,Kerala,Office Chair,Furniture,4,8333.48,5.0,Net Banking,Completed,4.0
+1836,2025-06-30,C169,Varun,Mumbai,Maharashtra,Study Table,Furniture,1,7341.16,0.0,UPI,Completed,4.0
+1837,2025-05-08,C220,Sanjay,Kochi,Kerala,Laptop,Electronics,3,54432.34,20.0,UPI,Completed,3.0
+1838,2025-07-03,C220,Sanjay,Delhi,Delhi,Watch,Accessories,4,4535.69,10.0,Card,Completed,4.0
+1839,2025-03-07,C262,Nikhil,Bangalore,Karnataka,Bookshelf,Furniture,2,5716.25,,Card,Completed,5.0
+1840,2025-07-18,C260,Riya,Mumbai,Maharashtra,Backpack,Accessories,5,1719.49,0.0,Cash on Delivery,Completed,4.0
+1841,2025-06-15,C239,Pooja,Pune,Maharashtra,Jeans,Fashion,3,2156.91,10.0,Card,Returned,4.0
+1842,2025-10-16,C189,Kiran,Hyderabad,Telangana,Jeans,Fashion,1,2199.9,5.0,Card,Completed,5.0
+1843,2025-08-31,C233,Sanjay,Kolkata,West Bengal,Smartphone,Electronics,2,28389.1,10.0,Cash on Delivery,Completed,5.0
+1844,2025-06-12,C270,Nikhil,Chennai,Tamil Nadu,Study Table,Furniture,3,6764.35,10.0,Card,Completed,2.0
+1845,2025-08-19,C194,Rohit,Jaipur,Rajasthan,Running Shoes,Fashion,2,3643.73,10.0,UPI,Completed,5.0
+1846,2025-02-16,C289,Ananya,Kochi,Kerala,Jeans,Fashion,5,2100.85,15.0,UPI,Completed,5.0
+1847,2025-06-03,C297,Arjun,Kolkata,West Bengal,T-Shirt,Fashion,4,909.93,20.0,Net Banking,Completed,1.0
+1848,2025-01-03,C164,Aman,Pune,Maharashtra,Jeans,Fashion,4,2127.53,5.0,Net Banking,Cancelled,4.0
+1849,2025-01-21,C111,Neha,Hyderabad,Telangana,Office Chair,Furniture,1,8667.19,0.0,Cash on Delivery,Returned,5.0
+1850,2025-04-09,C166,Divya,Mumbai,Maharashtra,Running Shoes,Fashion,1,3563.33,0.0,Cash on Delivery,Completed,5.0
+1851,2025-02-20,C229,Aditya,Jaipur,Rajasthan,Running Shoes,Fashion,1,3478.7,15.0,Card,Completed,5.0
+1852,2025-08-18,C292,Kavya,Kochi,Kerala,Mouse,Electronics,1,828.67,5.0,UPI,Completed,2.0
+1853,2025-06-26,C176,Rahul,Mumbai,Maharashtra,Office Chair,Furniture,4,8866.76,10.0,Cash on Delivery,Completed,4.0
+1854,2025-01-26,C289,Ananya,Delhi,Delhi,Jeans,Fashion,4,2243.9,5.0,Net Banking,Cancelled,5.0
+1855,2025-01-13,C115,Ananya,Hyderabad,Telangana,Mouse,Electronics,4,771.18,15.0,Net Banking,Completed,4.0
+1856,2025-12-24,C166,Divya,Pune,Maharashtra,Running Shoes,Fashion,1,3612.44,10.0,Card,Completed,3.0
+1857,2025-01-21,C300,Sanjay,Ahmedabad,Gujarat,Laptop,Electronics,5,55278.14,10.0,Net Banking,Completed,5.0
+1858,2025-01-31,C291,Kavya,Delhi,Delhi,Bookshelf,Furniture,1,5729.26,10.0,Card,Completed,4.0
+1859,2025-03-25,C109,Aditya,Kochi,Kerala,Watch,Accessories,5,4537.1,5.0,UPI,Returned,4.0
+1860,2025-04-12,C186,Arjun,Kolkata,West Bengal,Study Table,Furniture,2,6927.61,20.0,Net Banking,Returned,5.0
+1861,2025-04-01,C114,Pooja,Delhi,Delhi,Laptop,Electronics,1,55227.49,15.0,Net Banking,Cancelled,2.0
+1862,2025-08-03,C129,Kiran,Bangalore,Karnataka,Laptop,Electronics,2,55691.07,20.0,UPI,Cancelled,2.0
+1863,2025-11-18,C235,Meera,Kochi,Kerala,Keyboard,Electronics,1,1467.57,10.0,UPI,Completed,4.0
+1864,2025-07-01,C255,Sanjay,Hyderabad,Telangana,Study Table,Furniture,2,7089.84,0.0,UPI,Completed,5.0
+1865,2025-03-23,C225,Kiran,Kochi,Kerala,Office Chair,Furniture,1,8735.36,0.0,Cash on Delivery,Completed,4.0
+1866,2025-03-06,C250,Ananya,Delhi,Delhi,Keyboard,Electronics,5,1552.63,5.0,UPI,Completed,3.0
+1867,2025-09-16,C229,Aditya,Delhi,Delhi,Keyboard,Electronics,1,1568.09,15.0,Card,Completed,5.0
+1868,2025-02-04,C292,Kavya,Kochi,Kerala,Jeans,Fashion,4,2136.58,0.0,Net Banking,Completed,4.0
+1869,2025-09-06,C116,Priya,Hyderabad,Telangana,Headphones,Electronics,5,2433.22,15.0,Card,Completed,1.0
+1870,2025-03-16,C179,Rahul,Kochi,Kerala,Headphones,Electronics,2,2602.91,5.0,Card,Completed,5.0
+1871,2025-09-16,C141,Aman,Kochi,Kerala,Smartphone,Electronics,1,28180.86,15.0,Net Banking,Completed,2.0
+1872,2025-05-12,C261,Nikhil,Delhi,Delhi,Mixer Grinder,Home Appliances,4,4658.7,15.0,Net Banking,Completed,4.0
+1873,2025-11-06,C264,Pooja,Hyderabad,Telangana,T-Shirt,Fashion,5,871.95,10.0,Net Banking,Completed,5.0
+1874,2025-01-22,C180,Pooja,Kochi,Kerala,Headphones,Electronics,5,2573.89,5.0,Net Banking,Completed,4.0
+1875,2025-06-29,C216,Aman,Delhi,Delhi,Mouse,Electronics,2,803.6,5.0,UPI,Completed,2.0
+1876,2025-10-27,C269,Kiran,Chennai,Tamil Nadu,Office Chair,Furniture,2,8269.98,20.0,Cash on Delivery,Cancelled,5.0
+1877,2025-03-14,C190,Meera,Delhi,Delhi,Laptop,Electronics,4,57150.36,5.0,Cash on Delivery,Returned,1.0
+1878,2025-12-19,C201,Arjun,Chennai,Tamil Nadu,Keyboard,Electronics,3,1426.03,5.0,Cash on Delivery,Completed,5.0
+1879,2025-05-03,C286,Kiran,Bangalore,Karnataka,Keyboard,Electronics,1,1466.25,5.0,UPI,Completed,5.0
+1880,2025-12-03,C232,Vikram,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6459.55,10.0,Card,Completed,5.0
+1881,2025-04-10,C174,Aman,Hyderabad,Telangana,Mouse,Electronics,1,829.98,0.0,Card,Completed,5.0
+1882,2025-06-19,C285,Ananya,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,3,6402.19,20.0,UPI,Cancelled,4.0
+1883,2025-03-16,C182,Aditya,Chennai,Tamil Nadu,Backpack,Accessories,4,1727.2,20.0,Card,Completed,3.0
+1884,2025-09-12,C214,Vikram,Kochi,Kerala,Office Chair,Furniture,1,8089.38,0.0,Net Banking,Completed,5.0
+1885,2025-04-02,C157,Ishita,Pune,Maharashtra,Jeans,Fashion,3,2148.34,0.0,Net Banking,Cancelled,5.0
+1886,2025-02-14,C144,Neha,Chennai,Tamil Nadu,T-Shirt,Fashion,2,911.72,15.0,UPI,Completed,5.0
+1887,2025-07-04,C133,Vikram,Bangalore,Karnataka,Coffee Maker,Home Appliances,2,6313.58,5.0,UPI,Returned,1.0
+1888,2025-06-28,C254,Rahul,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,2,6447.3,0.0,UPI,Completed,3.0
+1889,2025-06-21,C155,Meera,Kolkata,West Bengal,Backpack,Accessories,3,1713.34,0.0,Net Banking,Completed,5.0
+1890,2025-10-27,C230,Sneha,Chennai,Tamil Nadu,Jeans,Fashion,1,2275.45,0.0,Card,Completed,5.0
+1891,2025-02-24,C262,Nikhil,Delhi,Delhi,Coffee Maker,Home Appliances,3,6220.95,10.0,Cash on Delivery,Cancelled,3.0
+1892,2025-07-07,C126,Pooja,Jaipur,Rajasthan,Coffee Maker,Home Appliances,3,6733.31,5.0,Card,Completed,2.0
+1893,2025-04-14,C294,Rohit,Kolkata,West Bengal,Smartphone,Electronics,2,27768.67,5.0,Net Banking,Returned,4.0
+1894,2025-01-30,C122,Kavya,Delhi,Delhi,Running Shoes,Fashion,1,3482.39,15.0,Net Banking,Completed,1.0
+1895,2025-09-18,C211,Rahul,Jaipur,Rajasthan,Headphones,Electronics,1,2587.9,5.0,Cash on Delivery,Completed,5.0
+1896,2025-06-19,C255,Sanjay,Ahmedabad,Gujarat,Watch,Accessories,1,4470.88,20.0,UPI,Completed,1.0
+1897,2025-10-06,C133,Vikram,Bangalore,Karnataka,Mouse,Electronics,4,818.58,20.0,Cash on Delivery,Completed,5.0
+1898,2025-06-26,C112,Arjun,Ahmedabad,Gujarat,Mouse,Electronics,2,795.21,10.0,Card,Cancelled,5.0
+1899,2025-08-30,C113,Priya,Hyderabad,Telangana,Running Shoes,Fashion,1,3481.83,0.0,UPI,Returned,2.0
+1900,2025-05-14,C244,Rahul,Kolkata,West Bengal,Laptop,Electronics,1,54891.01,0.0,Card,Completed,5.0
+1901,2025-11-26,C206,Arjun,Ahmedabad,Gujarat,Smartphone,Electronics,5,28241.46,5.0,UPI,Returned,4.0
+1902,2025-05-20,C286,Kiran,Pune,Maharashtra,Coffee Maker,Home Appliances,3,6393.01,0.0,Cash on Delivery,Returned,5.0
+1903,2025-08-01,C151,Neha,Kolkata,West Bengal,Study Table,Furniture,1,6754.61,10.0,UPI,Completed,4.0
+1904,2025-08-14,C283,Aditya,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,1,4784.78,10.0,Cash on Delivery,Completed,2.0
+1905,2025-11-22,C135,Sneha,Pune,Maharashtra,Headphones,Electronics,5,2396.05,5.0,Cash on Delivery,Completed,3.0
+1906,2025-11-19,C167,Neha,Chennai,Tamil Nadu,Study Table,Furniture,2,6864.51,10.0,Cash on Delivery,Completed,5.0
+1907,2025-07-29,C296,Kavya,Delhi,Delhi,Laptop,Electronics,4,55953.81,10.0,Net Banking,Cancelled,1.0
+1908,2025-12-22,C230,Sneha,Delhi,Delhi,Jeans,Fashion,5,2179.52,5.0,Cash on Delivery,Completed,5.0
+1909,2025-10-26,C129,Kiran,Bangalore,Karnataka,Office Chair,Furniture,4,8110.33,0.0,Net Banking,Completed,1.0
+1910,2025-01-31,C292,Kavya,Bangalore,Karnataka,Smartphone,Electronics,1,27352.8,10.0,Cash on Delivery,Completed,4.0
+1911,2025-11-19,C295,Ananya,Kochi,Kerala,Coffee Maker,Home Appliances,5,6657.31,0.0,Card,Completed,2.0
+1912,2025-10-10,C237,Ananya,Pune,Maharashtra,Study Table,Furniture,1,6743.82,10.0,Card,Completed,5.0
+1913,2025-06-17,C144,Neha,Mumbai,Maharashtra,T-Shirt,Fashion,4,935.78,5.0,Card,Completed,3.0
+1914,2025-08-03,C176,Rahul,Kolkata,West Bengal,T-Shirt,Fashion,3,874.54,10.0,Card,Cancelled,1.0
+1915,2025-06-10,C185,Neha,Delhi,Delhi,Headphones,Electronics,1,2516.86,20.0,Cash on Delivery,Returned,5.0
+1916,2025-05-10,C265,Vikram,Bangalore,Karnataka,T-Shirt,Fashion,1,903.28,15.0,Net Banking,Completed,3.0
+1917,2025-12-07,C102,Riya,Kolkata,West Bengal,Mouse,Electronics,2,825.81,5.0,UPI,Completed,5.0
+1918,2025-01-26,C161,Sneha,Pune,Maharashtra,Keyboard,Electronics,1,1527.67,0.0,Card,Completed,1.0
+1919,2025-02-17,C167,Neha,Hyderabad,Telangana,Laptop,Electronics,2,53198.12,5.0,UPI,Completed,3.0
+1920,2025-06-24,C135,Sneha,Delhi,Delhi,Smartphone,Electronics,2,28355.13,0.0,Card,Completed,4.0
+1921,2025-06-10,C153,Priya,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,5,4659.14,10.0,Net Banking,Completed,4.0
+1922,2025-02-08,C116,Priya,Chennai,Tamil Nadu,Keyboard,Electronics,2,1487.7,0.0,UPI,Returned,
+1923,2025-03-18,C212,Kiran,Jaipur,Rajasthan,Bookshelf,Furniture,5,6132.0,0.0,Net Banking,Completed,5.0
+1924,2025-06-18,C115,Ananya,Mumbai,Maharashtra,Laptop,Electronics,3,55765.61,20.0,Card,Completed,1.0
+1925,2025-01-16,C246,Varun,Kolkata,West Bengal,Keyboard,Electronics,2,1514.04,15.0,Cash on Delivery,Completed,2.0
+1926,2025-06-02,C129,Kiran,Kolkata,West Bengal,Mouse,Electronics,1,768.46,0.0,UPI,Completed,5.0
+1927,2025-10-02,C157,Ishita,Hyderabad,Telangana,Watch,Accessories,2,4516.06,10.0,UPI,Cancelled,2.0
+1928,2025-07-08,C251,Neha,Hyderabad,Telangana,Study Table,Furniture,1,7037.93,0.0,Card,Completed,3.0
+1929,2025-07-15,C170,Ishita,Bangalore,Karnataka,Bookshelf,Furniture,2,5991.89,0.0,Card,Completed,5.0
+1930,2025-03-21,C185,Neha,Kochi,Kerala,Jeans,Fashion,4,2191.35,0.0,Cash on Delivery,Completed,2.0
+1931,2025-06-27,C116,Priya,Ahmedabad,Gujarat,Coffee Maker,Home Appliances,1,6406.76,10.0,Cash on Delivery,Completed,5.0
+1932,2025-03-07,C117,Rahul,Jaipur,Rajasthan,Office Chair,Furniture,2,8464.1,0.0,UPI,Completed,4.0
+1933,2025-02-24,C161,Sneha,Pune,Maharashtra,Headphones,Electronics,4,2497.32,0.0,UPI,Cancelled,5.0
+1934,2025-07-01,C145,Aman,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,1,4585.09,0.0,Cash on Delivery,Returned,5.0
+1935,2025-09-30,C222,Nikhil,Ahmedabad,Gujarat,Running Shoes,Fashion,1,3642.07,20.0,Card,Completed,5.0
+1936,2025-07-06,C286,Kiran,Ahmedabad,Gujarat,Jeans,Fashion,1,2218.32,0.0,Net Banking,Completed,2.0
+1937,2025-11-16,C210,Arjun,Chennai,Tamil Nadu,Mouse,Electronics,2,816.19,5.0,Net Banking,Completed,5.0
+1938,2025-08-23,C206,Arjun,Pune,Maharashtra,Headphones,Electronics,2,2425.52,5.0,Cash on Delivery,Completed,5.0
+1939,2025-01-15,C277,Rahul,Kolkata,West Bengal,Keyboard,Electronics,1,1534.13,5.0,Cash on Delivery,Completed,4.0
+1940,2025-09-28,C265,Vikram,Chennai,Tamil Nadu,Running Shoes,Fashion,1,3352.12,5.0,Net Banking,Completed,5.0
+1941,2025-07-13,C150,Ishita,Pune,Maharashtra,Study Table,Furniture,1,7244.63,5.0,Cash on Delivery,Cancelled,3.0
+1942,2025-07-10,C118,Pooja,Kolkata,West Bengal,Coffee Maker,Home Appliances,3,6507.97,0.0,Net Banking,Completed,3.0
+1943,2025-10-08,C281,Ananya,Kolkata,West Bengal,Coffee Maker,Home Appliances,1,6503.48,15.0,UPI,Completed,3.0
+1944,2025-11-02,C115,Ananya,Bangalore,Karnataka,Office Chair,Furniture,2,8494.46,5.0,Cash on Delivery,Cancelled,4.0
+1945,2025-05-29,C104,Aditya,Ahmedabad,Gujarat,Backpack,Accessories,1,1746.85,10.0,Card,Completed,1.0
+1946,2025-08-14,C300,Sanjay,Bangalore,Karnataka,Laptop,Electronics,1,52549.8,15.0,Card,Returned,5.0
+1947,2025-12-03,C167,Neha,Mumbai,Maharashtra,T-Shirt,Fashion,1,872.79,15.0,Net Banking,Returned,4.0
+1948,2025-10-10,C242,Vikram,Hyderabad,Telangana,Coffee Maker,Home Appliances,5,6409.06,10.0,Card,Cancelled,5.0
+1949,2025-08-02,C124,Aman,Pune,Maharashtra,Smartphone,Electronics,4,29399.58,5.0,Card,Completed,2.0
+1950,2025-06-11,C144,Neha,Jaipur,Rajasthan,Running Shoes,Fashion,2,3350.38,15.0,Cash on Delivery,Returned,2.0
+1951,2025-07-25,C263,Riya,Mumbai,Maharashtra,Jeans,Fashion,1,2293.87,0.0,Card,Completed,5.0
+1952,2025-04-10,C236,Varun,Kochi,Kerala,Office Chair,Furniture,5,8179.82,5.0,UPI,Completed,1.0
+1953,2025-10-20,C198,Rahul,Ahmedabad,Gujarat,Study Table,Furniture,1,7046.02,0.0,Card,Completed,5.0
+1954,2025-05-12,C290,Aditya,Kolkata,West Bengal,T-Shirt,Fashion,2,859.25,0.0,Card,Completed,4.0
+1955,2025-12-30,C212,Kiran,Jaipur,Rajasthan,Study Table,Furniture,2,6995.3,5.0,Cash on Delivery,Completed,2.0
+1956,2025-09-20,C248,Arjun,Bangalore,Karnataka,T-Shirt,Fashion,1,913.57,15.0,Cash on Delivery,Cancelled,5.0
+1957,2025-04-25,C210,Arjun,Chennai,Tamil Nadu,Watch,Accessories,1,4603.14,20.0,Card,Completed,5.0
+1958,2025-02-08,C273,Priya,Kochi,Kerala,Backpack,Accessories,2,1839.62,0.0,Cash on Delivery,Completed,5.0
+1959,2025-05-03,C174,Aman,Mumbai,Maharashtra,Headphones,Electronics,2,2384.31,10.0,Cash on Delivery,Returned,1.0
+1960,2025-09-15,C238,Pooja,Bangalore,Karnataka,Coffee Maker,Home Appliances,2,6512.8,0.0,Net Banking,Returned,5.0
+1961,2025-07-20,C207,Kiran,Ahmedabad,Gujarat,T-Shirt,Fashion,3,912.44,0.0,Cash on Delivery,Completed,4.0
+1962,2025-01-06,C283,Aditya,Ahmedabad,Gujarat,Mouse,Electronics,1,809.75,15.0,Net Banking,Cancelled,3.0
+1963,2025-10-15,C255,Sanjay,Hyderabad,Telangana,Running Shoes,Fashion,3,3459.38,20.0,UPI,Completed,5.0
+1964,2025-08-30,C108,Aditya,Jaipur,Rajasthan,Watch,Accessories,5,4478.5,15.0,Cash on Delivery,Cancelled,5.0
+1965,2025-06-01,C184,Nikhil,Chennai,Tamil Nadu,Backpack,Accessories,3,1762.88,15.0,Card,Returned,5.0
+1966,2025-02-07,C239,Pooja,Ahmedabad,Gujarat,Study Table,Furniture,1,6989.69,10.0,Net Banking,Returned,4.0
+1967,2025-09-30,C192,Rohit,Ahmedabad,Gujarat,Smartphone,Electronics,2,28072.65,15.0,UPI,Returned,4.0
+1968,2025-07-05,C218,Meera,Jaipur,Rajasthan,Laptop,Electronics,2,57383.77,10.0,UPI,Cancelled,2.0
+1969,2025-11-09,C106,Vikram,Ahmedabad,Gujarat,Headphones,Electronics,1,2502.38,5.0,Cash on Delivery,Returned,5.0
+1970,2025-06-26,C110,Sneha,Jaipur,Rajasthan,Laptop,Electronics,1,53984.79,5.0,UPI,Completed,3.0
+1971,2025-11-08,C290,Aditya,Pune,Maharashtra,Keyboard,Electronics,1,1501.31,10.0,Net Banking,Completed,5.0
+1972,2025-11-29,C218,Meera,Mumbai,Maharashtra,Jeans,Fashion,5,2152.98,5.0,Net Banking,Returned,3.0
+1973,2025-11-27,C187,Arjun,Mumbai,Maharashtra,Keyboard,Electronics,3,1435.96,10.0,Net Banking,Completed,2.0
+1974,2025-08-19,C193,Vikram,Kolkata,West Bengal,T-Shirt,Fashion,1,855.91,15.0,Card,Returned,5.0
+1975,2025-10-19,C190,Meera,Ahmedabad,Gujarat,Backpack,Accessories,2,1792.48,10.0,UPI,Completed,1.0
+1976,2025-08-20,C230,Sneha,Chennai,Tamil Nadu,T-Shirt,Fashion,4,927.07,15.0,Cash on Delivery,Completed,4.0
+1977,2025-09-27,C270,Nikhil,Delhi,Delhi,Backpack,Accessories,5,1744.68,20.0,Cash on Delivery,Completed,4.0
+1978,2025-06-05,C185,Neha,Delhi,Delhi,Watch,Accessories,2,4675.43,,Cash on Delivery,Completed,3.0
+1979,2025-04-19,C199,Kavya,Kolkata,West Bengal,Study Table,Furniture,1,7089.95,10.0,Cash on Delivery,Cancelled,5.0
+1980,2025-12-03,C186,Arjun,Ahmedabad,Gujarat,Laptop,Electronics,1,56249.98,10.0,Card,Completed,5.0
+1981,2025-03-05,C226,Vikram,Ahmedabad,Gujarat,Study Table,Furniture,2,7293.12,0.0,Cash on Delivery,Returned,4.0
+1982,2025-06-15,C214,Vikram,Mumbai,Maharashtra,Laptop,Electronics,5,55881.85,20.0,Card,Cancelled,4.0
+1983,2025-03-20,C205,Rahul,Mumbai,Maharashtra,Watch,Accessories,2,4368.72,5.0,UPI,Completed,5.0
+1984,2025-05-02,C240,Riya,Jaipur,Rajasthan,Study Table,Furniture,5,7183.35,10.0,Net Banking,Completed,4.0
+1985,2025-07-29,C263,Riya,Chennai,Tamil Nadu,Office Chair,Furniture,1,8573.74,10.0,Net Banking,Completed,5.0
+1986,2025-07-03,C226,Vikram,Kochi,Kerala,Keyboard,Electronics,1,1533.22,0.0,UPI,Completed,4.0
+1987,2025-11-10,C192,Rohit,Pune,Maharashtra,Running Shoes,Fashion,4,3558.05,0.0,Cash on Delivery,Cancelled,5.0
+1988,2025-02-08,C282,Sneha,Pune,Maharashtra,Bookshelf,Furniture,1,6133.7,10.0,UPI,Completed,2.0
+1989,2025-02-03,C175,Varun,Pune,Maharashtra,Bookshelf,Furniture,1,5958.59,10.0,Card,Completed,1.0
+1990,2025-07-08,C162,Divya,Kolkata,West Bengal,Coffee Maker,Home Appliances,3,6565.39,0.0,Cash on Delivery,Completed,5.0
+1991,2025-11-11,C262,Nikhil,Hyderabad,Telangana,T-Shirt,Fashion,3,917.2,0.0,Card,Completed,4.0
+1992,2025-09-24,C246,Varun,Hyderabad,Telangana,Keyboard,Electronics,5,1533.95,0.0,Card,Returned,3.0
+1993,2025-07-23,C290,Aditya,Chennai,Tamil Nadu,Keyboard,Electronics,5,1502.57,20.0,UPI,Completed,3.0
+1994,2025-09-29,C182,Aditya,Delhi,Delhi,Headphones,Electronics,4,2476.45,10.0,Net Banking,Completed,4.0
+1995,2025-11-23,C276,Rahul,Kolkata,West Bengal,Laptop,Electronics,2,53773.25,0.0,Card,Completed,1.0
+1996,2025-05-07,C264,Pooja,Delhi,Delhi,Mouse,Electronics,4,831.31,0.0,Card,Completed,4.0
+1997,2025-11-25,C194,Rohit,Kolkata,West Bengal,Laptop,Electronics,5,57658.63,5.0,Net Banking,Completed,5.0
+1998,2025-08-17,C296,Kavya,Mumbai,Maharashtra,T-Shirt,Fashion,4,937.36,5.0,Cash on Delivery,Completed,4.0
+1999,2025-01-31,C134,Ishita,Kolkata,West Bengal,Running Shoes,Fashion,5,3502.97,10.0,Card,Completed,3.0
+2000,2025-01-16,C134,Ishita,Kolkata,West Bengal,Keyboard,Electronics,1,1456.77,10.0,Cash on Delivery,Cancelled,4.0
+2001,2025-03-18,C181,Neha,Delhi,Delhi,T-Shirt,Fashion,4,921.19,10.0,UPI,Completed,1.0
+2002,2025-12-29,C298,Riya,Kochi,Kerala,Study Table,Furniture,1,7297.7,10.0,UPI,Completed,5.0
+2003,2025-06-14,C294,Rohit,Bangalore,Karnataka,Keyboard,Electronics,1,1453.27,0.0,UPI,Completed,5.0
+2004,2025-09-19,C299,Sneha,Jaipur,Rajasthan,Backpack,Accessories,1,1835.35,5.0,Card,Completed,4.0
+2005,2025-02-21,C239,Pooja,Hyderabad,Telangana,Laptop,Electronics,2,55120.07,0.0,Cash on Delivery,Completed,1.0
+2006,2025-11-05,C131,Vikram,Hyderabad,Telangana,Study Table,Furniture,2,6651.12,10.0,UPI,Returned,4.0
+2007,2025-01-06,C253,Kiran,Chennai,Tamil Nadu,Study Table,Furniture,2,7123.53,5.0,Net Banking,Cancelled,4.0
+2008,2025-06-10,C218,Meera,Delhi,Delhi,Study Table,Furniture,4,6944.17,15.0,Card,Completed,1.0
+2009,2025-10-02,C249,Vikram,Ahmedabad,Gujarat,Keyboard,Electronics,5,1481.43,20.0,UPI,Completed,5.0
+2010,2025-05-21,C186,Arjun,Kochi,Kerala,Smartphone,Electronics,1,27825.41,5.0,UPI,Cancelled,2.0
+2011,2025-11-15,C177,Vikram,Jaipur,Rajasthan,Coffee Maker,Home Appliances,4,6371.08,5.0,UPI,Returned,3.0
+2012,2025-12-06,C148,Nikhil,Hyderabad,Telangana,Bookshelf,Furniture,1,6020.09,15.0,Net Banking,Completed,1.0
+2013,2025-12-22,C221,Vikram,Chennai,Tamil Nadu,Watch,Accessories,2,4391.28,10.0,Net Banking,Completed,3.0
+2014,2025-05-14,C219,Varun,Kolkata,West Bengal,Running Shoes,Fashion,2,3592.43,10.0,UPI,Returned,2.0
+2015,2025-02-20,C122,Kavya,Jaipur,Rajasthan,Bookshelf,Furniture,4,6054.1,0.0,Net Banking,Returned,4.0
+2016,2025-02-05,C298,Riya,Pune,Maharashtra,Headphones,Electronics,2,2510.21,10.0,Card,Completed,5.0
+2017,2025-02-21,C111,Neha,Kochi,Kerala,Smartphone,Electronics,1,28558.68,5.0,Cash on Delivery,Completed,4.0
+2018,2025-10-14,C246,Varun,Jaipur,Rajasthan,Watch,Accessories,1,4306.19,20.0,Cash on Delivery,Cancelled,1.0
+2019,2025-07-17,C110,Sneha,Chennai,Tamil Nadu,Office Chair,Furniture,1,8267.72,15.0,Cash on Delivery,Completed,5.0
+2020,2025-02-19,C209,Divya,Mumbai,Maharashtra,T-Shirt,Fashion,4,935.66,0.0,Card,Completed,2.0
+2021,2025-02-12,C216,Aman,Jaipur,Rajasthan,Bookshelf,Furniture,2,5957.35,0.0,Card,Returned,5.0
+2022,2025-08-01,C142,Vikram,Delhi,Delhi,Running Shoes,Fashion,5,3520.9,0.0,Net Banking,Cancelled,5.0
+2023,2025-03-23,C249,Vikram,Ahmedabad,Gujarat,Keyboard,Electronics,3,1474.8,5.0,UPI,Returned,5.0
+2024,2025-12-17,C197,Priya,Ahmedabad,Gujarat,Coffee Maker,Home Appliances,1,6742.65,20.0,Cash on Delivery,Cancelled,5.0
+2025,2025-08-26,C124,Aman,Ahmedabad,Gujarat,Office Chair,Furniture,5,8547.0,10.0,UPI,Completed,3.0
+2026,2025-02-23,C279,Priya,Bangalore,Karnataka,Running Shoes,Fashion,1,3505.95,0.0,Cash on Delivery,Completed,4.0
+2027,2025-07-23,C129,Kiran,Bangalore,Karnataka,Keyboard,Electronics,1,1544.84,10.0,Cash on Delivery,Completed,5.0
+2028,2025-05-02,C260,Riya,Kochi,Kerala,Watch,Accessories,5,4572.84,10.0,Card,Completed,1.0
+2029,2025-01-22,C258,Aman,Ahmedabad,Gujarat,Study Table,Furniture,1,6652.74,0.0,Card,Returned,1.0
+2030,2025-06-17,C229,Aditya,Jaipur,Rajasthan,Keyboard,Electronics,2,1506.76,5.0,UPI,Completed,1.0
+2031,2025-07-20,C205,Rahul,Pune,Maharashtra,Smartphone,Electronics,1,28906.48,15.0,Card,Completed,5.0
+2032,2025-07-30,C226,Vikram,Kolkata,West Bengal,Mouse,Electronics,1,807.3,10.0,Card,Cancelled,4.0
+2033,2025-06-10,C181,Neha,Kochi,Kerala,Office Chair,Furniture,2,8361.76,10.0,Card,Returned,5.0
+2034,2025-05-12,C120,Nikhil,Chennai,Tamil Nadu,Running Shoes,Fashion,5,3651.71,20.0,UPI,Completed,4.0
+2035,2025-02-02,C189,Kiran,Chennai,Tamil Nadu,Jeans,Fashion,1,2142.39,20.0,Card,Completed,1.0
+2036,2025-02-11,C128,Arjun,Bangalore,Karnataka,Backpack,Accessories,1,1863.62,0.0,UPI,Completed,4.0
+2037,2025-11-16,C211,Rahul,Bangalore,Karnataka,Backpack,Accessories,1,1840.49,10.0,UPI,Completed,1.0
+2038,2025-11-01,C205,Rahul,Pune,Maharashtra,Study Table,Furniture,1,7290.62,5.0,UPI,Completed,4.0
+2039,2025-01-14,C170,Ishita,Delhi,Delhi,Mixer Grinder,Home Appliances,3,5026.81,10.0,Net Banking,Completed,4.0
+2040,2025-07-15,C179,Rahul,Ahmedabad,Gujarat,Watch,Accessories,2,4404.26,5.0,Card,Returned,4.0
+2041,2025-12-04,C151,Neha,Ahmedabad,Gujarat,Office Chair,Furniture,2,8701.28,15.0,Card,Completed,5.0
+2042,2025-11-13,C101,Vikram,Kolkata,West Bengal,Mouse,Electronics,2,800.25,5.0,Net Banking,Completed,5.0
+2043,2025-08-19,C205,Rahul,Chennai,Tamil Nadu,T-Shirt,Fashion,1,932.57,0.0,UPI,Completed,5.0
+2044,2025-08-29,C184,Nikhil,Hyderabad,Telangana,Jeans,Fashion,5,2159.72,15.0,Net Banking,Cancelled,3.0
+2045,2025-10-25,C245,Riya,Hyderabad,Telangana,Smartphone,Electronics,1,26759.88,5.0,Net Banking,Completed,4.0
+2046,2025-07-24,C223,Riya,Hyderabad,Telangana,Mixer Grinder,Home Appliances,5,5019.8,10.0,Cash on Delivery,Completed,4.0
+2047,2025-10-20,C298,Riya,Hyderabad,Telangana,Running Shoes,Fashion,1,3603.44,0.0,UPI,Completed,4.0
+2048,2025-10-17,C154,Ananya,Kochi,Kerala,Backpack,Accessories,3,1817.57,15.0,Cash on Delivery,Completed,5.0
+2049,2025-04-16,C122,Kavya,Pune,Maharashtra,Smartphone,Electronics,1,28871.09,20.0,Net Banking,Completed,1.0
+2050,2025-11-26,C172,Varun,Chennai,Tamil Nadu,Jeans,Fashion,2,2175.28,20.0,Card,Cancelled,2.0
+2051,2025-10-04,C247,Rohit,Pune,Maharashtra,Running Shoes,Fashion,1,3559.66,5.0,Card,Completed,2.0
+2052,2025-06-08,C174,Aman,Chennai,Tamil Nadu,Watch,Accessories,3,4506.5,5.0,Card,Completed,4.0
+2053,2025-12-25,C289,Ananya,Pune,Maharashtra,Coffee Maker,Home Appliances,4,6730.8,20.0,UPI,Completed,4.0
+2054,2025-06-02,C279,Priya,Hyderabad,Telangana,Office Chair,Furniture,1,8352.96,20.0,Net Banking,Completed,5.0
+2055,2025-01-26,C299,Sneha,Kochi,Kerala,Bookshelf,Furniture,1,6245.4,15.0,Card,Completed,4.0
+2056,2025-03-18,C123,Aman,Jaipur,Rajasthan,Smartphone,Electronics,1,27457.92,5.0,Cash on Delivery,Completed,4.0
+2057,2025-04-22,C131,Vikram,Delhi,Delhi,Office Chair,Furniture,1,8354.31,0.0,Card,Returned,5.0
+2058,2025-11-26,C282,Sneha,Ahmedabad,Gujarat,Watch,Accessories,1,4394.51,0.0,Cash on Delivery,Completed,3.0
+2059,2025-02-14,C226,Vikram,Kochi,Kerala,Mixer Grinder,Home Appliances,3,5007.23,5.0,UPI,Completed,2.0
+2060,2025-09-27,C175,Varun,Jaipur,Rajasthan,Headphones,Electronics,2,2494.26,15.0,Card,Completed,5.0
+2061,2025-10-08,C131,Vikram,Kochi,Kerala,Bookshelf,Furniture,5,5702.19,0.0,Cash on Delivery,Cancelled,3.0
+2062,2025-12-08,C300,Sanjay,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,2,4926.17,15.0,UPI,Completed,1.0
+2063,2025-06-14,C242,Vikram,Bangalore,Karnataka,Backpack,Accessories,2,1796.95,5.0,Net Banking,Completed,4.0
+2064,2025-01-04,C135,Sneha,Delhi,Delhi,Mixer Grinder,Home Appliances,2,4742.21,20.0,Cash on Delivery,Completed,5.0
+2065,2025-07-24,C202,Pooja,Delhi,Delhi,Keyboard,Electronics,2,1509.88,5.0,UPI,Completed,4.0
+2066,2025-04-16,C176,Rahul,Jaipur,Rajasthan,Jeans,Fashion,1,2248.84,10.0,UPI,Completed,2.0
+2067,2025-01-28,C119,Pooja,Ahmedabad,Gujarat,Headphones,Electronics,2,2486.42,0.0,UPI,Completed,2.0
+2068,2025-03-25,C226,Vikram,Pune,Maharashtra,Jeans,Fashion,1,2268.63,10.0,Cash on Delivery,Completed,1.0
+2069,2025-01-03,C252,Rohit,Chennai,Tamil Nadu,Laptop,Electronics,5,54855.75,5.0,UPI,Completed,4.0
+2070,2025-11-03,C116,Priya,Delhi,Delhi,Laptop,Electronics,1,56114.46,0.0,Card,Completed,5.0
+2071,2025-04-04,C287,Riya,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,4,4762.48,10.0,UPI,Cancelled,5.0
+2072,2025-09-06,C299,Sneha,Mumbai,Maharashtra,Watch,Accessories,3,4545.76,,Card,Completed,3.0
+2073,2025-03-07,C257,Pooja,Jaipur,Rajasthan,Keyboard,Electronics,1,1540.69,5.0,Card,Completed,1.0
+2074,2025-05-13,C172,Varun,Jaipur,Rajasthan,Coffee Maker,Home Appliances,1,6386.71,15.0,Cash on Delivery,Cancelled,1.0
+2075,2025-05-30,C108,Aditya,Pune,Maharashtra,Jeans,Fashion,4,2298.32,0.0,Cash on Delivery,Returned,5.0
+2076,2025-01-10,C114,Pooja,Mumbai,Maharashtra,Smartphone,Electronics,1,27732.57,5.0,UPI,Completed,3.0
+2077,2025-12-15,C157,Ishita,Hyderabad,Telangana,Mouse,Electronics,1,821.34,20.0,Cash on Delivery,Completed,5.0
+2078,2025-11-25,C201,Arjun,Kolkata,West Bengal,T-Shirt,Fashion,2,915.83,5.0,Card,Completed,
+2079,2025-01-09,C254,Rahul,Chennai,Tamil Nadu,Study Table,Furniture,2,7002.98,20.0,UPI,Completed,3.0
+2080,2025-07-10,C151,Neha,Mumbai,Maharashtra,Laptop,Electronics,1,55278.8,0.0,Cash on Delivery,Completed,4.0
+2081,2025-07-15,C268,Nikhil,Kolkata,West Bengal,Jeans,Fashion,2,2106.79,10.0,UPI,Completed,3.0
+2082,2025-12-31,C228,Aman,Jaipur,Rajasthan,Watch,Accessories,3,4391.73,0.0,Net Banking,Completed,4.0
+2083,2025-12-06,C290,Aditya,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,2,6466.61,15.0,UPI,Completed,4.0
+2084,2025-12-21,C125,Sanjay,Jaipur,Rajasthan,Coffee Maker,Home Appliances,4,6781.3,0.0,Net Banking,Completed,5.0
+2085,2025-04-15,C101,Vikram,Hyderabad,Telangana,Backpack,Accessories,2,1790.56,10.0,Cash on Delivery,Completed,5.0
+2086,2025-01-14,C109,Aditya,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6252.84,0.0,Card,Completed,2.0
+2087,2025-09-27,C286,Kiran,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,2,4809.71,20.0,UPI,Completed,5.0
+2088,2025-11-24,C262,Nikhil,Chennai,Tamil Nadu,Running Shoes,Fashion,4,3648.57,0.0,Net Banking,Completed,5.0
+2089,2025-03-04,C291,Kavya,Delhi,Delhi,Watch,Accessories,2,4637.52,20.0,Net Banking,Completed,1.0
+2090,2025-07-26,C190,Meera,Hyderabad,Telangana,Study Table,Furniture,5,6884.93,5.0,UPI,Completed,2.0
+2091,2025-08-02,C224,Sneha,Bangalore,Karnataka,Bookshelf,Furniture,1,6054.08,5.0,Cash on Delivery,Completed,1.0
+2092,2025-12-17,C255,Sanjay,Jaipur,Rajasthan,Keyboard,Electronics,1,1538.4,0.0,Net Banking,Completed,5.0
+2093,2025-02-22,C275,Kiran,Pune,Maharashtra,Study Table,Furniture,5,7272.82,5.0,Card,Completed,5.0
+2094,2025-04-15,C174,Aman,Pune,Maharashtra,Keyboard,Electronics,4,1471.91,0.0,Card,Completed,5.0
+2095,2025-08-01,C139,Priya,Delhi,Delhi,Study Table,Furniture,1,6723.57,15.0,Net Banking,Cancelled,5.0
+2096,2025-04-02,C176,Rahul,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,1,4591.6,10.0,Cash on Delivery,Cancelled,4.0
+2097,2025-06-10,C268,Nikhil,Pune,Maharashtra,Bookshelf,Furniture,1,6050.36,10.0,Net Banking,Returned,1.0
+2098,2025-03-13,C157,Ishita,Chennai,Tamil Nadu,Running Shoes,Fashion,1,3588.32,0.0,Card,Returned,5.0
+2099,2025-10-14,C251,Neha,Pune,Maharashtra,Watch,Accessories,2,4687.99,0.0,Cash on Delivery,Completed,4.0
+2100,2025-06-29,C286,Kiran,Bangalore,Karnataka,Headphones,Electronics,5,2408.14,15.0,Card,Completed,3.0
+2101,2025-10-15,C115,Ananya,Ahmedabad,Gujarat,Office Chair,Furniture,2,8504.81,0.0,Net Banking,Completed,1.0
+2102,2025-05-27,C256,Meera,Delhi,Delhi,Office Chair,Furniture,4,8772.4,10.0,Cash on Delivery,Returned,5.0
+2103,2025-01-26,C234,Priya,Mumbai,Maharashtra,Backpack,Accessories,1,1814.57,10.0,Card,Completed,4.0
+2104,2025-03-19,C279,Priya,Jaipur,Rajasthan,Running Shoes,Fashion,1,3543.47,10.0,Net Banking,Completed,5.0
+2105,2025-10-07,C113,Priya,Bangalore,Karnataka,Headphones,Electronics,1,2576.93,5.0,Card,Cancelled,4.0
+2106,2025-03-09,C220,Sanjay,Chennai,Tamil Nadu,T-Shirt,Fashion,2,890.8,0.0,Net Banking,Cancelled,4.0
+2107,2025-09-15,C223,Riya,Mumbai,Maharashtra,Watch,Accessories,1,4490.1,15.0,UPI,Completed,1.0
+2108,2025-07-01,C298,Riya,Kochi,Kerala,Bookshelf,Furniture,1,6035.93,0.0,UPI,Cancelled,5.0
+2109,2025-09-28,C203,Neha,Bangalore,Karnataka,Study Table,Furniture,2,6834.13,5.0,Net Banking,Returned,2.0
+2110,2025-11-30,C183,Sanjay,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,1,4625.05,10.0,UPI,Completed,3.0
+2111,2025-06-29,C130,Sanjay,Delhi,Delhi,Study Table,Furniture,1,6957.03,15.0,Card,Completed,1.0
+2112,2025-07-22,C123,Aman,Ahmedabad,Gujarat,Office Chair,Furniture,2,8200.34,5.0,UPI,Completed,1.0
+2113,2025-12-31,C171,Aman,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,1,4677.46,5.0,Card,Returned,4.0
+2114,2025-10-01,C124,Aman,Jaipur,Rajasthan,Watch,Accessories,3,4324.51,20.0,Cash on Delivery,Completed,4.0
+2115,2025-09-06,C203,Neha,Kochi,Kerala,Backpack,Accessories,2,1869.77,5.0,Cash on Delivery,Returned,5.0
+2116,2025-11-16,C114,Pooja,Kochi,Kerala,Backpack,Accessories,5,1788.13,10.0,Net Banking,Completed,2.0
+2117,2025-07-26,C124,Aman,Delhi,Delhi,Office Chair,Furniture,4,8122.6,15.0,Card,Completed,5.0
+2118,2025-03-15,C104,Aditya,Jaipur,Rajasthan,Laptop,Electronics,3,56832.65,10.0,Cash on Delivery,Returned,1.0
+2119,2025-09-22,C264,Pooja,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,2,5031.85,10.0,Cash on Delivery,Completed,5.0
+2120,2025-10-20,C229,Aditya,Pune,Maharashtra,Office Chair,Furniture,5,8075.34,15.0,Cash on Delivery,Completed,2.0
+2121,2025-03-05,C228,Aman,Kochi,Kerala,Mouse,Electronics,5,770.09,0.0,Cash on Delivery,Completed,5.0
+2122,2025-10-16,C181,Neha,Delhi,Delhi,T-Shirt,Fashion,1,923.72,15.0,Card,Completed,2.0
+2123,2025-02-17,C159,Priya,Hyderabad,Telangana,Mouse,Electronics,3,776.63,0.0,Net Banking,Completed,5.0
+2124,2025-03-30,C156,Sneha,Hyderabad,Telangana,T-Shirt,Fashion,5,920.01,10.0,UPI,Completed,1.0
+2125,2025-01-02,C260,Riya,Kochi,Kerala,Watch,Accessories,1,4678.11,5.0,UPI,Completed,4.0
+2126,2025-05-11,C210,Arjun,Mumbai,Maharashtra,Jeans,Fashion,2,2285.31,5.0,Cash on Delivery,Completed,2.0
+2127,2025-12-02,C296,Kavya,Hyderabad,Telangana,Smartphone,Electronics,1,27024.08,15.0,Cash on Delivery,Completed,5.0
+2128,2025-07-20,C124,Aman,Pune,Maharashtra,Coffee Maker,Home Appliances,5,6252.95,20.0,Card,Completed,1.0
+2129,2025-01-27,C226,Vikram,Jaipur,Rajasthan,T-Shirt,Fashion,3,918.26,5.0,Card,Completed,4.0
+2130,2025-02-15,C286,Kiran,Jaipur,Rajasthan,Running Shoes,Fashion,2,3654.76,10.0,UPI,Completed,5.0
+2131,2025-07-22,C235,Meera,Mumbai,Maharashtra,Running Shoes,Fashion,1,3393.27,15.0,Net Banking,Completed,4.0
+2132,2025-08-15,C282,Sneha,Pune,Maharashtra,Study Table,Furniture,2,6992.53,5.0,UPI,Returned,5.0
+2133,2025-05-12,C217,Aman,Bangalore,Karnataka,Running Shoes,Fashion,1,3440.26,5.0,Net Banking,Cancelled,2.0
+2134,2025-05-30,C221,Vikram,Mumbai,Maharashtra,Headphones,Electronics,2,2621.23,0.0,Cash on Delivery,Completed,5.0
+2135,2025-06-17,C256,Meera,Hyderabad,Telangana,T-Shirt,Fashion,2,903.65,0.0,Card,Cancelled,4.0
+2136,2025-06-19,C237,Ananya,Chennai,Tamil Nadu,Watch,Accessories,1,4559.97,10.0,UPI,Completed,1.0
+2137,2025-02-23,C295,Ananya,Mumbai,Maharashtra,Jeans,Fashion,1,2219.54,5.0,Net Banking,Returned,2.0
+2138,2025-10-16,C161,Sneha,Kolkata,West Bengal,Smartphone,Electronics,1,28524.82,15.0,Card,Completed,1.0
+2139,2025-02-16,C228,Aman,Kolkata,West Bengal,Mixer Grinder,Home Appliances,3,4571.85,10.0,Card,Completed,4.0
+2140,2025-11-01,C207,Kiran,Bangalore,Karnataka,Laptop,Electronics,3,57172.69,5.0,UPI,Completed,1.0
+2141,2025-02-28,C195,Neha,Kolkata,West Bengal,Office Chair,Furniture,2,8418.84,5.0,Net Banking,Completed,2.0
+2142,2025-02-14,C283,Aditya,Jaipur,Rajasthan,Laptop,Electronics,2,52742.36,15.0,Net Banking,Completed,4.0
+2143,2025-04-23,C121,Meera,Mumbai,Maharashtra,Smartphone,Electronics,1,29019.07,10.0,Net Banking,Completed,5.0
+2144,2025-06-30,C169,Varun,Mumbai,Maharashtra,Watch,Accessories,2,4568.91,5.0,Net Banking,Completed,4.0
+2145,2025-05-09,C295,Ananya,Kochi,Kerala,Mixer Grinder,Home Appliances,4,4986.18,0.0,Cash on Delivery,Cancelled,2.0
+2146,2025-03-30,C159,Priya,Hyderabad,Telangana,Headphones,Electronics,1,2505.11,10.0,UPI,Completed,4.0
+2147,2025-06-25,C222,Nikhil,Kochi,Kerala,Keyboard,Electronics,1,1492.61,5.0,Cash on Delivery,Cancelled,1.0
+2148,2025-10-09,C251,Neha,Mumbai,Maharashtra,Mouse,Electronics,4,826.69,10.0,UPI,Completed,3.0
+2149,2025-11-12,C138,Rohit,Ahmedabad,Gujarat,Running Shoes,Fashion,4,3629.97,15.0,Cash on Delivery,Completed,4.0
+2150,2025-05-22,C161,Sneha,Pune,Maharashtra,Headphones,Electronics,3,2624.07,10.0,Net Banking,Completed,4.0
+2151,2025-10-12,C240,Riya,Kolkata,West Bengal,Headphones,Electronics,1,2528.54,0.0,UPI,Returned,5.0
+2152,2025-03-15,C180,Pooja,Jaipur,Rajasthan,Coffee Maker,Home Appliances,2,6629.24,0.0,UPI,Cancelled,3.0
+2153,2025-03-28,C287,Riya,Chennai,Tamil Nadu,Keyboard,Electronics,2,1445.74,5.0,UPI,Cancelled,1.0
+2154,2025-07-10,C169,Varun,Ahmedabad,Gujarat,Headphones,Electronics,4,2595.94,20.0,Card,Cancelled,4.0
+2155,2025-04-23,C251,Neha,Chennai,Tamil Nadu,Bookshelf,Furniture,1,6062.15,10.0,Net Banking,Cancelled,5.0
+2156,2025-10-21,C280,Pooja,Mumbai,Maharashtra,Smartphone,Electronics,1,29320.25,10.0,Card,Completed,2.0
+2157,2025-10-16,C229,Aditya,Mumbai,Maharashtra,Study Table,Furniture,1,6878.86,0.0,Net Banking,Completed,5.0
+2158,2025-03-03,C249,Vikram,Kolkata,West Bengal,Bookshelf,Furniture,4,5767.71,0.0,Cash on Delivery,Completed,2.0
+2159,2025-08-06,C112,Arjun,Hyderabad,Telangana,Watch,Accessories,2,4627.77,5.0,UPI,Completed,3.0
+2160,2025-08-30,C116,Priya,Ahmedabad,Gujarat,Smartphone,Electronics,1,27593.57,0.0,Net Banking,Completed,4.0
+2161,2025-07-22,C230,Sneha,Kolkata,West Bengal,Mixer Grinder,Home Appliances,1,4744.4,15.0,UPI,Cancelled,5.0
+2162,2025-09-15,C228,Aman,Mumbai,Maharashtra,Bookshelf,Furniture,1,5942.79,0.0,Cash on Delivery,Returned,4.0
+2163,2025-03-25,C170,Ishita,Hyderabad,Telangana,T-Shirt,Fashion,2,876.46,10.0,Cash on Delivery,Completed,2.0
+2164,2025-05-01,C254,Rahul,Ahmedabad,Gujarat,Keyboard,Electronics,1,1553.34,15.0,UPI,Completed,4.0
+2165,2025-02-06,C104,Aditya,Pune,Maharashtra,Watch,Accessories,3,4644.69,5.0,Net Banking,Completed,5.0
+2166,2025-12-08,C283,Aditya,Ahmedabad,Gujarat,Bookshelf,Furniture,3,5733.09,5.0,Card,Completed,4.0
+2167,2025-03-09,C284,Nikhil,Hyderabad,Telangana,Watch,Accessories,5,4409.12,10.0,Cash on Delivery,Completed,4.0
+2168,2025-09-22,C271,Nikhil,Mumbai,Maharashtra,Laptop,Electronics,2,55944.79,10.0,UPI,Completed,3.0
+2169,2025-05-03,C117,Rahul,Jaipur,Rajasthan,Jeans,Fashion,1,2181.84,10.0,UPI,Completed,4.0
+2170,2025-06-26,C106,Vikram,Jaipur,Rajasthan,Study Table,Furniture,5,6683.49,0.0,Card,Completed,3.0
+2171,2025-07-02,C282,Sneha,Ahmedabad,Gujarat,Headphones,Electronics,1,2432.83,10.0,Net Banking,Completed,2.0
+2172,2025-08-19,C278,Sanjay,Delhi,Delhi,Mixer Grinder,Home Appliances,1,4993.94,10.0,Net Banking,Returned,1.0
+2173,2025-05-30,C235,Meera,Delhi,Delhi,Mixer Grinder,Home Appliances,5,4986.34,10.0,Cash on Delivery,Completed,4.0
+2174,2025-11-24,C244,Rahul,Hyderabad,Telangana,Mouse,Electronics,1,837.7,10.0,Net Banking,Cancelled,4.0
+2175,2025-07-29,C269,Kiran,Bangalore,Karnataka,Headphones,Electronics,3,2461.82,0.0,Card,Cancelled,5.0
+2176,2025-03-08,C191,Vikram,Mumbai,Maharashtra,Jeans,Fashion,1,2222.71,10.0,UPI,Returned,3.0
+2177,2025-02-23,C123,Aman,Kolkata,West Bengal,Coffee Maker,Home Appliances,2,6242.94,15.0,Card,Completed,4.0
+2178,2025-03-27,C116,Priya,Jaipur,Rajasthan,Smartphone,Electronics,2,27596.17,10.0,Net Banking,Completed,5.0
+2179,2025-06-27,C218,Meera,Mumbai,Maharashtra,Laptop,Electronics,1,54007.74,20.0,UPI,Completed,5.0
+2180,2025-04-05,C271,Nikhil,Ahmedabad,Gujarat,Running Shoes,Fashion,2,3607.78,5.0,UPI,Completed,3.0
+2181,2025-01-30,C107,Sanjay,Kolkata,West Bengal,Bookshelf,Furniture,2,6205.1,0.0,UPI,Returned,1.0
+2182,2025-11-29,C247,Rohit,Delhi,Delhi,Smartphone,Electronics,2,28940.19,15.0,UPI,Cancelled,5.0
+2183,2025-01-10,C210,Arjun,Ahmedabad,Gujarat,Running Shoes,Fashion,2,3670.21,0.0,Cash on Delivery,Completed,4.0
+2184,2025-08-16,C105,Neha,Hyderabad,Telangana,Study Table,Furniture,1,7300.65,15.0,Cash on Delivery,Completed,4.0
+2185,2025-10-23,C130,Sanjay,Kolkata,West Bengal,Smartphone,Electronics,1,28692.23,5.0,UPI,Cancelled,2.0
+2186,2025-08-23,C221,Vikram,Bangalore,Karnataka,Headphones,Electronics,4,2523.25,0.0,Cash on Delivery,Cancelled,2.0
+2187,2025-03-19,C264,Pooja,Hyderabad,Telangana,Keyboard,Electronics,2,1531.69,10.0,Cash on Delivery,Returned,5.0
+2188,2025-07-30,C296,Kavya,Kolkata,West Bengal,Keyboard,Electronics,3,1476.03,5.0,Cash on Delivery,Completed,4.0
+2189,2025-12-17,C177,Vikram,Kolkata,West Bengal,T-Shirt,Fashion,1,880.15,20.0,UPI,Completed,5.0
+2190,2025-01-22,C294,Rohit,Bangalore,Karnataka,Smartphone,Electronics,1,27740.67,20.0,Net Banking,Cancelled,2.0
+2191,2025-04-17,C140,Riya,Pune,Maharashtra,Study Table,Furniture,4,6947.2,5.0,Net Banking,Returned,4.0
+2192,2025-11-22,C175,Varun,Ahmedabad,Gujarat,Backpack,Accessories,5,1855.83,15.0,UPI,Cancelled,2.0
+2193,2025-10-27,C159,Priya,Bangalore,Karnataka,T-Shirt,Fashion,5,907.19,20.0,UPI,Completed,5.0
+2194,2025-07-08,C220,Sanjay,Bangalore,Karnataka,Smartphone,Electronics,1,28278.41,5.0,Card,Completed,1.0
+2195,2025-10-21,C264,Pooja,Jaipur,Rajasthan,T-Shirt,Fashion,1,916.93,15.0,UPI,Completed,4.0
+2196,2025-04-26,C274,Priya,Pune,Maharashtra,Backpack,Accessories,3,1868.71,0.0,Net Banking,Cancelled,5.0
+2197,2025-02-24,C143,Pooja,Jaipur,Rajasthan,Study Table,Furniture,5,7087.29,10.0,Cash on Delivery,Completed,4.0
+2198,2025-10-12,C147,Divya,Kolkata,West Bengal,Coffee Maker,Home Appliances,3,6480.49,0.0,Net Banking,Cancelled,2.0
+2199,2025-06-12,C263,Riya,Kolkata,West Bengal,Watch,Accessories,4,4428.47,10.0,UPI,Cancelled,2.0
+2200,2025-02-09,C166,Divya,Pune,Maharashtra,Bookshelf,Furniture,2,5872.98,5.0,Cash on Delivery,Returned,5.0
+2201,2025-02-02,C146,Arjun,Pune,Maharashtra,Jeans,Fashion,1,2095.37,5.0,Net Banking,Completed,3.0
+2202,2025-11-09,C191,Vikram,Mumbai,Maharashtra,Backpack,Accessories,3,1710.13,10.0,Net Banking,Returned,1.0
+2203,2025-11-28,C244,Rahul,Ahmedabad,Gujarat,Mouse,Electronics,2,838.91,15.0,UPI,Cancelled,5.0
+2204,2025-08-19,C192,Rohit,Chennai,Tamil Nadu,T-Shirt,Fashion,1,931.0,0.0,UPI,Completed,4.0
+2205,2025-12-19,C246,Varun,Hyderabad,Telangana,Backpack,Accessories,2,1751.39,5.0,Cash on Delivery,Cancelled,3.0
+2206,2025-02-23,C207,Kiran,Chennai,Tamil Nadu,Laptop,Electronics,4,55225.42,0.0,UPI,Completed,5.0
+2207,2025-01-25,C176,Rahul,Bangalore,Karnataka,Running Shoes,Fashion,1,3442.58,5.0,Net Banking,Completed,2.0
+2208,2025-08-17,C232,Vikram,Pune,Maharashtra,Office Chair,Furniture,4,8523.99,0.0,Card,Returned,5.0
+2209,2025-02-12,C245,Riya,Jaipur,Rajasthan,Coffee Maker,Home Appliances,2,6328.77,5.0,Card,Cancelled,5.0
+2210,2025-10-25,C151,Neha,Pune,Maharashtra,Smartphone,Electronics,2,26931.69,0.0,UPI,Completed,5.0
+2211,2025-12-27,C265,Vikram,Chennai,Tamil Nadu,Watch,Accessories,2,4459.74,20.0,Cash on Delivery,Completed,5.0
+2212,2025-08-08,C222,Nikhil,Kochi,Kerala,Jeans,Fashion,1,2216.46,10.0,Net Banking,Completed,2.0
+2213,2025-09-21,C214,Vikram,Chennai,Tamil Nadu,Keyboard,Electronics,4,1478.68,0.0,Net Banking,Completed,5.0
+2214,2025-08-09,C141,Aman,Ahmedabad,Gujarat,Headphones,Electronics,4,2527.72,10.0,Card,Completed,5.0
+2215,2025-01-17,C104,Aditya,Jaipur,Rajasthan,Keyboard,Electronics,1,1487.4,5.0,Net Banking,Completed,3.0
+2216,2025-04-11,C131,Vikram,Pune,Maharashtra,Headphones,Electronics,1,2427.51,0.0,Net Banking,Returned,5.0
+2217,2025-10-11,C255,Sanjay,Kolkata,West Bengal,Headphones,Electronics,3,2485.38,5.0,Cash on Delivery,Cancelled,5.0
+2218,2025-12-05,C237,Ananya,Delhi,Delhi,Keyboard,Electronics,1,1486.19,5.0,Cash on Delivery,Cancelled,5.0
+2219,2025-08-03,C272,Nikhil,Hyderabad,Telangana,Headphones,Electronics,5,2452.39,0.0,Net Banking,Completed,5.0
+2220,2025-04-06,C138,Rohit,Bangalore,Karnataka,Mixer Grinder,Home Appliances,1,4583.66,0.0,UPI,Cancelled,2.0
+2221,2025-02-20,C187,Arjun,Mumbai,Maharashtra,Office Chair,Furniture,2,8625.66,15.0,UPI,Completed,3.0
+2222,2025-05-22,C229,Aditya,Chennai,Tamil Nadu,Running Shoes,Fashion,5,3544.99,0.0,Net Banking,Cancelled,5.0
+2223,2025-05-07,C209,Divya,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,4,4686.0,5.0,UPI,Cancelled,4.0
+2224,2025-08-24,C298,Riya,Ahmedabad,Gujarat,Study Table,Furniture,3,7044.28,0.0,UPI,Returned,4.0
+2225,2025-06-03,C155,Meera,Bangalore,Karnataka,Jeans,Fashion,1,2166.06,15.0,Cash on Delivery,Returned,3.0
+2226,2025-09-07,C202,Pooja,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,3,4959.16,5.0,Card,Completed,4.0
+2227,2025-05-13,C124,Aman,Mumbai,Maharashtra,Study Table,Furniture,2,6977.92,5.0,Cash on Delivery,Cancelled,5.0
+2228,2025-04-25,C258,Aman,Kochi,Kerala,Headphones,Electronics,1,2598.78,10.0,UPI,Returned,3.0
+2229,2025-10-24,C222,Nikhil,Kolkata,West Bengal,Jeans,Fashion,1,2167.44,10.0,Card,Cancelled,5.0
+2230,2025-02-01,C282,Sneha,Delhi,Delhi,Jeans,Fashion,1,2255.83,20.0,Net Banking,Completed,4.0
+2231,2025-02-10,C291,Kavya,Bangalore,Karnataka,Jeans,Fashion,2,2264.28,15.0,Card,Returned,4.0
+2232,2025-12-02,C111,Neha,Chennai,Tamil Nadu,Smartphone,Electronics,1,26927.05,5.0,Cash on Delivery,Completed,5.0
+2233,2025-09-06,C253,Kiran,Chennai,Tamil Nadu,Watch,Accessories,1,4430.4,0.0,Cash on Delivery,Completed,5.0
+2234,2025-03-19,C120,Nikhil,Chennai,Tamil Nadu,Bookshelf,Furniture,1,6104.4,0.0,Net Banking,Completed,4.0
+2235,2025-05-18,C263,Riya,Pune,Maharashtra,Study Table,Furniture,3,6860.34,15.0,Net Banking,Cancelled,2.0
+2236,2025-06-11,C123,Aman,Bangalore,Karnataka,Keyboard,Electronics,1,1513.37,5.0,UPI,Completed,4.0
+2237,2025-08-31,C225,Kiran,Ahmedabad,Gujarat,Study Table,Furniture,5,7214.27,5.0,Card,Completed,4.0
+2238,2025-01-10,C291,Kavya,Delhi,Delhi,Coffee Maker,Home Appliances,5,6680.18,15.0,Cash on Delivery,Completed,5.0
+2239,2025-02-02,C245,Riya,Hyderabad,Telangana,Watch,Accessories,4,4293.44,5.0,Card,Cancelled,5.0
+2240,2025-09-06,C195,Neha,Bangalore,Karnataka,Laptop,Electronics,1,57036.08,10.0,Cash on Delivery,Completed,1.0
+2241,2025-03-27,C132,Rohit,Hyderabad,Telangana,Headphones,Electronics,2,2459.08,10.0,Net Banking,Completed,4.0
+2242,2025-09-20,C104,Aditya,Delhi,Delhi,Mouse,Electronics,1,772.25,5.0,UPI,Completed,4.0
+2243,2025-05-05,C187,Arjun,Chennai,Tamil Nadu,Running Shoes,Fashion,1,3470.2,0.0,Cash on Delivery,Completed,5.0
+2244,2025-04-03,C286,Kiran,Chennai,Tamil Nadu,T-Shirt,Fashion,4,907.67,0.0,UPI,Completed,1.0
+2245,2025-02-17,C288,Priya,Jaipur,Rajasthan,Smartphone,Electronics,5,26895.44,5.0,Cash on Delivery,Completed,5.0
+2246,2025-03-18,C195,Neha,Pune,Maharashtra,Watch,Accessories,3,4378.37,10.0,Net Banking,Completed,5.0
+2247,2025-03-15,C106,Vikram,Kochi,Kerala,Running Shoes,Fashion,1,3437.07,5.0,UPI,Completed,5.0
+2248,2025-12-11,C291,Kavya,Hyderabad,Telangana,Keyboard,Electronics,1,1547.43,5.0,Net Banking,Completed,4.0
+2249,2025-11-18,C256,Meera,Kolkata,West Bengal,Watch,Accessories,1,4364.34,5.0,Card,Cancelled,2.0
+2250,2025-10-05,C114,Pooja,Kochi,Kerala,Office Chair,Furniture,1,8902.68,10.0,Net Banking,Completed,2.0
+2251,2025-04-22,C267,Arjun,Jaipur,Rajasthan,T-Shirt,Fashion,3,929.41,0.0,Card,Cancelled,4.0
+2252,2025-05-03,C239,Pooja,Kolkata,West Bengal,Backpack,Accessories,4,1715.19,20.0,Card,Completed,4.0
+2253,2025-01-05,C200,Kiran,Bangalore,Karnataka,Smartphone,Electronics,1,28779.44,10.0,Card,Cancelled,4.0
+2254,2025-05-30,C186,Arjun,Delhi,Delhi,Running Shoes,Fashion,1,3463.69,10.0,Cash on Delivery,Completed,5.0
+2255,2025-04-23,C225,Kiran,Kochi,Kerala,Jeans,Fashion,3,2231.87,10.0,UPI,Completed,5.0
+2256,2025-11-03,C291,Kavya,Ahmedabad,Gujarat,Running Shoes,Fashion,1,3437.33,5.0,Card,Cancelled,4.0
+2257,2025-03-11,C204,Arjun,Ahmedabad,Gujarat,Headphones,Electronics,1,2420.31,0.0,Cash on Delivery,Returned,5.0
+2258,2025-10-24,C159,Priya,Delhi,Delhi,Headphones,Electronics,4,2406.66,0.0,UPI,Returned,5.0
+2259,2025-11-17,C154,Ananya,Kolkata,West Bengal,Mixer Grinder,Home Appliances,1,4889.06,10.0,Net Banking,Completed,2.0
+2260,2025-05-14,C126,Pooja,Ahmedabad,Gujarat,Headphones,Electronics,2,2449.61,0.0,UPI,Completed,3.0
+2261,2025-08-23,C185,Neha,Ahmedabad,Gujarat,Backpack,Accessories,5,1866.29,0.0,Cash on Delivery,Cancelled,4.0
+2262,2025-09-10,C238,Pooja,Ahmedabad,Gujarat,T-Shirt,Fashion,4,868.43,0.0,UPI,Completed,4.0
+2263,2025-08-06,C110,Sneha,Pune,Maharashtra,Laptop,Electronics,1,56073.58,10.0,UPI,Returned,5.0
+2264,2025-09-24,C300,Sanjay,Ahmedabad,Gujarat,Jeans,Fashion,5,2153.71,20.0,Net Banking,Returned,3.0
+2265,2025-12-12,C135,Sneha,Hyderabad,Telangana,Smartphone,Electronics,1,26910.58,10.0,Card,Completed,5.0
+2266,2025-09-20,C101,Vikram,Jaipur,Rajasthan,Smartphone,Electronics,5,29049.83,5.0,Net Banking,Cancelled,4.0
+2267,2025-08-27,C112,Arjun,Hyderabad,Telangana,Keyboard,Electronics,1,1440.92,0.0,Net Banking,Cancelled,2.0
+2268,2025-02-04,C161,Sneha,Kochi,Kerala,Jeans,Fashion,4,2132.37,10.0,Cash on Delivery,Completed,2.0
+2269,2025-06-29,C125,Sanjay,Kochi,Kerala,Running Shoes,Fashion,3,3369.03,5.0,Cash on Delivery,Cancelled,5.0
+2270,2025-03-27,C221,Vikram,Delhi,Delhi,Running Shoes,Fashion,3,3643.23,5.0,Card,Completed,1.0
+2271,2025-07-16,C214,Vikram,Ahmedabad,Gujarat,Bookshelf,Furniture,3,6138.25,10.0,Cash on Delivery,Cancelled,4.0
+2272,2025-08-10,C231,Varun,Bangalore,Karnataka,Keyboard,Electronics,2,1543.63,5.0,Card,Completed,4.0
+2273,2025-05-15,C264,Pooja,Hyderabad,Telangana,Watch,Accessories,1,4321.52,20.0,UPI,Cancelled,5.0
+2274,2025-03-15,C226,Vikram,Kochi,Kerala,T-Shirt,Fashion,2,856.98,5.0,Cash on Delivery,Completed,4.0
+2275,2025-07-22,C201,Arjun,Jaipur,Rajasthan,Study Table,Furniture,1,6693.91,10.0,Cash on Delivery,Cancelled,2.0
+2276,2025-04-05,C193,Vikram,Jaipur,Rajasthan,Keyboard,Electronics,1,1536.33,20.0,UPI,Completed,4.0
+2277,2025-01-19,C197,Priya,Chennai,Tamil Nadu,Jeans,Fashion,4,2139.67,20.0,Cash on Delivery,Returned,2.0
+2278,2025-01-20,C239,Pooja,Kochi,Kerala,Watch,Accessories,4,4308.53,10.0,Card,Completed,4.0
+2279,2025-12-21,C188,Rahul,Delhi,Delhi,Mouse,Electronics,2,821.71,0.0,UPI,Returned,2.0
+2280,2025-05-08,C278,Sanjay,Jaipur,Rajasthan,Jeans,Fashion,1,2263.42,10.0,Card,Cancelled,4.0
+2281,2025-04-25,C101,Vikram,Pune,Maharashtra,Office Chair,Furniture,5,8919.18,15.0,Cash on Delivery,Completed,3.0
+2282,2025-09-09,C182,Aditya,Kochi,Kerala,Jeans,Fashion,1,2279.26,0.0,Cash on Delivery,Completed,5.0
+2283,2025-10-07,C189,Kiran,Kochi,Kerala,T-Shirt,Fashion,2,860.33,15.0,Net Banking,Completed,5.0
+2284,2025-12-22,C265,Vikram,Delhi,Delhi,Headphones,Electronics,5,2543.13,5.0,Net Banking,Returned,5.0
+2285,2025-07-08,C298,Riya,Delhi,Delhi,Coffee Maker,Home Appliances,1,6257.36,0.0,Cash on Delivery,Completed,5.0
+2286,2025-06-22,C117,Rahul,Chennai,Tamil Nadu,Mouse,Electronics,1,822.81,,Cash on Delivery,Completed,4.0
+2287,2025-11-05,C261,Nikhil,Pune,Maharashtra,T-Shirt,Fashion,1,933.48,5.0,Card,Completed,4.0
+2288,2025-08-23,C173,Rohit,Kochi,Kerala,Laptop,Electronics,3,53335.23,5.0,UPI,Cancelled,4.0
+2289,2025-03-21,C298,Riya,Jaipur,Rajasthan,Backpack,Accessories,1,1856.28,20.0,Card,Cancelled,4.0
+2290,2025-03-12,C232,Vikram,Chennai,Tamil Nadu,T-Shirt,Fashion,2,895.26,0.0,Card,Completed,1.0
+2291,2025-04-08,C152,Sneha,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,1,4818.31,10.0,Card,Completed,3.0
+2292,2025-02-14,C252,Rohit,Bangalore,Karnataka,Study Table,Furniture,1,6946.41,10.0,Net Banking,Completed,5.0
+2293,2025-04-02,C240,Riya,Hyderabad,Telangana,Coffee Maker,Home Appliances,3,6540.55,5.0,Net Banking,Cancelled,1.0
+2294,2025-01-19,C208,Aman,Bangalore,Karnataka,Coffee Maker,Home Appliances,3,6568.91,20.0,Cash on Delivery,Completed,3.0
+2295,2025-10-31,C109,Aditya,Mumbai,Maharashtra,Office Chair,Furniture,2,8379.14,20.0,Cash on Delivery,Cancelled,4.0
+2296,2025-08-19,C282,Sneha,Kochi,Kerala,Study Table,Furniture,1,7058.33,10.0,UPI,Completed,5.0
+2297,2025-07-06,C235,Meera,Delhi,Delhi,Mouse,Electronics,2,765.32,10.0,UPI,Completed,3.0
+2298,2025-09-09,C144,Neha,Bangalore,Karnataka,Study Table,Furniture,1,7182.89,5.0,Net Banking,Completed,5.0
+2299,2025-01-26,C269,Kiran,Bangalore,Karnataka,Mouse,Electronics,2,797.85,20.0,Cash on Delivery,Returned,3.0
+2300,2025-06-09,C286,Kiran,Mumbai,Maharashtra,Bookshelf,Furniture,2,5770.13,10.0,Net Banking,Completed,4.0
+2301,2025-01-28,C282,Sneha,Delhi,Delhi,Bookshelf,Furniture,5,5859.75,20.0,Card,Cancelled,3.0
+2302,2025-02-14,C228,Aman,Mumbai,Maharashtra,Mixer Grinder,Home Appliances,1,4594.47,10.0,UPI,Completed,1.0
+2303,2025-03-21,C289,Ananya,Hyderabad,Telangana,Coffee Maker,Home Appliances,5,6815.22,10.0,Card,Completed,5.0
+2304,2025-03-29,C155,Meera,Jaipur,Rajasthan,Bookshelf,Furniture,1,5784.97,0.0,UPI,Cancelled,5.0
+2305,2025-09-02,C273,Priya,Ahmedabad,Gujarat,Laptop,Electronics,3,55179.77,5.0,Card,Cancelled,5.0
+2306,2025-09-29,C227,Varun,Bangalore,Karnataka,Office Chair,Furniture,2,8156.24,0.0,Net Banking,Completed,4.0
+2307,2025-12-19,C292,Kavya,Ahmedabad,Gujarat,Running Shoes,Fashion,1,3571.72,10.0,Card,Cancelled,5.0
+2308,2025-01-15,C147,Divya,Pune,Maharashtra,Jeans,Fashion,1,2144.55,20.0,Net Banking,Cancelled,3.0
+2309,2025-03-17,C272,Nikhil,Delhi,Delhi,Study Table,Furniture,1,7184.83,10.0,Net Banking,Completed,4.0
+2310,2025-06-11,C268,Nikhil,Delhi,Delhi,Jeans,Fashion,1,2280.84,5.0,Net Banking,Cancelled,1.0
+2311,2025-04-05,C235,Meera,Hyderabad,Telangana,Backpack,Accessories,1,1866.44,15.0,Card,Completed,5.0
+2312,2025-05-05,C223,Riya,Pune,Maharashtra,Jeans,Fashion,2,2115.6,10.0,UPI,Cancelled,3.0
+2313,2025-02-17,C278,Sanjay,Ahmedabad,Gujarat,Study Table,Furniture,2,7131.62,5.0,UPI,Completed,4.0
+2314,2025-11-28,C182,Aditya,Bangalore,Karnataka,Keyboard,Electronics,2,1478.47,5.0,Card,Cancelled,4.0
+2315,2025-01-04,C234,Priya,Kolkata,West Bengal,Watch,Accessories,5,4494.41,0.0,UPI,Cancelled,5.0
+2316,2025-10-20,C125,Sanjay,Kolkata,West Bengal,Mixer Grinder,Home Appliances,1,4568.66,5.0,UPI,Completed,5.0
+2317,2025-07-16,C192,Rohit,Mumbai,Maharashtra,Mouse,Electronics,2,797.66,0.0,Card,Returned,5.0
+2318,2025-08-09,C107,Sanjay,Mumbai,Maharashtra,Office Chair,Furniture,4,8768.48,10.0,Net Banking,Cancelled,4.0
+2319,2025-01-15,C207,Kiran,Hyderabad,Telangana,Mouse,Electronics,1,773.36,5.0,Card,Completed,3.0
+2320,2025-02-26,C193,Vikram,Jaipur,Rajasthan,Mouse,Electronics,1,793.55,10.0,Net Banking,Completed,3.0
+2321,2025-09-12,C143,Pooja,Kolkata,West Bengal,Mouse,Electronics,2,833.52,10.0,UPI,Completed,5.0
+2322,2025-07-14,C141,Aman,Pune,Maharashtra,Coffee Maker,Home Appliances,1,6361.46,10.0,Card,Cancelled,5.0
+2323,2025-06-05,C143,Pooja,Delhi,Delhi,Smartphone,Electronics,1,28446.12,5.0,Card,Completed,3.0
+2324,2025-03-04,C231,Varun,Jaipur,Rajasthan,Keyboard,Electronics,1,1458.23,0.0,Cash on Delivery,Completed,1.0
+2325,2025-09-16,C205,Rahul,Delhi,Delhi,Mixer Grinder,Home Appliances,1,4881.96,5.0,Card,Completed,5.0
+2326,2025-10-09,C259,Rohit,Delhi,Delhi,Laptop,Electronics,3,54162.74,0.0,UPI,Completed,5.0
+2327,2025-04-15,C130,Sanjay,Kochi,Kerala,Bookshelf,Furniture,5,5970.93,10.0,Net Banking,Completed,2.0
+2328,2025-09-15,C248,Arjun,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,2,4718.07,0.0,Card,Completed,5.0
+2329,2025-06-23,C172,Varun,Pune,Maharashtra,T-Shirt,Fashion,2,923.31,15.0,UPI,Cancelled,1.0
+2330,2025-02-03,C160,Meera,Jaipur,Rajasthan,Headphones,Electronics,2,2587.1,5.0,Net Banking,Cancelled,1.0
+2331,2025-08-22,C160,Meera,Kochi,Kerala,Study Table,Furniture,3,6951.35,15.0,Card,Cancelled,1.0
+2332,2025-05-23,C266,Priya,Bangalore,Karnataka,Running Shoes,Fashion,1,3519.5,0.0,Cash on Delivery,Completed,3.0
+2333,2025-04-08,C124,Aman,Delhi,Delhi,Keyboard,Electronics,1,1464.76,0.0,Net Banking,Cancelled,5.0
+2334,2025-02-13,C299,Sneha,Hyderabad,Telangana,T-Shirt,Fashion,2,891.7,5.0,Cash on Delivery,Completed,4.0
+2335,2025-05-24,C144,Neha,Chennai,Tamil Nadu,Smartphone,Electronics,2,27834.14,20.0,Card,Cancelled,2.0
+2336,2025-08-31,C135,Sneha,Bangalore,Karnataka,Office Chair,Furniture,2,8081.97,5.0,Net Banking,Returned,2.0
+2337,2025-02-15,C295,Ananya,Pune,Maharashtra,Jeans,Fashion,4,2129.05,0.0,Cash on Delivery,Completed,2.0
+2338,2025-01-31,C110,Sneha,Mumbai,Maharashtra,Study Table,Furniture,4,6799.92,15.0,Card,Completed,4.0
+2339,2025-02-12,C181,Neha,Bangalore,Karnataka,Mouse,Electronics,2,832.35,10.0,Cash on Delivery,Completed,5.0
+2340,2025-02-08,C150,Ishita,Bangalore,Karnataka,Keyboard,Electronics,4,1522.28,10.0,Card,Completed,4.0
+2341,2025-03-15,C270,Nikhil,Ahmedabad,Gujarat,Laptop,Electronics,1,53700.93,5.0,Card,Completed,2.0
+2342,2025-12-14,C167,Neha,Kolkata,West Bengal,T-Shirt,Fashion,2,937.22,5.0,UPI,Completed,5.0
+2343,2025-04-01,C202,Pooja,Jaipur,Rajasthan,Laptop,Electronics,2,53694.48,10.0,Net Banking,Returned,5.0
+2344,2025-09-07,C207,Kiran,Ahmedabad,Gujarat,Mouse,Electronics,2,824.48,0.0,Net Banking,Cancelled,3.0
+2345,2025-06-14,C206,Arjun,Bangalore,Karnataka,Bookshelf,Furniture,2,5738.32,10.0,Net Banking,Completed,4.0
+2346,2025-10-13,C181,Neha,Ahmedabad,Gujarat,Mouse,Electronics,2,816.06,0.0,Net Banking,Completed,4.0
+2347,2025-07-07,C151,Neha,Jaipur,Rajasthan,Laptop,Electronics,5,53431.09,0.0,Cash on Delivery,Cancelled,3.0
+2348,2025-03-12,C300,Sanjay,Kochi,Kerala,Bookshelf,Furniture,5,5972.5,0.0,Card,Completed,2.0
+2349,2025-01-23,C221,Vikram,Ahmedabad,Gujarat,Jeans,Fashion,2,2219.97,5.0,Card,Returned,5.0
+2350,2025-11-21,C230,Sneha,Bangalore,Karnataka,T-Shirt,Fashion,2,900.43,5.0,Cash on Delivery,Completed,5.0
+2351,2025-11-30,C183,Sanjay,Chennai,Tamil Nadu,T-Shirt,Fashion,3,872.68,0.0,Net Banking,Completed,5.0
+2352,2025-10-31,C167,Neha,Mumbai,Maharashtra,Office Chair,Furniture,1,8353.43,10.0,Cash on Delivery,Returned,4.0
+2353,2025-09-14,C258,Aman,Jaipur,Rajasthan,Keyboard,Electronics,3,1449.66,10.0,UPI,Cancelled,4.0
+2354,2025-02-28,C146,Arjun,Jaipur,Rajasthan,Laptop,Electronics,4,57241.89,15.0,Card,Returned,4.0
+2355,2025-03-14,C292,Kavya,Kolkata,West Bengal,Office Chair,Furniture,1,8182.41,10.0,Card,Returned,4.0
+2356,2025-12-31,C291,Kavya,Kochi,Kerala,Coffee Maker,Home Appliances,1,6732.63,10.0,UPI,Completed,5.0
+2357,2025-08-15,C236,Varun,Kolkata,West Bengal,Mouse,Electronics,4,769.36,10.0,Net Banking,Completed,4.0
+2358,2025-01-20,C116,Priya,Hyderabad,Telangana,Office Chair,Furniture,5,8608.42,5.0,Net Banking,Completed,4.0
+2359,2025-08-20,C211,Rahul,Chennai,Tamil Nadu,Laptop,Electronics,2,53118.07,5.0,Card,Completed,5.0
+2360,2025-01-14,C150,Ishita,Pune,Maharashtra,Coffee Maker,Home Appliances,2,6664.33,10.0,UPI,Completed,5.0
+2361,2025-10-16,C134,Ishita,Kolkata,West Bengal,Study Table,Furniture,3,7242.02,5.0,UPI,Completed,4.0
+2362,2025-01-24,C211,Rahul,Mumbai,Maharashtra,Study Table,Furniture,1,7053.94,15.0,Card,Returned,5.0
+2363,2025-10-15,C204,Arjun,Kolkata,West Bengal,Office Chair,Furniture,5,8191.21,5.0,UPI,Cancelled,5.0
+2364,2025-10-01,C153,Priya,Bangalore,Karnataka,T-Shirt,Fashion,3,913.99,10.0,Cash on Delivery,Cancelled,5.0
+2365,2025-11-01,C292,Kavya,Kolkata,West Bengal,Jeans,Fashion,3,2218.53,10.0,UPI,Completed,4.0
+2366,2025-04-10,C262,Nikhil,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6180.44,20.0,Card,Cancelled,3.0
+2367,2025-02-06,C270,Nikhil,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,2,6460.37,0.0,UPI,Returned,4.0
+2368,2025-04-29,C283,Aditya,Hyderabad,Telangana,Backpack,Accessories,3,1875.65,10.0,UPI,Completed,5.0
+2369,2025-08-20,C274,Priya,Jaipur,Rajasthan,Coffee Maker,Home Appliances,1,6503.73,0.0,Card,Returned,4.0
+2370,2025-06-06,C146,Arjun,Delhi,Delhi,Mixer Grinder,Home Appliances,2,4656.4,10.0,Cash on Delivery,Completed,3.0
+2371,2025-07-22,C177,Vikram,Chennai,Tamil Nadu,Mouse,Electronics,1,833.34,5.0,Cash on Delivery,Completed,5.0
+2372,2025-12-01,C195,Neha,Hyderabad,Telangana,Jeans,Fashion,1,2187.44,0.0,Net Banking,Completed,2.0
+2373,2025-11-08,C220,Sanjay,Pune,Maharashtra,Office Chair,Furniture,4,8668.4,5.0,Net Banking,Completed,5.0
+2374,2025-12-27,C262,Nikhil,Ahmedabad,Gujarat,T-Shirt,Fashion,1,855.87,15.0,Net Banking,Returned,1.0
+2375,2025-05-06,C187,Arjun,Delhi,Delhi,Study Table,Furniture,1,6877.54,10.0,Cash on Delivery,Completed,4.0
+2376,2025-05-20,C278,Sanjay,Bangalore,Karnataka,Running Shoes,Fashion,2,3630.15,20.0,UPI,Returned,2.0
+2377,2025-08-22,C150,Ishita,Chennai,Tamil Nadu,Study Table,Furniture,3,7193.86,10.0,Net Banking,Returned,5.0
+2378,2025-05-27,C181,Neha,Jaipur,Rajasthan,Jeans,Fashion,1,2272.42,10.0,Net Banking,Completed,5.0
+2379,2025-09-07,C159,Priya,Delhi,Delhi,Backpack,Accessories,3,1859.05,5.0,Cash on Delivery,Returned,5.0
+2380,2025-11-02,C123,Aman,Mumbai,Maharashtra,Study Table,Furniture,4,6769.93,10.0,Card,Completed,5.0
+2381,2025-08-16,C108,Aditya,Ahmedabad,Gujarat,Bookshelf,Furniture,2,5919.87,15.0,Net Banking,Completed,3.0
+2382,2025-03-27,C274,Priya,Pune,Maharashtra,Study Table,Furniture,4,6862.42,5.0,UPI,Cancelled,4.0
+2383,2025-09-20,C184,Nikhil,Hyderabad,Telangana,Coffee Maker,Home Appliances,5,6710.66,0.0,Card,Cancelled,4.0
+2384,2025-12-09,C168,Kavya,Chennai,Tamil Nadu,Watch,Accessories,5,4527.89,0.0,Card,Completed,5.0
+2385,2025-05-05,C223,Riya,Jaipur,Rajasthan,Running Shoes,Fashion,1,3329.08,0.0,UPI,Cancelled,1.0
+2386,2025-09-28,C266,Priya,Pune,Maharashtra,Running Shoes,Fashion,2,3517.32,10.0,UPI,Returned,5.0
+2387,2025-03-18,C193,Vikram,Mumbai,Maharashtra,Laptop,Electronics,2,55298.77,5.0,Cash on Delivery,Completed,4.0
+2388,2025-10-14,C207,Kiran,Jaipur,Rajasthan,Backpack,Accessories,1,1849.26,5.0,Net Banking,Completed,4.0
+2389,2025-06-28,C178,Rohit,Bangalore,Karnataka,T-Shirt,Fashion,2,916.94,0.0,Net Banking,Cancelled,4.0
+2390,2025-06-29,C187,Arjun,Delhi,Delhi,Mouse,Electronics,5,823.26,10.0,Card,Cancelled,2.0
+2391,2025-01-20,C179,Rahul,Hyderabad,Telangana,Backpack,Accessories,3,1863.39,0.0,UPI,Completed,4.0
+2392,2025-09-26,C261,Nikhil,Pune,Maharashtra,Bookshelf,Furniture,1,5920.17,5.0,Card,Completed,5.0
+2393,2025-05-18,C287,Riya,Pune,Maharashtra,Laptop,Electronics,1,55542.5,15.0,Cash on Delivery,Completed,3.0
+2394,2025-08-14,C187,Arjun,Mumbai,Maharashtra,Keyboard,Electronics,1,1440.19,0.0,Net Banking,Returned,5.0
+2395,2025-01-19,C107,Sanjay,Kolkata,West Bengal,Smartphone,Electronics,1,27388.23,10.0,UPI,Cancelled,4.0
+2396,2025-01-10,C206,Arjun,Chennai,Tamil Nadu,Office Chair,Furniture,2,8794.2,5.0,UPI,Returned,5.0
+2397,2025-11-06,C249,Vikram,Pune,Maharashtra,Smartphone,Electronics,2,27319.13,0.0,Card,Cancelled,5.0
+2398,2025-12-29,C200,Kiran,Kochi,Kerala,Smartphone,Electronics,5,29197.17,15.0,Card,Returned,5.0
+2399,2025-12-24,C268,Nikhil,Kolkata,West Bengal,Mixer Grinder,Home Appliances,1,5016.29,20.0,Cash on Delivery,Returned,5.0
+2400,2025-03-21,C187,Arjun,Bangalore,Karnataka,Study Table,Furniture,5,7310.96,20.0,Net Banking,Returned,2.0
+2401,2025-06-14,C241,Aditya,Jaipur,Rajasthan,Mixer Grinder,Home Appliances,1,4985.56,10.0,Cash on Delivery,Returned,3.0
+2402,2025-07-26,C164,Aman,Ahmedabad,Gujarat,Study Table,Furniture,2,7152.91,15.0,Cash on Delivery,Completed,1.0
+2403,2025-07-12,C241,Aditya,Kolkata,West Bengal,Office Chair,Furniture,1,8474.37,5.0,Cash on Delivery,Completed,4.0
+2404,2025-08-31,C233,Sanjay,Jaipur,Rajasthan,Jeans,Fashion,2,2277.88,20.0,UPI,Completed,2.0
+2405,2025-04-26,C121,Meera,Pune,Maharashtra,Watch,Accessories,4,4590.97,10.0,Net Banking,Completed,3.0
+2406,2025-12-17,C228,Aman,Kolkata,West Bengal,Office Chair,Furniture,5,8396.47,10.0,Cash on Delivery,Completed,5.0
+2407,2025-03-10,C170,Ishita,Chennai,Tamil Nadu,Bookshelf,Furniture,1,5786.83,10.0,UPI,Cancelled,4.0
+2408,2025-10-31,C278,Sanjay,Kolkata,West Bengal,Mixer Grinder,Home Appliances,1,4781.3,5.0,Net Banking,Returned,4.0
+2409,2025-08-10,C247,Rohit,Ahmedabad,Gujarat,Study Table,Furniture,1,7253.51,10.0,Card,Completed,5.0
+2410,2025-12-12,C273,Priya,Hyderabad,Telangana,Office Chair,Furniture,1,8892.5,20.0,Net Banking,Completed,1.0
+2411,2025-05-18,C117,Rahul,Mumbai,Maharashtra,Mouse,Electronics,3,815.17,5.0,Card,Completed,1.0
+2412,2025-12-26,C271,Nikhil,Kochi,Kerala,Study Table,Furniture,2,6876.03,5.0,Net Banking,Completed,2.0
+2413,2025-04-05,C206,Arjun,Delhi,Delhi,Watch,Accessories,5,4505.16,10.0,Card,Completed,4.0
+2414,2025-06-11,C225,Kiran,Chennai,Tamil Nadu,Smartphone,Electronics,1,28796.62,5.0,Card,Completed,1.0
+2415,2025-10-20,C168,Kavya,Kochi,Kerala,Mixer Grinder,Home Appliances,1,4850.38,5.0,Card,Completed,5.0
+2416,2025-04-03,C246,Varun,Bangalore,Karnataka,Coffee Maker,Home Appliances,2,6414.57,5.0,Card,Completed,3.0
+2417,2025-01-24,C207,Kiran,Ahmedabad,Gujarat,Laptop,Electronics,2,52976.37,15.0,Net Banking,Returned,3.0
+2418,2025-11-03,C117,Rahul,Delhi,Delhi,Keyboard,Electronics,1,1454.98,15.0,Net Banking,Cancelled,5.0
+2419,2025-07-28,C103,Aman,Hyderabad,Telangana,Backpack,Accessories,3,1783.42,0.0,Net Banking,Completed,1.0
+2420,2025-09-14,C162,Divya,Ahmedabad,Gujarat,Headphones,Electronics,1,2431.72,10.0,UPI,Completed,4.0
+2421,2025-06-04,C291,Kavya,Mumbai,Maharashtra,Watch,Accessories,3,4639.4,10.0,Net Banking,Completed,5.0
+2422,2025-10-19,C280,Pooja,Bangalore,Karnataka,Coffee Maker,Home Appliances,4,6545.86,15.0,Card,Returned,3.0
+2423,2025-10-02,C213,Divya,Delhi,Delhi,Coffee Maker,Home Appliances,3,6500.73,10.0,Cash on Delivery,Completed,5.0
+2424,2025-10-15,C169,Varun,Kochi,Kerala,Backpack,Accessories,5,1853.31,5.0,Cash on Delivery,Returned,5.0
+2425,2025-07-09,C135,Sneha,Bangalore,Karnataka,Office Chair,Furniture,2,8794.57,5.0,Card,Completed,4.0
+2426,2025-09-25,C133,Vikram,Ahmedabad,Gujarat,Keyboard,Electronics,1,1559.92,5.0,Cash on Delivery,Returned,5.0
+2427,2025-06-05,C240,Riya,Jaipur,Rajasthan,Backpack,Accessories,1,1795.67,5.0,Cash on Delivery,Completed,2.0
+2428,2025-06-04,C207,Kiran,Ahmedabad,Gujarat,Office Chair,Furniture,5,8606.37,5.0,UPI,Completed,5.0
+2429,2025-05-26,C214,Vikram,Pune,Maharashtra,Headphones,Electronics,2,2503.37,10.0,Cash on Delivery,Completed,4.0
+2430,2025-11-12,C210,Arjun,Delhi,Delhi,Mouse,Electronics,1,802.75,20.0,Net Banking,Completed,4.0
+2431,2025-08-05,C275,Kiran,Bangalore,Karnataka,Watch,Accessories,1,4383.99,5.0,Net Banking,Returned,4.0
+2432,2025-05-08,C115,Ananya,Bangalore,Karnataka,Watch,Accessories,5,4559.98,0.0,Cash on Delivery,Completed,5.0
+2433,2025-03-10,C233,Sanjay,Delhi,Delhi,Watch,Accessories,1,4405.13,20.0,Cash on Delivery,Returned,4.0
+2434,2025-04-21,C156,Sneha,Jaipur,Rajasthan,Keyboard,Electronics,5,1468.54,0.0,Net Banking,Returned,5.0
+2435,2025-02-17,C193,Vikram,Mumbai,Maharashtra,Office Chair,Furniture,3,8776.52,0.0,Card,Completed,4.0
+2436,2025-04-24,C257,Pooja,Mumbai,Maharashtra,T-Shirt,Fashion,4,897.06,5.0,UPI,Cancelled,5.0
+2437,2025-11-22,C261,Nikhil,Delhi,Delhi,Mixer Grinder,Home Appliances,2,4880.87,10.0,Card,Completed,5.0
+2438,2025-03-13,C261,Nikhil,Mumbai,Maharashtra,Laptop,Electronics,1,54972.81,5.0,Net Banking,Cancelled,5.0
+2439,2025-04-17,C196,Pooja,Kochi,Kerala,Smartphone,Electronics,1,28648.97,15.0,Net Banking,Cancelled,5.0
+2440,2025-08-23,C196,Pooja,Hyderabad,Telangana,Backpack,Accessories,5,1872.75,10.0,Net Banking,Completed,5.0
+2441,2025-01-05,C287,Riya,Mumbai,Maharashtra,Smartphone,Electronics,5,28325.41,0.0,Card,Completed,3.0
+2442,2025-07-26,C218,Meera,Hyderabad,Telangana,Office Chair,Furniture,1,8792.05,10.0,Cash on Delivery,Completed,3.0
+2443,2025-04-27,C191,Vikram,Jaipur,Rajasthan,Mouse,Electronics,5,776.9,5.0,Card,Completed,5.0
+2444,2025-05-11,C210,Arjun,Mumbai,Maharashtra,Bookshelf,Furniture,1,6024.9,0.0,Card,Completed,3.0
+2445,2025-08-06,C200,Kiran,Hyderabad,Telangana,Backpack,Accessories,5,1827.22,5.0,Net Banking,Completed,2.0
+2446,2025-05-30,C256,Meera,Delhi,Delhi,Watch,Accessories,1,4505.95,5.0,Net Banking,Completed,1.0
+2447,2025-01-24,C142,Vikram,Kolkata,West Bengal,Headphones,Electronics,2,2511.67,20.0,Net Banking,Completed,3.0
+2448,2025-06-25,C278,Sanjay,Chennai,Tamil Nadu,Coffee Maker,Home Appliances,1,6334.45,20.0,Cash on Delivery,Completed,5.0
+2449,2025-04-20,C204,Arjun,Ahmedabad,Gujarat,Mixer Grinder,Home Appliances,1,4678.41,5.0,Cash on Delivery,Completed,4.0
+2450,2025-11-17,C200,Kiran,Hyderabad,Telangana,Headphones,Electronics,4,2450.16,15.0,Cash on Delivery,Completed,5.0
+2451,2025-08-01,C107,Sanjay,Ahmedabad,Gujarat,Headphones,Electronics,1,2541.2,15.0,UPI,Returned,4.0
+2452,2025-09-06,C195,Neha,Kolkata,West Bengal,Backpack,Accessories,3,1840.86,15.0,Card,Completed,5.0
+2453,2025-09-16,C213,Divya,Mumbai,Maharashtra,Bookshelf,Furniture,1,6015.91,0.0,Cash on Delivery,Completed,4.0
+2454,2025-05-06,C291,Kavya,Hyderabad,Telangana,Mixer Grinder,Home Appliances,3,4640.22,10.0,UPI,Cancelled,4.0
+2455,2025-01-20,C153,Priya,Kolkata,West Bengal,Office Chair,Furniture,3,8148.83,0.0,UPI,Completed,2.0
+2456,2025-10-28,C235,Meera,Bangalore,Karnataka,Smartphone,Electronics,3,27340.33,10.0,Cash on Delivery,Cancelled,5.0
+2457,2025-01-25,C299,Sneha,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,2,4740.12,10.0,UPI,Completed,3.0
+2458,2025-02-26,C256,Meera,Kochi,Kerala,Keyboard,Electronics,1,1549.3,5.0,UPI,Completed,5.0
+2459,2025-10-31,C212,Kiran,Pune,Maharashtra,Mouse,Electronics,2,815.72,10.0,Net Banking,Returned,5.0
+2460,2025-04-15,C262,Nikhil,Kolkata,West Bengal,Coffee Maker,Home Appliances,4,6484.34,5.0,Net Banking,Completed,2.0
+2461,2025-05-30,C281,Ananya,Mumbai,Maharashtra,Backpack,Accessories,5,1790.74,10.0,Net Banking,Completed,5.0
+2462,2025-10-16,C288,Priya,Kochi,Kerala,Backpack,Accessories,1,1858.53,0.0,Cash on Delivery,Completed,2.0
+2463,2025-01-09,C249,Vikram,Mumbai,Maharashtra,Laptop,Electronics,1,54706.31,5.0,Card,Completed,4.0
+2464,2025-03-13,C104,Aditya,Delhi,Delhi,Jeans,Fashion,5,2273.77,10.0,Net Banking,Returned,1.0
+2465,2025-02-20,C288,Priya,Pune,Maharashtra,Running Shoes,Fashion,5,3610.31,15.0,UPI,Completed,2.0
+2466,2025-11-25,C145,Aman,Kochi,Kerala,Mixer Grinder,Home Appliances,2,4882.08,0.0,UPI,Completed,5.0
+2467,2025-10-23,C187,Arjun,Hyderabad,Telangana,Coffee Maker,Home Appliances,5,6296.11,10.0,Net Banking,Completed,5.0
+2468,2025-10-22,C169,Varun,Pune,Maharashtra,T-Shirt,Fashion,2,913.24,0.0,Card,Completed,3.0
+2469,2025-02-23,C139,Priya,Pune,Maharashtra,Mouse,Electronics,1,809.25,0.0,Net Banking,Returned,4.0
+2470,2025-04-12,C265,Vikram,Pune,Maharashtra,Mixer Grinder,Home Appliances,1,4602.49,0.0,Cash on Delivery,Cancelled,4.0
+2471,2025-03-25,C131,Vikram,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,2,4954.81,5.0,Card,Cancelled,5.0
+2472,2025-04-01,C290,Aditya,Mumbai,Maharashtra,Watch,Accessories,4,4495.79,15.0,Card,Cancelled,2.0
+2473,2025-02-27,C192,Rohit,Chennai,Tamil Nadu,Mouse,Electronics,1,788.6,15.0,Card,Completed,4.0
+2474,2025-11-25,C257,Pooja,Bangalore,Karnataka,Running Shoes,Fashion,1,3471.43,5.0,Card,Completed,5.0
+2475,2025-08-08,C148,Nikhil,Bangalore,Karnataka,Jeans,Fashion,5,2131.08,15.0,Net Banking,Returned,2.0
+2476,2025-11-28,C288,Priya,Delhi,Delhi,Study Table,Furniture,1,6941.47,0.0,Net Banking,Completed,5.0
+2477,2025-03-07,C165,Neha,Bangalore,Karnataka,Running Shoes,Fashion,3,3581.68,10.0,UPI,Cancelled,1.0
+2478,2025-11-10,C270,Nikhil,Mumbai,Maharashtra,Coffee Maker,Home Appliances,1,6504.64,10.0,Cash on Delivery,Completed,5.0
+2479,2025-10-16,C259,Rohit,Delhi,Delhi,Coffee Maker,Home Appliances,2,6421.45,0.0,Card,Completed,4.0
+2480,2025-02-24,C268,Nikhil,Hyderabad,Telangana,Running Shoes,Fashion,1,3433.98,5.0,Card,Completed,5.0
+2481,2025-10-13,C272,Nikhil,Pune,Maharashtra,Office Chair,Furniture,4,8681.06,0.0,Card,Completed,2.0
+2482,2025-01-18,C162,Divya,Delhi,Delhi,Office Chair,Furniture,1,8361.64,10.0,Card,Returned,4.0
+2483,2025-03-15,C188,Rahul,Pune,Maharashtra,Keyboard,Electronics,5,1478.34,10.0,Card,Returned,5.0
+2484,2025-05-29,C118,Pooja,Hyderabad,Telangana,Office Chair,Furniture,3,8298.49,10.0,Card,Completed,5.0
+2485,2025-10-17,C207,Kiran,Jaipur,Rajasthan,Keyboard,Electronics,2,1540.87,10.0,Cash on Delivery,Cancelled,1.0
+2486,2025-01-08,C233,Sanjay,Chennai,Tamil Nadu,Keyboard,Electronics,1,1499.03,15.0,UPI,Cancelled,5.0
+2487,2025-12-23,C128,Arjun,Kolkata,West Bengal,Running Shoes,Fashion,1,3665.17,0.0,Card,Returned,5.0
+2488,2025-04-25,C126,Pooja,Jaipur,Rajasthan,Bookshelf,Furniture,2,5814.27,10.0,Net Banking,Completed,4.0
+2489,2025-11-20,C231,Varun,Bangalore,Karnataka,Headphones,Electronics,3,2523.84,0.0,UPI,Completed,5.0
+2490,2025-03-08,C201,Arjun,Chennai,Tamil Nadu,Mixer Grinder,Home Appliances,2,4701.54,15.0,UPI,Completed,5.0
+2491,2025-01-17,C270,Nikhil,Bangalore,Karnataka,Bookshelf,Furniture,5,5712.98,20.0,Net Banking,Completed,2.0
+2492,2025-02-04,C272,Nikhil,Kolkata,West Bengal,Office Chair,Furniture,4,8212.9,20.0,UPI,Cancelled,5.0
+2493,2025-06-25,C153,Priya,Delhi,Delhi,Study Table,Furniture,2,7007.91,10.0,Card,Cancelled,5.0
+2494,2025-11-18,C275,Kiran,Kochi,Kerala,Mouse,Electronics,1,775.65,5.0,Card,Cancelled,1.0
+2495,2025-07-25,C174,Aman,Mumbai,Maharashtra,Running Shoes,Fashion,5,3450.71,10.0,Card,Cancelled,4.0
+2496,2025-03-24,C191,Vikram,Hyderabad,Telangana,T-Shirt,Fashion,1,890.34,5.0,UPI,Completed,2.0
+2497,2025-10-10,C121,Meera,Mumbai,Maharashtra,Bookshelf,Furniture,2,5784.47,10.0,Cash on Delivery,Completed,2.0
+2498,2025-10-03,C195,Neha,Kolkata,West Bengal,Jeans,Fashion,1,2095.27,10.0,Net Banking,Cancelled,3.0
+2499,2025-01-14,C275,Kiran,Bangalore,Karnataka,Laptop,Electronics,1,56845.64,5.0,Cash on Delivery,Cancelled,5.0
+2500,2025-06-13,C150,Ishita,Delhi,Delhi,Watch,Accessories,5,4523.41,5.0,Cash on Delivery,Completed,1.0
+1548,2025-06-20,C203,Neha,Chennai,Tamil Nadu,Jeans,Fashion,1,2245.79,10.0,UPI,Returned,4.0
+1985,2025-07-29,C263,Riya,Chennai,Tamil Nadu,Office Chair,Furniture,1,8573.74,10.0,Net Banking,Completed,5.0
+1713,2025-04-03,C230,Sneha,Hyderabad,Telangana,Mouse,Electronics,5,813.05,10.0,Net Banking,Cancelled,4.0
+1639,2025-07-27,C271,Nikhil,Bangalore,Karnataka,Mouse,Electronics,2,802.38,20.0,UPI,Cancelled,1.0
+1472,2025-05-15,C250,Ananya,Kochi,Kerala,Backpack,Accessories,3,1746.2,20.0,UPI,Completed,5.0
